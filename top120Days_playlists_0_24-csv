@@ -1,0 +1,2219 @@
+,id,tempo,key,loudness,beat,popularity,energy,danceability,positiveness,speechiness,liveness,acousticness,instrumentalness
+0,2fOazsCfbGoDQqwxIJLUzG,174 BPM,G min,-8.5db,4/4,54%,58%,56%,37%,4%,14%,15%,1%
+1,567NwM1L86vGvZwiZfCsMo,147 BPM,F# min,-5.45db,4/4,62%,93%,62%,86%,3%,30%,2%,1%
+2,6OJblc63vbMcC9uEIY1Hpq,113 BPM,F# min,-9.84db,4/4,50%,49%,83%,36%,5%,10%,43%,0%
+3,3Rq1cgwfOjGCH8oxb9jiOz,101 BPM,C# Maj,-11.57db,4/4,49%,55%,53%,43%,4%,10%,47%,11%
+4,6OieTz3MN0a5jXsnkI6biW,152 BPM,A Maj,-6db,4/4,48%,68%,64%,63%,3%,19%,35%,0%
+5,27AutLvnusrHlvxUdHJOtA,102 BPM,G min,-6.86db,4/4,44%,69%,76%,69%,6%,9%,14%,7%
+6,21fhgH4tjYcAKzkzCuYyr6,114 BPM,F# min,-6.09db,4/4,64%,64%,94%,75%,4%,6%,1%,0%
+7,7lUA4P03AhwAw40JHkdyGr,130 BPM,B Maj,-6.76db,4/4,59%,62%,51%,20%,5%,35%,0%,0%
+8,1z9cFQp5CGOAsACK2IWzCG,112 BPM,F min,-9.46db,4/4,54%,56%,82%,70%,4%,6%,12%,0%
+9,2hrycoFU1mZw6YPvMcn8yC,160 BPM,A# min,-3.77db,4/4,83%,63%,64%,35%,3%,9%,16%,0%
+10,1gM44tVZ9pfUe9v35Stp31,113 BPM,A# min,-11.64db,4/4,61%,66%,79%,68%,5%,3%,7%,11%
+11,7hO6BIPeHb0Y5v9bgXoxKg,118 BPM,G min,-7.84db,4/4,62%,76%,72%,73%,4%,4%,12%,8%
+12,2pdid5w8VxdgMmYlp7r17z,109 BPM,F Maj,-8.47db,3/4,57%,58%,71%,75%,4%,7%,55%,0%
+13,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+14,7hw154xwGzBHR5lBqICtaO,113 BPM,F# min,-10.63db,4/4,47%,55%,80%,82%,5%,3%,0%,1%
+15,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+16,4qvtc6lKexxfwCOnxbh2iR,68 BPM,F# Maj,-7.96db,4/4,36%,84%,57%,79%,4%,29%,8%,0%
+17,5rgeVhxtabdkelfTeSzHGK,113 BPM,C# Maj,-6.03db,4/4,32%,89%,81%,64%,3%,10%,2%,0%
+18,3YbWbLKexX7qyDjWxs4s9h,116 BPM,G Maj,-10.97db,3/4,41%,33%,71%,22%,5%,8%,50%,0%
+19,0NjnHSiy9He3Y0jKQCSA8P,127 BPM,B Maj,-7.52db,4/4,45%,81%,88%,66%,6%,7%,1%,25%
+20,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+21,,,,,,,,,,,,,
+22,5kDgJffgJ0lYHTSiaXFWNw,162 BPM,B min,-5.09db,3/4,79%,74%,42%,13%,5%,19%,2%,0%
+23,,,,,,,,,,,,,
+24,54seQV7MCcppBrznALCdlT,112 BPM,E min,-11.43db,4/4,62%,56%,86%,50%,6%,2%,1%,18%
+25,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+26,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+27,5z7l1HQ9KzqT8yLcViRG1L,160 BPM,A# Maj,-1.21db,4/4,59%,84%,63%,39%,4%,36%,46%,0%
+28,,,,,,,,,,,,,
+29,0sMRKQTCPf3zHOrF33nL2t,103 BPM,F min,-5.43db,4/4,44%,70%,78%,67%,6%,10%,26%,1%
+30,1S1K6RxkEkm9a9op800QEk,114 BPM,C Maj,-7.68db,4/4,54%,47%,88%,58%,5%,7%,2%,3%
+31,6qS9yoAUIXNfno5t4YLQdn,154 BPM,F Maj,-7.98db,4/4,65%,68%,74%,56%,11%,53%,11%,0%
+32,4CG7S7iOYsp2lwAnpMFTNu,80 BPM,G# Maj,-12.28db,4/4,43%,21%,39%,22%,3%,13%,82%,0%
+33,12NC5GLTjV64paT9RIUEUP,127 BPM,C# Maj,-6.76db,4/4,32%,78%,84%,24%,4%,10%,0%,7%
+34,2h2RBdHnLL63FE9k3gxGF5,150 BPM,A# Maj,-10.98db,4/4,45%,46%,68%,56%,4%,8%,60%,0%
+35,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+36,2xRYnHQdLD9ketvC01UYYT,120 BPM,C# min,-9.48db,4/4,66%,57%,66%,21%,4%,17%,2%,0%
+37,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+38,0fYfr7tY8rxHX8bcWsaCF9,112 BPM,A# Maj,-11.23db,4/4,51%,45%,73%,92%,5%,33%,14%,0%
+39,7EGJk2dluf3ahwKa9Ognkc,98 BPM,D# Maj,-14.11db,4/4,50%,16%,20%,12%,3%,6%,79%,0%
+40,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+41,7KKzhrCpFfgviTmg0aa5sH,129 BPM,G# Maj,-6.08db,3/4,28%,92%,31%,69%,21%,37%,1%,0%
+42,3IvaxnD6qYGgx53Tdfa20W,124 BPM,G Maj,-7.03db,4/4,37%,60%,75%,45%,5%,4%,10%,6%
+43,0XL739B0YtcYVs6weACXW0,131 BPM,G Maj,-5.66db,4/4,30%,69%,23%,43%,5%,75%,1%,1%
+44,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+45,1m0qZIhHH1v0gKogp6l34W,96 BPM,G# min,-5.66db,4/4,57%,64%,77%,33%,6%,12%,18%,0%
+46,3H8XWGDteOl8nmUqeYrHw5,160 BPM,F min,-7.99db,3/4,58%,41%,53%,10%,9%,11%,65%,0%
+47,,,,,,,,,,,,,
+48,3iDjyLspSwNwkeQzPQfjWu,114 BPM,D Maj,-11.56db,4/4,38%,54%,85%,20%,6%,12%,3%,1%
+49,4G5XT0rNMKVm1pkLjcED51,123 BPM,A# min,-10.15db,4/4,38%,88%,80%,61%,6%,6%,1%,55%
+50,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+51,6eyJuobFFGXLAOOkxrIdSV,95 BPM,G# Maj,-9.19db,4/4,59%,40%,69%,46%,5%,11%,75%,0%
+52,2rkUVpUm885ZdY06e3Ub0v,136 BPM,G min,-11db,1/4,44%,23%,58%,35%,3%,10%,90%,0%
+53,3w1xg3rt6XZ8GLVuzmW5Vn,150 BPM,F min,-7.65db,1/4,48%,53%,56%,33%,6%,22%,19%,0%
+54,357kKXPxLVdN86xYzX3RGo,83 BPM,C# Maj,-9.06db,3/4,51%,56%,54%,68%,24%,4%,10%,0%
+55,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+56,629DixmZGHc7ILtEntuiWE,125 BPM,B min,-7.98db,4/4,85%,40%,89%,94%,6%,6%,5%,8%
+57,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+58,6VdatWk9QZOG0Uw4QtOiMi,85 BPM,G# Maj,-6.16db,3/4,32%,44%,58%,60%,5%,8%,85%,0%
+59,6ZiPVgBrULcpN0n9qQ3XO4,113 BPM,C# Maj,-7.06db,4/4,55%,62%,90%,75%,4%,5%,4%,0%
+60,6MJ2zbeyqzQteAB9rEc9VX,112 BPM,C Maj,-8.16db,5/4,49%,55%,49%,16%,13%,10%,68%,0%
+61,0cnbEf12FLBWx9QnBlw1EL,118 BPM,D# min,-13.9db,4/4,59%,54%,77%,53%,5%,8%,48%,76%
+62,1DwpJCFR4CgevQJvJHmUw3,68 BPM,E min,-21.86db,4/4,39%,8%,17%,8%,4%,10%,98%,88%
+63,,,,,,,,,,,,,
+64,7JNPhwzFNg4pb7wZqfR5ms,112 BPM,C# Maj,-7.62db,4/4,56%,70%,83%,55%,6%,16%,0%,1%
+65,,,,,,,,,,,,,
+66,2Tq74qxy5wbhum0xYShZWB,144 BPM,C Maj,-7.76db,4/4,30%,56%,57%,72%,32%,20%,44%,0%
+67,5mBG5dkbCtaKrqXbHGVfLe,116 BPM,C# Maj,-5.29db,3/4,48%,74%,59%,89%,12%,5%,6%,0%
+68,1eYIG1wKye5nqyhqqvWd07,75 BPM,G# Maj,-6.36db,4/4,23%,80%,60%,91%,6%,9%,17%,0%
+69,0yhyQz8xMcdHEMc3eEWvYl,198 BPM,F# Maj,-7.67db,3/4,16%,84%,61%,84%,8%,8%,46%,0%
+70,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+71,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+72,1hnB525vM5GrFr5AQIXQu8,117 BPM,F Maj,-8.35db,4/4,59%,63%,78%,52%,5%,9%,1%,26%
+73,5SlrpLUlBkq107utJ3DoTR,170 BPM,C Maj,-7.9db,3/4,52%,42%,19%,8%,4%,15%,30%,0%
+74,5xeSd4HgzrYpNLEf3LfYLK,167 BPM,C# Maj,-4.69db,4/4,81%,68%,83%,68%,36%,23%,0%,0%
+75,3qKcYeDYspDlugWNQikTBI,99 BPM,A# Maj,-5db,4/4,48%,78%,66%,61%,3%,45%,2%,0%
+76,4spVjExptaTpWTAv5mH5BP,117 BPM,G# Maj,-7.57db,3/4,38%,66%,65%,33%,3%,10%,1%,2%
+77,4zZxynw8cwhCRlDl9pay2f,112 BPM,D min,-11.1db,4/4,61%,52%,71%,36%,3%,13%,10%,0%
+78,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+79,1fWph4N0B2qMs916CIjVdR,84 BPM,D# Maj,-4.12db,4/4,42%,69%,43%,20%,6%,13%,36%,0%
+80,59uuKDpLFhHtCWwMudospF,126 BPM,G# Maj,-6.06db,5/4,62%,40%,43%,20%,3%,18%,66%,0%
+81,3HH6ACm3OG9DtmfUGq3jOg,125 BPM,B Maj,-7.05db,4/4,39%,83%,73%,39%,8%,22%,18%,80%
+82,2b35KuJzUmtfroem1tRM8R,156 BPM,F# Maj,-8.06db,3/4,48%,55%,29%,27%,6%,37%,49%,0%
+83,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+84,0B3FovCVaGKS5w1FTidEUP,120 BPM,F# Maj,-7.08db,5/4,58%,60%,60%,60%,23%,28%,5%,0%
+85,0DGP0pRR8yz4OW2xxjIskt,118 BPM,D Maj,-8.78db,4/4,57%,62%,68%,76%,3%,5%,0%,8%
+86,7k387aR1pMNkCDoycbmz16,81 BPM,B Maj,-10db,4/4,32%,57%,68%,51%,30%,12%,25%,0%
+87,1AhteYWd9IcNqUXEktUlfi,140 BPM,F# Maj,-6.35db,4/4,52%,50%,79%,76%,7%,10%,25%,0%
+88,2rG5irve5wjnyEfpTggxZs,176 BPM,D Maj,-8.15db,4/4,13%,28%,40%,33%,3%,12%,84%,0%
+89,5JtvedSVWW9McnoEAPJwQm,130 BPM,G# Maj,-8.64db,4/4,73%,43%,86%,37%,11%,11%,28%,0%
+90,2OipSqxigyiPVnDZMaww39,120 BPM,A# min,-4.79db,4/4,37%,90%,52%,36%,34%,10%,14%,0%
+91,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+92,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+93,5126E37MXDlVwL3GNsFE81,100 BPM,C Maj,-15.78db,4/4,47%,17%,52%,12%,3%,11%,57%,0%
+94,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+95,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+96,2l9CTBDxivy9PaIdx2JBKg,136 BPM,F min,-15.12db,4/4,44%,54%,77%,83%,5%,9%,7%,1%
+97,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+98,6vWgfrXEqjXhPvrJBrVwl7,130 BPM,F min,-5.12db,4/4,44%,63%,78%,69%,3%,8%,19%,0%
+99,4wJ5Qq0jBN4ajy7ouZIV1c,149 BPM,C min,-4.48db,4/4,89%,78%,78%,94%,26%,36%,3%,0%
+100,7xnILxMJwkLwyXsU9s20RC,125 BPM,D Maj,-10.92db,4/4,23%,50%,82%,92%,4%,15%,67%,90%
+101,2SQJhdUe0Ir7LyNAy0gjtN,138 BPM,F# min,-3.88db,4/4,31%,88%,78%,97%,3%,19%,7%,4%
+102,2vUV60hKAIOP1mFQ5LeHxk,114 BPM,C Maj,-14.08db,4/4,26%,21%,70%,20%,3%,11%,84%,78%
+103,4pNKtk3UR4k6HUfgq8an9d,146 BPM,C Maj,-4.9db,4/4,36%,56%,62%,51%,4%,48%,59%,0%
+104,446ygEWkggc5FMbBPQSMuM,124 BPM,D Maj,-4.55db,4/4,65%,92%,81%,82%,7%,18%,29%,0%
+105,0A0oqleZkyD8FN6aW48Jzn,114 BPM,G# Maj,-12.76db,4/4,57%,24%,35%,33%,4%,10%,96%,1%
+106,36OTrOxvVDK9jwkLdwr8VB,160 BPM,G# min,-15.67db,4/4,45%,46%,60%,52%,4%,12%,73%,77%
+107,6P7xEmk7ZZYz0AV84uOwiW,77 BPM,C Maj,-6.24db,4/4,53%,85%,80%,90%,12%,14%,68%,4%
+108,4p7DTkyrKqT98xlIwYYfXz,147 BPM,G# Maj,-4.22db,4/4,85%,71%,49%,32%,3%,15%,0%,0%
+109,,,,,,,,,,,,,
+110,1tvyVEB8uhBtlYeMLcm06A,128 BPM,A Maj,-11.68db,4/4,47%,29%,65%,32%,4%,23%,72%,0%
+111,40pWxpbXoBYGPCiofujjZ6,108 BPM,E min,-8.09db,4/4,66%,62%,72%,46%,3%,20%,6%,0%
+112,,,,,,,,,,,,,
+113,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+114,,,,,,,,,,,,,
+115,1WAjqZSzD09AIltjueMq9V,138 BPM,A min,-3.47db,4/4,32%,94%,67%,96%,3%,14%,0%,19%
+116,4rIBbB1vt0lEKDG2UTmfP0,114 BPM,A min,-9.47db,4/4,59%,52%,90%,58%,6%,11%,69%,0%
+117,226ljdOTLM2clGpm4mZvAm,139 BPM,E Maj,-16.5db,4/4,64%,29%,69%,58%,5%,20%,21%,0%
+118,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+119,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+120,,,,,,,,,,,,,
+121,5dzK0R3r4Bx4AfbDLuQIok,140 BPM,C Maj,-4.73db,4/4,19%,86%,67%,60%,3%,12%,9%,3%
+122,,,,,,,,,,,,,
+123,,,,,,,,,,,,,
+124,7ckso6VlW2CDT5ynizMoAS,140 BPM,A# min,-8.39db,4/4,32%,35%,51%,25%,3%,13%,88%,0%
+125,6gVcEa3yj1lSAmeuC1U5x1,143 BPM,F# Maj,-3.5db,4/4,32%,93%,82%,78%,8%,9%,30%,0%
+126,,,,,,,,,,,,,
+127,,,,,,,,,,,,,
+128,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+129,3COYA2vgfcUhDyRlVpZy5p,102 BPM,F min,-6.81db,4/4,68%,69%,72%,44%,6%,16%,18%,0%
+130,4yR0Qfe3tgxCSxM7XEa2i6,90 BPM,F# min,-5.51db,4/4,41%,63%,58%,47%,4%,15%,85%,0%
+131,3Nn9QjxOEj1pleW9xTG6cq,120 BPM,C# Maj,-5.11db,4/4,62%,79%,86%,71%,5%,18%,9%,0%
+132,7fCeYpR02Q8JVuD88hJZVT,180 BPM,F Maj,-5.43db,4/4,62%,71%,46%,28%,5%,11%,51%,0%
+133,0ezCZF82GYZFV1W6W1os7N,140 BPM,C Maj,-7.58db,4/4,51%,45%,85%,55%,8%,16%,81%,32%
+134,,,,,,,,,,,,,
+135,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+136,,,,,,,,,,,,,
+137,,,,,,,,,,,,,
+138,0s7RyyUlQfd8mnnboHe18n,120 BPM,G# Maj,-7.6db,4/4,65%,66%,79%,48%,3%,12%,65%,0%
+139,2naHX4cacns359w3ugyt3P,150 BPM,B min,-3.16db,4/4,60%,89%,80%,65%,24%,9%,5%,0%
+140,2C4elZbXBlv6qkGwSHuH2r,140 BPM,D min,-2.17db,4/4,26%,99%,75%,97%,4%,11%,3%,39%
+141,746vyyjPK5BJ6koDWxKRQo,142 BPM,A min,-3.9db,4/4,33%,90%,75%,96%,4%,7%,3%,65%
+142,2oVLEoBVDvYrGmzrU7dEm5,128 BPM,F# Maj,-6.28db,4/4,66%,64%,59%,24%,4%,11%,29%,0%
+143,,,,,,,,,,,,,
+144,3hZt7LNhvbBIguro38LpUu,136 BPM,E min,-8.25db,4/4,48%,69%,74%,88%,3%,10%,64%,78%
+145,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+146,3J4sbN3CRw2YBdycfPl1AO,120 BPM,D Maj,-9.86db,4/4,34%,43%,85%,84%,5%,3%,46%,70%
+147,0e6fZkLArSmDIHnZcIua7t,130 BPM,A# Maj,-10.09db,4/4,66%,52%,70%,55%,5%,9%,52%,0%
+148,3vD9Pt5zHFzqPadRTYcXts,135 BPM,G Maj,-5.42db,4/4,21%,77%,72%,75%,3%,7%,0%,2%
+149,,,,,,,,,,,,,
+150,7k1CFzeYwVCJDxD7c3aL5a,102 BPM,E min,-6.75db,4/4,37%,48%,63%,36%,3%,15%,84%,0%
+151,3RfHfgwzn2UVIQBHGwUW7h,80 BPM,G min,-13.41db,4/4,37%,41%,55%,42%,4%,30%,75%,0%
+152,,,,,,,,,,,,,
+153,,,,,,,,,,,,,
+154,65cM1nyMf9pFDZVV8xmPX9,77 BPM,F Maj,-10.41db,4/4,59%,56%,58%,26%,4%,9%,63%,0%
+155,6L5ImrjJJKVYJQzjpARPXj,138 BPM,F# Maj,-5db,4/4,53%,68%,43%,42%,4%,10%,5%,0%
+156,7L785rjXacCL0K8DYueIGN,144 BPM,F Maj,-16.32db,4/4,15%,17%,47%,6%,10%,24%,97%,22%
+157,,,,,,,,,,,,,
+158,6ecdnYq7ob5tvxlT3U2xwV,105 BPM,A# min,-5.15db,4/4,56%,81%,88%,61%,14%,9%,8%,0%
+159,,,,,,,,,,,,,
+160,41DlPJXKTCypXdf2eSqa03,122 BPM,C# Maj,-8.38db,4/4,66%,53%,68%,22%,4%,9%,79%,0%
+161,6VbiCN6nVTe6bq5ycCRdnb,79 BPM,B Maj,-11.62db,4/4,31%,49%,58%,62%,3%,31%,66%,0%
+162,,,,,,,,,,,,,
+163,4G9hlKVIwuWE8qpW2UQpV3,84 BPM,C# Maj,-8.03db,4/4,67%,55%,61%,19%,4%,9%,40%,8%
+164,2GE2p2dFpxp7OIz2QOFBzW,85 BPM,C# Maj,-5.77db,4/4,63%,67%,66%,14%,19%,13%,31%,0%
+165,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+166,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+167,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+168,,,,,,,,,,,,,
+169,5Bm5nylAQQ6m5bt5T9dUOC,134 BPM,C Maj,-7.92db,3/4,30%,45%,39%,12%,3%,16%,15%,92%
+170,745Gcbpr85WWg6NBeIXgHO,120 BPM,D Maj,-3.76db,4/4,37%,75%,72%,73%,3%,18%,20%,0%
+171,,,,,,,,,,,,,
+172,4nXrVH5xwN1w6TpmP7uu8n,75 BPM,D Maj,-7.56db,4/4,70%,60%,48%,18%,39%,15%,85%,0%
+173,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+174,5xcbPD4goJOLumvbMoqXVV,118 BPM,A# Maj,-8.41db,4/4,52%,49%,90%,46%,8%,16%,30%,0%
+175,6VZyJoe0xBxzfMpcj5ZwJ0,125 BPM,F min,-5.81db,4/4,19%,66%,77%,87%,6%,27%,4%,0%
+176,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+177,0APdvNzoMcIP4OxUB36CdN,85 BPM,E min,-6db,4/4,50%,67%,75%,55%,23%,9%,26%,1%
+178,4nkahGcCYKR9Nt2k1H2X7W,120 BPM,A# min,-7.22db,4/4,58%,86%,90%,80%,7%,7%,8%,17%
+179,3T5Bg6yis8bTyIk8o1nxjf,120 BPM,C# min,-5.44db,4/4,52%,80%,97%,58%,22%,28%,1%,0%
+180,,,,,,,,,,,,,
+181,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+182,350wh2yGQHA66wb38fte1m,84 BPM,F min,-13.12db,4/4,23%,26%,56%,30%,7%,13%,80%,0%
+183,,,,,,,,,,,,,
+184,,,,,,,,,,,,,
+185,,,,,,,,,,,,,
+186,,,,,,,,,,,,,
+187,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+188,0r3qLw9YwoXES2c1fbp05j,141 BPM,D# min,-10.02db,4/4,40%,41%,81%,97%,46%,15%,77%,0%
+189,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+190,,,,,,,,,,,,,
+191,1DkA0BVHFYEBVD15zFWd5m,120 BPM,G Maj,-7.64db,4/4,33%,62%,95%,64%,18%,10%,19%,2%
+192,,,,,,,,,,,,,
+193,,,,,,,,,,,,,
+194,74ttlLAaMK4baVJmss8sIi,160 BPM,C min,-4.95db,4/4,24%,78%,49%,66%,7%,21%,37%,0%
+195,,,,,,,,,,,,,
+196,0iLaVAFazlX7I9VdIBFulE,107 BPM,E min,-6.32db,4/4,53%,62%,72%,11%,26%,26%,9%,0%
+197,6sq8v2aQhLUHTLVxDiwqwp,100 BPM,C Maj,-4.54db,4/4,27%,83%,84%,81%,5%,34%,13%,0%
+198,,,,,,,,,,,,,
+199,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+200,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+201,7a8uVHVO06cK8Ai6bqcEAp,80 BPM,B min,-6.37db,4/4,36%,50%,59%,66%,15%,9%,58%,0%
+202,,,,,,,,,,,,,
+203,1ffexZp7QsAa3R04gd6W2A,120 BPM,D min,-22.34db,4/4,52%,22%,71%,55%,4%,14%,53%,0%
+204,6qcF5deksSrj0Kt7Q5MIt5,122 BPM,C# min,-10.58db,4/4,27%,38%,77%,12%,6%,10%,87%,0%
+205,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+206,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+207,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+208,0GfWTZZOc7co6oVqyQ556l,103 BPM,D Maj,-4.64db,4/4,72%,68%,92%,39%,20%,18%,4%,0%
+209,4r4KJMXAfr4gn0uTY8ogD0,120 BPM,A# min,-6.09db,4/4,37%,68%,70%,45%,3%,12%,75%,0%
+210,1uXCmQYNckwQNcgnSoQjhv,128 BPM,A Maj,-4.29db,4/4,29%,88%,72%,22%,16%,15%,4%,71%
+211,,,,,,,,,,,,,
+212,,,,,,,,,,,,,
+213,22fHdH0AlaTTfFnLV6RsmF,130 BPM,A Maj,-2.03db,4/4,33%,99%,91%,96%,7%,8%,28%,6%
+214,1jgFeioctc38E4VOoPz1nr,120 BPM,E min,-9.07db,4/4,52%,46%,61%,41%,4%,15%,41%,0%
+215,4pTkDIlpFNoeWbahu8pVXW,87 BPM,D Maj,-9.08db,4/4,66%,58%,66%,55%,7%,11%,31%,91%
+216,25uaYWeYgGqDlOD7pRMoFb,120 BPM,F min,-8.27db,4/4,63%,40%,86%,61%,45%,10%,44%,0%
+217,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+218,5X57XIQdKL49iMfxwDg2ID,130 BPM,C# min,-8.16db,4/4,54%,50%,76%,62%,3%,10%,85%,68%
+219,3XtzXVqX1x2RVefBqABDeD,125 BPM,F min,-4.9db,4/4,44%,62%,72%,63%,4%,35%,11%,0%
+220,,,,,,,,,,,,,
+221,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+222,0s6vEUEL2Ij2tXXGLvgmLi,97 BPM,E min,-3.34db,4/4,72%,70%,56%,61%,4%,12%,94%,85%
+223,4kwT3dlcANNxqaBP6DxcS2,115 BPM,A min,-5.17db,4/4,18%,72%,71%,52%,3%,10%,44%,0%
+224,,,,,,,,,,,,,
+225,,,,,,,,,,,,,
+226,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+227,,,,,,,,,,,,,
+228,3WFGOQY9Qq34c7ykLJg5WD,87 BPM,E min,-4.39db,4/4,41%,60%,65%,54%,8%,17%,38%,0%
+229,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+230,6EjoOeF15lFeyTfs81FpNh,138 BPM,G# min,-6.3db,3/4,31%,55%,67%,59%,3%,9%,68%,0%
+231,,,,,,,,,,,,,
+232,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+233,4Z4bs4DWgOk24kvi8Nr8Yw,106 BPM,B min,-6.01db,4/4,32%,82%,72%,63%,3%,11%,44%,0%
+234,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+235,7pwagmoDkhaKiGJGd9YhJp,100 BPM,G# Maj,-9.86db,4/4,65%,82%,76%,43%,4%,10%,42%,90%
+236,6vAXZUUFKPdNqPdN98Zoay,90 BPM,G Maj,-5.02db,4/4,50%,73%,77%,64%,37%,15%,26%,0%
+237,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+238,5AeVHI8Ch7irMbODMiObp2,89 BPM,F# min,-9.7db,4/4,60%,44%,47%,4%,5%,9%,81%,3%
+239,4IrAfwniMX2MF4lopL6cfH,122 BPM,B min,-8.52db,3/4,35%,66%,80%,6%,4%,9%,2%,76%
+240,6QiMlAAWY6CV1ItB9oAgF2,120 BPM,C# min,-7.09db,4/4,69%,65%,73%,41%,13%,8%,1%,0%
+241,,,,,,,,,,,,,
+242,7A1iZ4kARh58dS1T2KwihX,83 BPM,E min,-7.32db,4/4,21%,55%,38%,40%,4%,11%,80%,0%
+243,,,,,,,,,,,,,
+244,,,,,,,,,,,,,
+245,1GtIXd8U3Nr1Mzv2gY9iIR,125 BPM,E min,-14.01db,3/4,19%,20%,56%,12%,3%,13%,99%,82%
+246,,,,,,,,,,,,,
+247,248jXFZEeVegppkVYqZWP5,85 BPM,G min,-17.54db,4/4,34%,39%,30%,61%,3%,12%,94%,94%
+248,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+249,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+250,6rzMFEuOXG56IbdOV7whYL,156 BPM,G# min,-12.64db,4/4,26%,37%,73%,46%,26%,9%,74%,0%
+251,5Vuq8CP31cpEEq5zNJCjUN,130 BPM,C# Maj,-4.19db,4/4,74%,92%,88%,38%,8%,11%,64%,53%
+252,61nzEAmKgzWRL5vFuwwd3B,120 BPM,C min,-8.82db,4/4,58%,50%,51%,65%,7%,50%,45%,0%
+253,0SCLwXUba7LQds02WwXmQ4,73 BPM,F min,-8.49db,4/4,52%,74%,55%,52%,26%,14%,50%,6%
+254,6XjDF6nds4DE2BBbagZol6,100 BPM,G# min,-8.47db,4/4,86%,50%,79%,67%,5%,9%,45%,0%
+255,,,,,,,,,,,,,
+256,6bp2GrOuGnHffVs0NiSSC1,188 BPM,C# min,-15.91db,4/4,37%,51%,73%,26%,5%,11%,83%,90%
+257,,,,,,,,,,,,,
+258,,,,,,,,,,,,,
+259,,,,,,,,,,,,,
+260,5xQh45GHGXzacf4qjGO2r4,130 BPM,A# min,-5.11db,4/4,23%,83%,79%,96%,5%,14%,4%,0%
+261,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+262,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+263,5z7l1HQ9KzqT8yLcViRG1L,160 BPM,A# Maj,-1.21db,4/4,59%,84%,63%,39%,4%,36%,46%,0%
+264,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+265,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+266,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+267,44TzvSZLIkM7Y7MEnrvkIl,120 BPM,D Maj,-6.57db,4/4,56%,56%,86%,84%,4%,9%,28%,0%
+268,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+269,3Eb5sztvEMa0Mqnb8DUAlU,113 BPM,A# Maj,-9.41db,4/4,74%,56%,68%,69%,3%,24%,0%,0%
+270,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+271,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+272,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+273,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+274,63mVyFn9QO2ia83uB8dScL,132 BPM,F Maj,-20.66db,3/4,56%,12%,17%,3%,4%,11%,98%,91%
+275,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+276,42wdz3j7gstgUuhoFLCXqd,100 BPM,F# min,-7.43db,4/4,81%,52%,76%,80%,6%,8%,22%,0%
+277,0JOkg9ppNx6yXxVBqfDpB4,144 BPM,G Maj,-18db,4/4,39%,21%,93%,90%,16%,11%,90%,88%
+278,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+279,0t7fVeEJxO2Xi4H2K5Svc9,164 BPM,F# min,-8.36db,4/4,72%,53%,69%,57%,9%,17%,4%,0%
+280,6dXjUMjFxfAX4F2dHKqQzf,150 BPM,C# Maj,-5.9db,4/4,78%,74%,90%,73%,22%,30%,5%,0%
+281,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+282,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+283,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+284,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+285,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+286,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+287,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+288,70khXICDeTTxgYtw3EysKH,120 BPM,E Maj,-6.41db,4/4,73%,46%,72%,46%,3%,21%,25%,0%
+289,,,,,,,,,,,,,
+290,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+291,5xeSd4HgzrYpNLEf3LfYLK,167 BPM,C# Maj,-4.69db,4/4,81%,68%,83%,68%,36%,23%,0%,0%
+292,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+293,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+294,3yRCvXmJprvbscpKhKXMjR,140 BPM,A# min,-5.61db,4/4,68%,84%,65%,63%,31%,28%,1%,0%
+295,6IPwKM3fUUzlElbvKw2sKl,130 BPM,G Maj,-12.81db,4/4,83%,37%,57%,24%,3%,16%,11%,18%
+296,7J8NRiotZlWOT9t3ZnVeAc,154 BPM,C# Maj,-13.19db,4/4,63%,38%,47%,13%,3%,11%,89%,86%
+297,0Xw2qqQDAm2uDJZI02UDix,123 BPM,A Maj,-8.5db,4/4,72%,29%,55%,17%,3%,11%,61%,0%
+298,3SKH53SPQbEnZR4cJPVaz2,111 BPM,A Maj,-5.81db,4/4,87%,55%,80%,65%,4%,12%,10%,0%
+299,1lo4xyLFWHNRVJKLbKi4FZ,171 BPM,C# Maj,-6.15db,4/4,68%,56%,68%,46%,27%,34%,0%,9%
+300,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+301,722NAIXkI6WRNvu9O7JkdH,151 BPM,F# min,-3.41db,4/4,76%,78%,49%,17%,3%,15%,0%,0%
+302,5ZNrtDCYDwzIBKmZAclBOu,130 BPM,B Maj,-27.83db,4/4,66%,7%,70%,44%,6%,11%,96%,95%
+303,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+304,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+305,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+306,5a1iz510sv2W9Dt1MvFd5R,95 BPM,E Maj,-11.71db,3/4,87%,21%,34%,36%,4%,34%,91%,0%
+307,0UXC93QrbB1by2v4Fa6ILS,145 BPM,C# Maj,-8.06db,4/4,67%,65%,87%,34%,34%,19%,5%,0%
+308,6dOtVTDdiauQNBQEDOtlAB,105 BPM,D Maj,-10.17db,4/4,97%,51%,75%,44%,4%,12%,20%,6%
+309,79EkGysjP2dL5GdpeQjRxT,158 BPM,A Maj,-6.07db,4/4,76%,66%,31%,32%,3%,14%,43%,0%
+310,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+311,1QxxBUAx42J8pIFYJJR880,122 BPM,A Maj,-5.82db,4/4,74%,58%,59%,23%,5%,10%,37%,0%
+312,4xF4ZBGPZKxECeDFrqSAG4,95 BPM,A# Maj,-26.81db,4/4,82%,9%,47%,8%,3%,44%,93%,80%
+313,1zjeFTit9mbG6IZTc8AAoz,133 BPM,G Maj,-10.96db,4/4,58%,43%,74%,5%,4%,14%,16%,3%
+314,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+315,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+316,,,,,,,,,,,,,
+317,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+318,7ne4VBA60CxGM75vw0EYad,109 BPM,C# Maj,-4.17db,4/4,96%,81%,55%,37%,4%,16%,21%,0%
+319,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+320,3XwUsGjmC9HSV4vNOEqvoh,82 BPM,F Maj,-9.05db,3/4,38%,42%,29%,20%,3%,10%,70%,0%
+321,0OA00aPt3BV10qeMIs3meW,180 BPM,E min,-3.2db,4/4,82%,74%,46%,26%,16%,36%,2%,0%
+322,34oWbFBfGEElvgO0a5c9V4,118 BPM,F min,-8.37db,4/4,74%,60%,94%,82%,19%,8%,7%,0%
+323,1DwpJCFR4CgevQJvJHmUw3,68 BPM,E min,-21.86db,4/4,39%,8%,17%,8%,4%,10%,98%,88%
+324,4jHl6jgzZOnS4nGamPZ1Uk,106 BPM,G Maj,-8.77db,3/4,82%,38%,80%,43%,7%,10%,86%,0%
+325,5v4pfRg3jbgNDjlghvczvX,144 BPM,F Maj,-8.12db,4/4,61%,47%,84%,58%,34%,17%,10%,0%
+326,3PR8q1B3b6hsJlwphfgCZK,160 BPM,G# Maj,-6.44db,4/4,54%,47%,72%,16%,34%,32%,6%,0%
+327,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+328,1JF8LkQWZ8grXb2emqrNKn,75 BPM,C# Maj,-6.72db,4/4,70%,52%,78%,47%,14%,11%,4%,0%
+329,65u1dHQyQyE4y4aN2eDmMF,140 BPM,C# min,-6.95db,4/4,62%,51%,77%,51%,6%,14%,6%,0%
+330,1YZBMqN8kHaaRPXpQTC3kb,84 BPM,G# min,-3.1db,4/4,58%,70%,61%,51%,3%,8%,34%,0%
+331,6jQeSeqn9AdsCe0NMrylxH,135 BPM,C# Maj,-4.26db,4/4,66%,61%,80%,80%,26%,6%,8%,0%
+332,4VkRQSpG16JxrXaVlNyWdX,67 BPM,F Maj,-27db,4/4,71%,8%,25%,4%,3%,9%,95%,93%
+333,2F28o4Yl4RH6FvCdSOe0qN,138 BPM,B min,-8.92db,5/4,66%,54%,47%,21%,21%,39%,0%,0%
+334,6bphEFxKCxIcVGQFNhENAE,76 BPM,C# Maj,-5.39db,4/4,54%,53%,76%,35%,7%,37%,1%,0%
+335,1vkpe29DP5EvAxYnWVq5C1,88 BPM,F# Maj,-5.23db,4/4,70%,79%,79%,40%,21%,9%,5%,0%
+336,6ATrsVaZT7XjkCynxM8cTS,150 BPM,D# min,-3.1db,4/4,62%,71%,55%,49%,3%,41%,0%,0%
+337,794F99D5BQHS5ZGRXAs7I5,130 BPM,A Maj,-6.22db,4/4,59%,60%,96%,65%,18%,21%,7%,0%
+338,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+339,1D68GC0dFwe6NW66GaxH1H,75 BPM,C# min,-6.15db,4/4,43%,70%,54%,35%,22%,74%,27%,0%
+340,0SvJ8uRCTtm0OMe8uS2kgY,110 BPM,G Maj,-5.93db,4/4,35%,59%,87%,45%,4%,6%,2%,0%
+341,4BNT04XPD3HK3MOCIlvbtP,95 BPM,F Maj,-26.78db,4/4,64%,5%,25%,6%,3%,12%,94%,93%
+342,492ceDtqmafb6QD1Xfhpmo,116 BPM,D min,-13.88db,4/4,77%,27%,24%,10%,4%,12%,85%,50%
+343,1fTjqf10accJCDYstPwwZ6,105 BPM,C# min,-3.62db,4/4,82%,58%,78%,66%,11%,10%,62%,0%
+344,02o4OWa88elBkn0cr1Yp93,126 BPM,G Maj,-6.52db,4/4,20%,60%,48%,27%,4%,31%,3%,19%
+345,1XBYiRV30ykHw5f4wm6qEn,143 BPM,F# Maj,-4.59db,4/4,87%,76%,48%,12%,4%,14%,1%,0%
+346,5ORf8BZMbq4xN9kiumrPcQ,140 BPM,A Maj,-4.84db,4/4,55%,76%,71%,90%,26%,14%,34%,0%
+347,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+348,6NMqeF0Ssmi7d3dSUqnOFf,116 BPM,D min,-7.18db,4/4,60%,71%,75%,60%,5%,10%,6%,0%
+349,2fJcCZXjaPx86LQymV6Ufu,85 BPM,A min,-25.62db,3/4,62%,16%,9%,7%,3%,21%,96%,90%
+350,3lUYO6zvXI88sNDpyKvIJ2,126 BPM,C# min,-7.56db,4/4,74%,59%,73%,15%,17%,10%,12%,0%
+351,0y1QJc3SJVPKJ1OvFmFqe6,163 BPM,A# min,-8.02db,4/4,80%,50%,49%,34%,12%,10%,58%,0%
+352,6AS4Wz4crk4NzX8biHWMUA,175 BPM,C# Maj,-5.49db,5/4,52%,61%,37%,27%,22%,17%,0%,0%
+353,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+354,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+355,5VfPYI5rj8GtQ2qChKYwMA,100 BPM,F min,-6.12db,4/4,63%,79%,71%,67%,3%,26%,1%,1%
+356,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+357,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+358,4p7DTkyrKqT98xlIwYYfXz,147 BPM,G# Maj,-4.22db,4/4,85%,71%,49%,32%,3%,15%,0%,0%
+359,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+360,2pyjr4JKVkG03LmWBIusur,110 BPM,E min,-7.75db,4/4,61%,73%,68%,18%,3%,18%,0%,0%
+361,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+362,0r3qLw9YwoXES2c1fbp05j,141 BPM,D# min,-10.02db,4/4,40%,41%,81%,97%,46%,15%,77%,0%
+363,0TwKov50GELgwuAW4I3oeN,138 BPM,A Maj,-9.33db,4/4,67%,91%,69%,52%,8%,8%,21%,1%
+364,0APdvNzoMcIP4OxUB36CdN,85 BPM,E min,-6db,4/4,50%,67%,75%,55%,23%,9%,26%,1%
+365,4LbY1Dq75IbisKMJQk8Y02,123 BPM,B min,-4.45db,4/4,43%,84%,90%,80%,11%,12%,2%,0%
+366,4VkRQSpG16JxrXaVlNyWdX,67 BPM,F Maj,-27db,4/4,71%,8%,25%,4%,3%,9%,95%,93%
+367,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+368,41hRWgoaw67f4VGMbNSfoZ,120 BPM,B min,-4.95db,4/4,55%,63%,87%,69%,30%,9%,30%,0%
+369,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+370,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+371,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+372,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+373,0y1QJc3SJVPKJ1OvFmFqe6,163 BPM,A# min,-8.02db,4/4,80%,50%,49%,34%,12%,10%,58%,0%
+374,0BrGbunaLOLlVVj74QvdV2,75 BPM,G# Maj,-6.12db,4/4,49%,51%,70%,16%,5%,12%,55%,0%
+375,1x5sYLZiu9r5E43kMlt9f8,123 BPM,C min,-4.58db,4/4,74%,63%,71%,46%,6%,14%,26%,0%
+376,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+377,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+378,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+379,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+380,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+381,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+382,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+383,69E0PXED6MvClnqED4d7f5,144 BPM,E Maj,-5.26db,4/4,57%,56%,40%,55%,3%,10%,0%,0%
+384,1lb3H41lbvAN28N7yqRNL9,87 BPM,G min,-20.45db,3/4,76%,24%,34%,71%,4%,10%,98%,87%
+385,,,,,,,,,,,,,
+386,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+387,4pTkDIlpFNoeWbahu8pVXW,87 BPM,D Maj,-9.08db,4/4,66%,58%,66%,55%,7%,11%,31%,91%
+388,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+389,1dnYMTMF2lHltsoDRwb0c7,80 BPM,D# Maj,-7db,4/4,42%,49%,66%,18%,9%,17%,60%,0%
+390,1uX0Xc5REVgjVHYunuWCYF,115 BPM,B min,-7.47db,4/4,40%,68%,75%,58%,4%,10%,17%,0%
+391,13a42S4mWLvOUubzKz8M5P,120 BPM,A Maj,-6.13db,4/4,43%,86%,74%,55%,4%,43%,14%,6%
+392,59BUI1EDRX2nQ8tndbVNYT,100 BPM,G# min,-5.84db,4/4,47%,55%,82%,53%,9%,28%,58%,0%
+393,3gMsf1A4ewNI3NWDGVlmHb,88 BPM,G Maj,-8.38db,4/4,54%,72%,78%,53%,7%,8%,24%,0%
+394,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+395,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+396,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+397,248jXFZEeVegppkVYqZWP5,85 BPM,G min,-17.54db,4/4,34%,39%,30%,61%,3%,12%,94%,94%
+398,031XeWxYnh6nAeXRPOtilL,144 BPM,C min,-7.6db,4/4,28%,60%,62%,38%,7%,10%,16%,0%
+399,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+400,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+401,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+402,7g9brrz6mR8dm1kwYFwnRx,83 BPM,D Maj,-10db,4/4,45%,62%,66%,13%,7%,9%,9%,0%
+403,,,,,,,,,,,,,
+404,6je22unRURdP9WnmWO1pfE,123 BPM,E min,-7.07db,4/4,43%,77%,80%,27%,14%,30%,13%,0%
+405,4Yzlz45QgjUKZmN2KrK4AP,120 BPM,A min,-12.6db,4/4,45%,40%,83%,42%,32%,35%,44%,0%
+406,4ghVhh6cQFasm32aqWkUMI,82 BPM,D Maj,-21.66db,4/4,17%,6%,14%,15%,4%,14%,89%,59%
+407,6CcJMwBtXByIz4zQLzFkKc,137 BPM,C Maj,-18.44db,4/4,80%,13%,42%,12%,4%,11%,95%,0%
+408,4YvxfQF9QCXykqi2ahREC4,105 BPM,A Maj,2.2db,4/4,71%,94%,60%,49%,21%,22%,16%,97%
+409,,,,,,,,,,,,,
+410,0Fs9cdPDhptWEDJmiCbkEW,118 BPM,C# Maj,-10.36db,4/4,74%,74%,77%,18%,8%,23%,2%,8%
+411,1N1y4xlCbBMOGTW3Xlej1v,82 BPM,G# Maj,-4.96db,4/4,37%,61%,64%,70%,3%,10%,5%,0%
+412,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+413,2CtvMt2d8AZqB4VlGrYkf4,133 BPM,B min,-2.26db,4/4,19%,99%,96%,78%,18%,6%,7%,17%
+414,2KAOxZeh7Afn9xdoKN8XHS,102 BPM,G# Maj,-5.03db,4/4,40%,90%,80%,78%,11%,13%,41%,78%
+415,7vQbuQcyTflfCIOu3Uzzya,120 BPM,D Maj,-8.46db,4/4,92%,42%,75%,81%,4%,7%,64%,0%
+416,42EmzXT0XMR6MpEnTsoqUH,150 BPM,D min,-5.15db,4/4,42%,53%,56%,34%,3%,15%,59%,0%
+417,1ZbtwhtxORZcaSh5VKjeXJ,86 BPM,D min,-5.53db,4/4,59%,60%,61%,26%,3%,10%,38%,0%
+418,7s8Ge32XOv8QYnObdc6J2t,134 BPM,B Maj,-7.2db,4/4,53%,46%,74%,70%,50%,15%,7%,0%
+419,24WBge8e53iDTeXOtVB02s,130 BPM,B Maj,-3.97db,4/4,76%,88%,57%,73%,3%,11%,0%,76%
+420,0LJRXWJ3x3Oby02RbRl3f6,140 BPM,F# Maj,-9.43db,4/4,54%,56%,48%,74%,6%,5%,10%,0%
+421,67smGwuPEtA6GAfeweAVNO,130 BPM,C# Maj,-4.71db,4/4,79%,77%,68%,50%,3%,10%,9%,73%
+422,7uv632EkfwYhXoqf8rhYrg,107 BPM,G Maj,-10.8db,4/4,72%,31%,71%,7%,3%,8%,2%,81%
+423,6kNH5AaJkUQW2wDGIfhOjx,130 BPM,C Maj,-3db,4/4,35%,93%,76%,86%,6%,2%,7%,0%
+424,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+425,61nzEAmKgzWRL5vFuwwd3B,120 BPM,C min,-8.82db,4/4,58%,50%,51%,65%,7%,50%,45%,0%
+426,6JHrlOv9VrNFE6ge81sRet,130 BPM,A# min,-5.08db,4/4,34%,62%,78%,66%,17%,41%,25%,0%
+427,0yIywEquxORnu1dR0WYsdN,125 BPM,D# Maj,-3.32db,4/4,67%,87%,73%,63%,6%,28%,1%,0%
+428,0nkaFEJ2iF3zxE3n7FQIuK,109 BPM,G# Maj,-14.34db,4/4,39%,32%,45%,44%,3%,11%,86%,90%
+429,0FCYZo8kurMdSwzAR9rxo9,156 BPM,F# min,-7.85db,4/4,21%,54%,60%,43%,5%,33%,54%,0%
+430,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+431,4xF4ZBGPZKxECeDFrqSAG4,95 BPM,A# Maj,-26.81db,4/4,82%,9%,47%,8%,3%,44%,93%,80%
+432,1BKCOG8DKpWcMqkUhVj2cY,104 BPM,C# Maj,-3.33db,4/4,54%,49%,97%,61%,16%,7%,3%,50%
+433,,,,,,,,,,,,,
+434,2kOxOsvdhg4BioPOiBBA5L,105 BPM,F# Maj,-4.76db,4/4,30%,83%,77%,42%,25%,17%,5%,0%
+435,6m2qba8pt0oa13nBLA2Nt2,128 BPM,A min,-4.38db,4/4,60%,91%,56%,31%,22%,13%,1%,0%
+436,36jTDPe2r86KKdslvcZVUv,105 BPM,G# Maj,-8.5db,3/4,43%,54%,52%,9%,3%,11%,4%,0%
+437,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+438,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+439,0i8YObgqnjZYoYJOQbwLHq,125 BPM,C# Maj,-7.69db,4/4,56%,73%,73%,75%,4%,40%,1%,0%
+440,2d1MRprTdXRnKuum7VZNKD,180 BPM,A# min,-13.75db,4/4,46%,44%,58%,39%,22%,11%,33%,0%
+441,164P5JVUfSF7AbW5SrYbif,111 BPM,C# min,3.25db,4/4,59%,95%,84%,61%,36%,10%,38%,64%
+442,70UqjNucXs25xQMojfHZKO,120 BPM,G# min,-5.75db,4/4,51%,88%,78%,49%,7%,32%,5%,0%
+443,1tpgY6cqm5s0HdKwiqpliF,128 BPM,F# min,-1.59db,4/4,55%,81%,81%,34%,5%,42%,20%,9%
+444,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+445,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+446,2IBPmeioH0gnvIUAt8fpqB,136 BPM,F# Maj,-7.03db,4/4,49%,52%,59%,32%,3%,10%,79%,0%
+447,7jm2PueKmv4EOHfdbdXMKT,123 BPM,A# min,-3.78db,4/4,55%,50%,90%,41%,6%,21%,2%,1%
+448,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+449,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+450,2l4mXxFO2BmbIvbrMJKzlZ,156 BPM,F# min,-4.75db,4/4,44%,68%,66%,85%,4%,11%,65%,0%
+451,,,,,,,,,,,,,
+452,3bg2qahpZmsg5wV2EMPXIk,130 BPM,C Maj,-5.48db,4/4,80%,66%,56%,39%,4%,9%,21%,0%
+453,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+454,5evE7bweEhX83fd1ZmwPjP,136 BPM,A# Maj,-6.71db,4/4,62%,38%,35%,39%,3%,12%,70%,0%
+455,7uwJwSKpmzZH7p7imm4f1P,176 BPM,D Maj,-7.72db,4/4,65%,48%,54%,34%,15%,8%,84%,0%
+456,50zAEIE4B1QqhPjRMK2Xmh,147 BPM,G# Maj,-4.22db,4/4,82%,71%,49%,32%,3%,15%,0%,0%
+457,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+458,30slz6D2PtbwDimGJaEVsH,132 BPM,C Maj,-5.02db,3/4,63%,58%,53%,36%,3%,32%,47%,0%
+459,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+460,67giFJRGQrJam33W9alOWR,120 BPM,F Maj,-4.96db,1/4,43%,69%,68%,16%,3%,28%,14%,0%
+461,7xnILxMJwkLwyXsU9s20RC,125 BPM,D Maj,-10.92db,4/4,23%,50%,82%,92%,4%,15%,67%,90%
+462,654XTpkoachnc4HT2Fi3Fn,130 BPM,C min,-3.09db,4/4,66%,80%,69%,94%,3%,35%,25%,0%
+463,4URwHymA0yORRrbzMbfPaR,138 BPM,B min,-14.32db,4/4,35%,42%,87%,96%,13%,10%,32%,4%
+464,6WcnOCD0ARNJBrAJusIJbu,178 BPM,G Maj,-6db,4/4,50%,82%,59%,54%,16%,15%,19%,0%
+465,,,,,,,,,,,,,
+466,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+467,5Vnx5i9VJSZ6ayfK6jncf8,141 BPM,F# min,-8.21db,4/4,54%,48%,29%,25%,4%,12%,14%,0%
+468,14to2M16u4ZHS1DnYEof0J,145 BPM,C min,-4.97db,4/4,45%,80%,66%,93%,3%,21%,12%,0%
+469,,,,,,,,,,,,,
+470,414Mr8wR2m7fs2K0n8Bx3I,140 BPM,D Maj,-10.15db,4/4,61%,42%,61%,29%,3%,34%,38%,0%
+471,,,,,,,,,,,,,
+472,0F0I1EkqhyfexTB8ZVNODG,128 BPM,B min,-7.82db,4/4,37%,75%,75%,80%,3%,24%,6%,59%
+473,,,,,,,,,,,,,
+474,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+475,294hRgOqnGW2BemqP8D35X,120 BPM,B min,-3.41db,4/4,67%,89%,89%,80%,18%,31%,13%,0%
+476,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+477,4UQjn70K6Nx1YWBpUJmvr5,130 BPM,B min,-7.52db,4/4,39%,80%,60%,21%,3%,11%,16%,3%
+478,3bADWwIQhJ1YboSR5QluQz,132 BPM,E Maj,-12db,4/4,28%,53%,63%,71%,4%,9%,90%,74%
+479,09EfghOTBjz2A96MvP9Dwo,128 BPM,C# Maj,-14db,4/4,45%,37%,68%,51%,4%,10%,94%,45%
+480,2jRannfzN7MVMKvrL9nFbU,126 BPM,G Maj,-6.76db,4/4,12%,60%,76%,96%,4%,17%,26%,0%
+481,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+482,2l8XJz9BkpCrlDDdMDYKe8,75 BPM,B Maj,-7.14db,4/4,40%,52%,71%,52%,4%,9%,77%,0%
+483,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+484,2jfrpTspUO87LVqXH11U2l,128 BPM,F min,-8.8db,4/4,31%,81%,77%,34%,3%,11%,48%,82%
+485,5bY4g7cLyasuuhthJ7Mdlh,117 BPM,G Maj,-6.91db,3/4,73%,42%,37%,8%,4%,11%,87%,0%
+486,,,,,,,,,,,,,
+487,,,,,,,,,,,,,
+488,6aJn7Cst74cj4lNIiPRgav,167 BPM,F min,-2.66db,4/4,84%,90%,74%,79%,4%,9%,55%,0%
+489,4REIf9qYO6DkxdjASVlvTj,180 BPM,A# min,-1.06db,4/4,25%,99%,68%,66%,5%,24%,2%,68%
+490,5VsiOAqYiJBFdlQcNmGrCU,116 BPM,C min,-5.65db,4/4,25%,66%,73%,70%,3%,13%,5%,0%
+491,,,,,,,,,,,,,
+492,24WBge8e53iDTeXOtVB02s,130 BPM,B Maj,-3.97db,4/4,76%,88%,57%,73%,3%,11%,0%,76%
+493,4pD2KtKFgZUt7ZblO09RiL,157 BPM,C min,-12.46db,4/4,28%,32%,85%,83%,7%,11%,96%,42%
+494,,,,,,,,,,,,,
+495,5CA12CUaIcFa87eYdSaSJ2,186 BPM,C# Maj,-2.38db,4/4,24%,94%,46%,87%,7%,12%,0%,24%
+496,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+497,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+498,7htWuazarn407jLZTQZp8P,128 BPM,F# Maj,-6.94db,4/4,54%,28%,64%,25%,3%,13%,75%,0%
+499,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+500,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+501,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+502,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+503,198zDKzyktXRG1PGpidY9h,120 BPM,F# Maj,-5.22db,4/4,82%,69%,86%,70%,7%,9%,6%,0%
+504,2cUJ6wbyqH8hDZN8VWQ5oC,140 BPM,B Maj,-7.41db,4/4,59%,51%,93%,54%,19%,17%,13%,0%
+505,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+506,,,,,,,,,,,,,
+507,4Q6IKRg4poFjhrcnJH7QAb,96 BPM,B Maj,-4.63db,4/4,59%,74%,65%,69%,7%,15%,73%,0%
+508,7G2ahmH7Ubb8dcSI3T3stL,124 BPM,E min,-6.6db,4/4,59%,88%,79%,56%,5%,36%,2%,0%
+509,3lgsZXVMp0cBmpz22nJBxv,128 BPM,G# Maj,-8.26db,4/4,32%,89%,73%,51%,5%,18%,14%,88%
+510,79f3ow2zpNnD3qTeV1NyA4,153 BPM,A min,-5.15db,3/4,53%,95%,66%,54%,23%,34%,8%,0%
+511,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+512,5VQdi4PLP9lmAgrI7t2IUb,95 BPM,E min,-4.38db,4/4,36%,57%,65%,74%,8%,52%,13%,0%
+513,5hXnXFvxqlen77g62JOy3P,107 BPM,D min,-6.59db,4/4,63%,60%,67%,65%,3%,93%,42%,0%
+514,1O3utGlqPaNnTX1ZeRXLQY,116 BPM,D Maj,-9.39db,4/4,70%,44%,73%,67%,21%,22%,27%,0%
+515,0AmmgEGKTWenTt14e4B7PV,124 BPM,E min,-4.67db,4/4,61%,69%,71%,66%,6%,28%,33%,0%
+516,3pUtdI0esSIqvHNVzBpWih,113 BPM,C# min,-10.89db,4/4,19%,52%,80%,22%,5%,8%,56%,90%
+517,,,,,,,,,,,,,
+518,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+519,6ebvJzdJulz0toRwwet4J3,92 BPM,E min,-6.65db,4/4,42%,47%,70%,60%,4%,7%,4%,0%
+520,,,,,,,,,,,,,
+521,0K791kh3oLkBD5KVWg1LJ8,120 BPM,A Maj,-9.47db,4/4,75%,70%,83%,81%,11%,11%,35%,0%
+522,5avXHi4FG8UlSq93vTKvpj,120 BPM,G Maj,-9.95db,4/4,31%,58%,81%,86%,22%,31%,28%,0%
+523,4sVIEO6DXqoGakHuixuPad,102 BPM,G min,-10db,4/4,71%,48%,77%,68%,8%,32%,30%,0%
+524,3Jm6OH1D67qaYLJX8JCWZb,115 BPM,D min,-10db,3/4,34%,32%,41%,28%,3%,24%,89%,0%
+525,4nMiTtF7L3rttRFrfIfBME,96 BPM,G Maj,-10.5db,4/4,59%,53%,66%,32%,8%,10%,8%,0%
+526,4eW1hdI2gqGCnGyJbxuypD,80 BPM,F# min,-6.44db,4/4,64%,62%,67%,52%,5%,12%,38%,5%
+527,1CBL5jy9nokerfE4TabJYd,128 BPM,A Maj,-7db,4/4,57%,71%,70%,60%,5%,36%,3%,43%
+528,,,,,,,,,,,,,
+529,,,,,,,,,,,,,
+530,2SVoUZdzxuDuxBdHSO73KF,131 BPM,F# min,-12.43db,3/4,73%,41%,43%,21%,5%,14%,61%,0%
+531,5RZH849e1ZWa2qeVz6O3mK,166 BPM,C# min,-8.76db,4/4,70%,77%,62%,42%,7%,12%,30%,0%
+532,63398uqlWfwWFDh1e19Kbq,84 BPM,E min,-11.17db,4/4,39%,55%,34%,27%,3%,7%,49%,14%
+533,0rJFFFgI0G33MUCVlM2DfQ,122 BPM,G min,-5.86db,4/4,35%,73%,90%,58%,5%,13%,23%,0%
+534,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+535,71RrWrJ3eu1V7JBiA58etO,130 BPM,E min,-6.66db,4/4,41%,90%,91%,33%,20%,17%,47%,67%
+536,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+537,,,,,,,,,,,,,
+538,3ff93VTp2DBbNnDEsAW8Cm,100 BPM,C# min,-11.24db,4/4,76%,44%,74%,53%,3%,8%,38%,0%
+539,,,,,,,,,,,,,
+540,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+541,2QGJvv74xtvO2JRyDh4NTx,130 BPM,F# Maj,-5.75db,4/4,43%,78%,73%,52%,3%,22%,0%,83%
+542,1hWN9FB6Lxnqt2ij8uPH8V,115 BPM,D Maj,-7.07db,4/4,37%,79%,78%,51%,3%,19%,18%,27%
+543,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+544,27AutLvnusrHlvxUdHJOtA,102 BPM,G min,-6.86db,4/4,44%,69%,76%,69%,6%,9%,14%,7%
+545,300xFtOH49F80uB7BSAsEf,67 BPM,D Maj,-9.15db,4/4,68%,50%,78%,52%,31%,7%,5%,0%
+546,0QuKutgaaa0Q1WUZEnrZ93,125 BPM,F min,-7.83db,4/4,75%,60%,68%,61%,3%,15%,6%,8%
+547,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+548,4M63f6sb5HkGcxNAteTP6r,145 BPM,B min,-7.49db,3/4,54%,82%,70%,80%,4%,31%,1%,0%
+549,7MnrlQCQBeL4OzAjcl7nwG,176 BPM,F min,-3.89db,4/4,61%,73%,64%,84%,17%,5%,38%,0%
+550,1x5sYLZiu9r5E43kMlt9f8,123 BPM,C min,-4.58db,4/4,74%,63%,71%,46%,6%,14%,26%,0%
+551,5eqiMMbaeUZ32Q7sS00H35,130 BPM,A Maj,-6.22db,4/4,65%,60%,96%,65%,18%,21%,7%,0%
+552,7pwagmoDkhaKiGJGd9YhJp,100 BPM,G# Maj,-9.86db,4/4,65%,82%,76%,43%,4%,10%,42%,90%
+553,2xn46pU9FhiiUm7hvhdabh,93 BPM,A# min,-7db,4/4,64%,68%,62%,64%,3%,10%,38%,0%
+554,55w9oKMqAinBaFuElkVXxh,81 BPM,E Maj,-7.94db,4/4,46%,83%,68%,92%,7%,6%,54%,17%
+555,11LN6n2N6dcF5tU3fgl8Cp,176 BPM,B Maj,-12.22db,4/4,54%,32%,56%,25%,4%,11%,92%,0%
+556,42JgMM0aGQ78KmTGD7nkiY,130 BPM,G# min,-3.36db,4/4,61%,97%,65%,53%,5%,38%,8%,0%
+557,,,,,,,,,,,,,
+558,01Sok4o0r66J2p5pZgmv9j,120 BPM,F# Maj,-7.06db,4/4,57%,51%,77%,81%,7%,10%,5%,0%
+559,6xTi66mobAdZcKR3SMyygD,100 BPM,F min,-6.21db,4/4,70%,86%,65%,90%,4%,34%,16%,0%
+560,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+561,5eWCugF7LZ0yS9en5jI86s,108 BPM,A min,-4.08db,4/4,22%,96%,69%,71%,4%,26%,5%,70%
+562,0FTatqMMiIIYA1b5tds3Fc,102 BPM,C min,-7.41db,4/4,59%,69%,71%,34%,6%,13%,24%,0%
+563,,,,,,,,,,,,,
+564,12ZYZIPow50Yj70l5gpGFX,128 BPM,F Maj,-6db,4/4,40%,89%,70%,58%,6%,34%,8%,0%
+565,0zLhtDb5qftpfQRknw5XIl,130 BPM,A# Maj,-6.89db,4/4,43%,91%,68%,66%,7%,34%,1%,0%
+566,1jy8jGNKhvrGJ5r88c6oAp,89 BPM,E min,-6.96db,4/4,49%,84%,59%,46%,36%,41%,26%,0%
+567,0nsy1yzw2DCJbmPyMUQob4,144 BPM,G min,-7.01db,4/4,38%,58%,50%,57%,4%,33%,36%,0%
+568,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+569,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+570,38d47UiHhyu4wdbPYz0ZUB,90 BPM,C min,-17.18db,4/4,71%,33%,71%,18%,7%,16%,18%,1%
+571,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+572,3AZU2sN8F2Hixkfs3ZQQz1,82 BPM,E Maj,-6.82db,4/4,62%,70%,63%,47%,32%,9%,9%,0%
+573,42HqSkE4Y5CXHXGuF08hOU,174 BPM,D Maj,-5.81db,4/4,35%,78%,73%,88%,5%,8%,38%,0%
+574,3ROveRTDUKfYXwlto0YOcb,152 BPM,G# min,-16.31db,4/4,59%,22%,33%,25%,4%,12%,77%,0%
+575,,,,,,,,,,,,,
+576,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+577,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+578,25tZHMv3ctlzqDaHAeuU9c,115 BPM,F Maj,-15.29db,4/4,62%,20%,27%,17%,3%,8%,75%,74%
+579,5qQUV7nH6koNlmnoxE115x,136 BPM,F min,-7.01db,4/4,53%,68%,67%,70%,4%,8%,63%,0%
+580,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+581,4D9QwxmuvVQ64GCBjqEr1Y,81 BPM,D Maj,-5db,4/4,53%,69%,48%,21%,16%,12%,62%,0%
+582,6YXHa17PZs51xa7k0UTX4P,83 BPM,B min,-7.17db,4/4,57%,60%,73%,61%,4%,12%,36%,0%
+583,4mYEWWguOTjdcSCxZb0oU2,93 BPM,C# Maj,-6.42db,4/4,58%,68%,71%,66%,5%,9%,40%,0%
+584,3EtpM2Z4uXJrN8xzWATicU,130 BPM,A min,-9.53db,4/4,46%,56%,53%,24%,5%,11%,49%,0%
+585,5pEpvR03HbLxkBtK73EeJw,97 BPM,G min,-6.61db,4/4,72%,70%,72%,56%,7%,42%,54%,0%
+586,59bnZbhyrWhJJPrwyOA18D,114 BPM,C Maj,-4.56db,4/4,48%,86%,68%,52%,12%,46%,14%,0%
+587,1RI3YE0BqwN2Fd6Ej0gTqW,120 BPM,B min,-10.83db,4/4,70%,63%,85%,74%,26%,7%,15%,0%
+588,4KlWcseW7blgy3S2frb1gY,128 BPM,A min,-8.25db,4/4,62%,74%,74%,79%,9%,7%,12%,0%
+589,1RKqTwaovKWaxs9I8xdygQ,130 BPM,C min,-4.18db,4/4,61%,91%,62%,33%,4%,10%,13%,0%
+590,57G9FgK3kDOZLr6qD1xq03,180 BPM,F# min,-6db,4/4,61%,58%,38%,19%,4%,24%,0%,0%
+591,272dDDt7GA9ai1adgZJz68,134 BPM,F# Maj,-5.52db,4/4,54%,63%,78%,74%,3%,13%,81%,0%
+592,5ZOeN08jw7d7kpVOjlQEqs,80 BPM,F# min,-6db,4/4,66%,74%,50%,63%,6%,34%,39%,1%
+593,7FfdTwI2i0b5PNeNvqtqCY,98 BPM,A min,-5.77db,4/4,77%,86%,49%,67%,40%,30%,16%,0%
+594,0IECKI1BORaqZxdZefcp2V,170 BPM,G min,-8.71db,4/4,62%,59%,55%,45%,3%,12%,3%,0%
+595,2drwHLzvR6hVMtM1pR0PlI,150 BPM,E min,-8.08db,4/4,46%,75%,40%,14%,18%,22%,1%,2%
+596,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+597,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+598,2LCF0vtFyZ5BHaAU3KUSq2,110 BPM,A Maj,-9.8db,4/4,53%,63%,73%,64%,3%,30%,7%,0%
+599,1IIHTjZUiX9Mqf1dZPyJzg,102 BPM,F Maj,-3.79db,4/4,37%,69%,78%,89%,7%,12%,4%,50%
+600,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+601,0mHD9bPUsI3qbKZzMpxXFh,138 BPM,B Maj,-6.77db,4/4,60%,54%,62%,54%,3%,41%,22%,0%
+602,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+603,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+604,4OpCIVVENqsfAGan9oMsEt,100 BPM,A min,-7.06db,4/4,35%,70%,79%,83%,4%,33%,42%,0%
+605,7lw5oL5flPhYIRY4IwEX6T,124 BPM,G min,-6.71db,4/4,54%,67%,62%,34%,3%,20%,22%,0%
+606,6oLxUTAetTgqqldKrhlWJx,164 BPM,D# Maj,-7.85db,4/4,54%,46%,54%,35%,3%,27%,8%,0%
+607,0q1b14y590mo6EE2XyBhNy,122 BPM,F min,-8.81db,4/4,55%,61%,84%,85%,3%,13%,39%,0%
+608,7xnILxMJwkLwyXsU9s20RC,125 BPM,D Maj,-10.92db,4/4,23%,50%,82%,92%,4%,15%,67%,90%
+609,1CHO5Fhr6oRlBxtuTZ0h5c,110 BPM,A min,-7.59db,4/4,35%,83%,77%,94%,3%,23%,7%,0%
+610,2wltTdXzDkZITXGAE76Yiy,180 BPM,A# Maj,-7.58db,4/4,23%,79%,69%,92%,5%,11%,51%,0%
+611,3yDRcs0Y4pPzkvMbUfeF9H,110 BPM,F min,-3.95db,4/4,84%,79%,73%,67%,11%,31%,13%,0%
+612,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+613,62JNTeWcfx9wyff4g0e796,122 BPM,B Maj,-11.09db,4/4,57%,34%,75%,51%,4%,11%,82%,0%
+614,3tlRdHcGR4gq7UzQv5cVMJ,123 BPM,A Maj,-5.28db,4/4,53%,61%,66%,46%,3%,7%,8%,0%
+615,1gagehYgkm4azlIyIasuAO,128 BPM,A Maj,-8.17db,4/4,62%,42%,61%,31%,4%,11%,40%,0%
+616,04El1GEyvL9ncexgZfU6pX,128 BPM,F# Maj,-7.68db,4/4,23%,53%,63%,50%,3%,20%,53%,0%
+617,6BN3iFjclJ4teGlmB3fFvo,92 BPM,D# Maj,-4.85db,4/4,69%,88%,61%,78%,3%,26%,4%,0%
+618,0YLM0VHcZKZ2vgIAQbcwlr,124 BPM,A Maj,-7.9db,4/4,40%,42%,62%,27%,3%,11%,60%,0%
+619,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+620,2FhBii6IUgZ9nhoFW76UtN,154 BPM,D# Maj,-9.86db,4/4,44%,55%,55%,66%,3%,10%,23%,0%
+621,5XMxX29kQro9yoDgMCofqR,140 BPM,A Maj,-9.57db,4/4,35%,70%,68%,62%,3%,13%,38%,0%
+622,7FpsSX0zgXquJMjazInypF,96 BPM,D Maj,-7db,4/4,37%,54%,81%,58%,4%,9%,38%,0%
+623,3bBamV0AHOp1GtMWDdF2lg,120 BPM,A Maj,-10.62db,4/4,24%,55%,58%,20%,3%,9%,91%,94%
+624,1qfQE8W2svJkda1UHOOtYd,90 BPM,C# Maj,-11.62db,4/4,44%,37%,51%,25%,3%,10%,71%,0%
+625,58yocvp56Ol4X91gkM2CLx,180 BPM,C Maj,-7.93db,4/4,38%,67%,64%,88%,4%,20%,34%,0%
+626,6NjWCIYu1W8xa3HIvcIhd4,100 BPM,G# Maj,-8.43db,4/4,73%,41%,93%,52%,7%,13%,16%,0%
+627,0pCvwWuJ51hmVU32BfqOdt,126 BPM,F Maj,-8.73db,4/4,22%,55%,67%,56%,3%,10%,61%,0%
+628,39382sUtIOwIXftX0i76do,114 BPM,A min,-5.71db,4/4,73%,67%,76%,33%,4%,12%,25%,0%
+629,5yecJsYCM7wOaRShwl62Lw,95 BPM,B min,-6.8db,4/4,37%,54%,36%,20%,3%,9%,56%,0%
+630,6qFFgvl0wqjnWMOAaXj3MZ,144 BPM,G# Maj,-4.8db,4/4,45%,68%,60%,59%,4%,11%,27%,0%
+631,5ad8tXfKXBNbjlAbnvy31o,110 BPM,A Maj,-10.81db,4/4,22%,59%,61%,76%,4%,17%,96%,91%
+632,6N9PdktXqrCd8d1L0erUTQ,124 BPM,A Maj,-6.05db,4/4,43%,58%,63%,22%,3%,27%,32%,0%
+633,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+634,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+635,3nvn1t6aZ4ocg4tqxxVtBn,129 BPM,A# Maj,-5.42db,4/4,55%,47%,55%,53%,3%,13%,31%,0%
+636,6JtHYZAi56uJEBc8iihR7j,124 BPM,G Maj,-7.05db,4/4,62%,58%,73%,68%,3%,14%,24%,0%
+637,45IlYbPz42mx3zF1PbzaGT,130 BPM,D Maj,-10.17db,4/4,16%,47%,74%,43%,3%,13%,54%,0%
+638,7dKs7qj9WIoC0Uou86U8nU,130 BPM,D Maj,-6.82db,4/4,35%,58%,68%,46%,4%,9%,37%,0%
+639,4A3roFXXxYTZCAnPmBpkmM,128 BPM,E Maj,-9.01db,4/4,19%,56%,65%,40%,3%,9%,46%,0%
+640,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+641,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+642,6VbiCN6nVTe6bq5ycCRdnb,79 BPM,B Maj,-11.62db,4/4,31%,49%,58%,62%,3%,31%,66%,0%
+643,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+644,5acTRiM3ZZ0tOBnPCUbQg6,95 BPM,C Maj,-7.52db,4/4,10%,93%,58%,55%,3%,12%,14%,36%
+645,6ETPwvsqtmkEKBBnkkkg4G,140 BPM,D min,-6.69db,4/4,31%,52%,55%,22%,3%,6%,64%,0%
+646,0GfWTZZOc7co6oVqyQ556l,103 BPM,D Maj,-4.64db,4/4,72%,68%,92%,39%,20%,18%,4%,0%
+647,2nhI5HdE2iZ39rgJjHOQvG,93 BPM,E min,-4.81db,4/4,32%,73%,90%,91%,12%,9%,26%,0%
+648,08M2NFypNPb3G6NiFHf3wd,85 BPM,A# Maj,-6.02db,4/4,33%,62%,70%,28%,4%,10%,34%,0%
+649,2LJerOY5jSwO5K6OF9Cyuz,184 BPM,D Maj,-5.76db,4/4,65%,77%,54%,58%,15%,34%,5%,0%
+650,70XwGUVCh8Iga1YNN78wKE,140 BPM,E min,-2.74db,4/4,44%,88%,78%,64%,5%,53%,12%,0%
+651,,,,,,,,,,,,,
+652,1eWvS2k5gAw1Gu03EN1hpZ,124 BPM,G# Maj,-7.38db,4/4,47%,57%,60%,41%,3%,18%,58%,0%
+653,,,,,,,,,,,,,
+654,,,,,,,,,,,,,
+655,6tCMGV1PHl16Y6KZp6oeZL,130 BPM,F Maj,-8.02db,4/4,8%,51%,59%,48%,3%,9%,51%,0%
+656,3V5oOY5vQJO8GUikuaJpXx,128 BPM,C Maj,-8.25db,4/4,24%,44%,53%,48%,3%,36%,64%,0%
+657,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+658,4CBRdY0RexCvMi0GoyDiZc,176 BPM,C# Maj,-5.61db,4/4,46%,69%,62%,90%,10%,16%,53%,0%
+659,4vPrx19c3kA26lrg6luisZ,110 BPM,G min,-10.43db,4/4,23%,67%,74%,93%,6%,4%,16%,0%
+660,1z8vtvKEFsS5o9S6RiG8TT,128 BPM,D Maj,-8.02db,4/4,23%,47%,71%,59%,3%,12%,61%,0%
+661,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+662,2OULHL0yM3KbaHC1vlTffC,140 BPM,F# Maj,-6.29db,3/4,65%,42%,57%,46%,3%,18%,56%,0%
+663,2AMHX4tlcFr6vBC6K2Xvb1,106 BPM,F Maj,-11.56db,4/4,42%,26%,82%,82%,4%,12%,83%,0%
+664,3grGyWGWsuIUxA2CudpwAB,89 BPM,E min,-7.32db,4/4,66%,82%,55%,49%,5%,14%,46%,0%
+665,07ha2Lb7iMqbTGmlLMPPnb,97 BPM,C Maj,-6.27db,4/4,23%,81%,67%,39%,4%,63%,7%,0%
+666,2VsF7Ktup6xgXo2HrEqw8C,120 BPM,G Maj,-6.54db,4/4,30%,54%,81%,81%,3%,10%,58%,0%
+667,7mKWZhB6AdIPqRMuzuiRsO,94 BPM,C Maj,-8.02db,4/4,62%,62%,62%,70%,4%,8%,28%,0%
+668,4EPeVpxelq58V6gXoFktsQ,180 BPM,G# min,-7.48db,4/4,48%,54%,62%,59%,6%,11%,40%,0%
+669,6JNTncBRMc3ISfZ7a6TLa6,184 BPM,D# min,-6.59db,4/4,55%,73%,69%,78%,18%,12%,51%,0%
+670,,,,,,,,,,,,,
+671,1CqqNM4yRSC0UGJ5vRXVDr,133 BPM,B min,-5.07db,4/4,32%,81%,77%,72%,4%,16%,14%,0%
+672,7ol2aKRnP1vollTrViolIq,75 BPM,G Maj,-10.93db,4/4,19%,28%,62%,18%,4%,10%,91%,0%
+673,1hxuRAvVRoF8KJ5vrvXoyx,131 BPM,C# min,-4.19db,4/4,14%,89%,80%,97%,5%,9%,40%,32%
+674,5jWoTZgYl9K3aciA93d3qf,186 BPM,G# min,-5.33db,4/4,32%,53%,74%,82%,15%,21%,65%,0%
+675,1F6OuS7NVuI9f0ijH3j9Z0,140 BPM,C min,-12.44db,4/4,18%,64%,62%,82%,3%,13%,58%,56%
+676,1VNvsvEsUpuUCbHpVop1vo,79 BPM,D# Maj,-32.45db,4/4,63%,1%,44%,9%,5%,9%,98%,94%
+677,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+678,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+679,1P8o6bOTyh1kEqe72JFzzO,106 BPM,A# min,-7.58db,4/4,59%,76%,84%,36%,17%,34%,1%,0%
+680,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+681,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+682,5M3BWBA0Xnzlt9kAwUqvPe,85 BPM,E min,-4.41db,4/4,26%,74%,33%,32%,5%,35%,76%,57%
+683,5uyUYBf12MoDctqYKEUFti,127 BPM,F min,-5.83db,4/4,56%,77%,88%,89%,6%,10%,2%,0%
+684,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+685,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+686,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+687,1WVCZ2CaupXNyG0csSwXJi,129 BPM,D# min,-4.37db,4/4,57%,72%,81%,46%,30%,11%,40%,0%
+688,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+689,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+690,1F41wBqHKwbESpUh8A9Sel,142 BPM,D# min,-5.15db,4/4,19%,92%,71%,96%,4%,6%,52%,0%
+691,1bYyZHW4IuGdWzzbm6ErMq,129 BPM,F Maj,-3.59db,4/4,32%,84%,92%,99%,6%,6%,60%,92%
+692,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+693,1OWQtElgSSmAcIT6fZLJ6R,128 BPM,A min,-6.88db,4/4,56%,64%,88%,46%,21%,9%,12%,0%
+694,18ilJfI0M9nkz2O3EnT9cS,148 BPM,A# min,-7.37db,4/4,52%,60%,67%,51%,20%,18%,37%,0%
+695,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+696,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+697,,,,,,,,,,,,,
+698,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+699,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+700,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+701,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+702,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+703,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+704,07wEVlGJYF1G4CtZQegQbd,92 BPM,G Maj,-11.26db,4/4,43%,40%,77%,36%,33%,11%,7%,0%
+705,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+706,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+707,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+708,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+709,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+710,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+711,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+712,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+713,1rBFOHINoWGTfjGfy5nZW5,113 BPM,C min,-4.81db,4/4,24%,73%,85%,75%,4%,15%,46%,0%
+714,42wdz3j7gstgUuhoFLCXqd,100 BPM,F# min,-7.43db,4/4,81%,52%,76%,80%,6%,8%,22%,0%
+715,0uRJqvctmj3GTRAIkBeaoW,125 BPM,G min,-5.69db,4/4,15%,90%,70%,81%,6%,7%,9%,0%
+716,5a1iz510sv2W9Dt1MvFd5R,95 BPM,E Maj,-11.71db,3/4,87%,21%,34%,36%,4%,34%,91%,0%
+717,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+718,3BQqSkF8Raj9lEzJdscmmu,160 BPM,D Maj,-4.77db,4/4,58%,87%,73%,24%,14%,10%,4%,0%
+719,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+720,3tUOXJzbbhC7dN7By6vevu,110 BPM,D min,-8.47db,4/4,47%,50%,84%,34%,8%,59%,18%,0%
+721,27xKcGjI8Sfx6h6uI9c2RZ,133 BPM,C min,-8.22db,4/4,30%,68%,92%,97%,7%,10%,10%,1%
+722,4GUNwABjlNvmnSXf2yunzk,110 BPM,F# min,-7.61db,4/4,41%,43%,68%,23%,7%,27%,67%,0%
+723,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+724,3ZXzOtYsZEcBFPhpThfTon,162 BPM,F min,-5.66db,4/4,16%,84%,52%,82%,4%,28%,0%,63%
+725,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+726,5Ysx0SvJhRuliaWAfCLraC,104 BPM,D min,-5.25db,4/4,28%,74%,82%,96%,3%,11%,3%,0%
+727,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+728,,,,,,,,,,,,,
+729,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+730,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+731,1tDj1vdyYMwnBzKiogtpfl,99 BPM,F# Maj,-7.61db,4/4,27%,61%,90%,75%,61%,4%,5%,0%
+732,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+733,2UD4l3evthKlDOM6HSrc9N,140 BPM,C# Maj,-5.8db,4/4,64%,68%,75%,20%,6%,11%,2%,62%
+734,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+735,0urwvPdEeSzwHmo2alM4Kj,130 BPM,F Maj,-6.7db,4/4,18%,70%,89%,81%,27%,42%,1%,13%
+736,,,,,,,,,,,,,
+737,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+738,0kN7F9Hc6sjJ5WPuuyJJNi,77 BPM,G min,-4.05db,4/4,53%,66%,70%,56%,6%,10%,48%,0%
+739,52uQ2fQqo9hX5H4p7Niq0b,90 BPM,A# min,-3.74db,4/4,74%,47%,76%,33%,4%,12%,11%,15%
+740,0y1QJc3SJVPKJ1OvFmFqe6,163 BPM,A# min,-8.02db,4/4,80%,50%,49%,34%,12%,10%,58%,0%
+741,0zKohlWGzWjWl46rg1L50I,70 BPM,B Maj,-48.49db,4/4,24%,0%,12%,4%,4%,12%,93%,94%
+742,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+743,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+744,5P1D6s1pQoiswhXjomDBoD,185 BPM,F# min,-4.95db,5/4,38%,67%,55%,73%,47%,16%,44%,0%
+745,0OA00aPt3BV10qeMIs3meW,180 BPM,E min,-3.2db,4/4,82%,74%,46%,26%,16%,36%,2%,0%
+746,73OZT1XgLleDwperqGjWH4,108 BPM,D Maj,-12.81db,4/4,62%,50%,74%,82%,3%,9%,29%,0%
+747,42VsgItocQwOQC3XWZ8JNA,148 BPM,D# min,-2.78db,4/4,87%,88%,57%,20%,6%,14%,3%,0%
+748,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+749,5xeSd4HgzrYpNLEf3LfYLK,167 BPM,C# Maj,-4.69db,4/4,81%,68%,83%,68%,36%,23%,0%,0%
+750,3EnwCqwVtrUyMm6K9OoXNo,147 BPM,C# min,-4.87db,3/4,15%,54%,41%,27%,3%,14%,26%,0%
+751,2IUgm8ljwEqVrHdvjjBT6g,110 BPM,B min,-0.88db,4/4,63%,95%,72%,55%,6%,32%,5%,3%
+752,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+753,,,,,,,,,,,,,
+754,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+755,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+756,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+757,7CN0OwCU02ubIN46aJscxI,130 BPM,F# Maj,-8.03db,4/4,45%,65%,80%,30%,15%,10%,4%,0%
+758,67smGwuPEtA6GAfeweAVNO,130 BPM,C# Maj,-4.71db,4/4,79%,77%,68%,50%,3%,10%,9%,73%
+759,5Wq2dXRkrrBcXIVaU7cejY,89 BPM,D Maj,-9db,4/4,41%,54%,77%,42%,28%,16%,5%,0%
+760,45u81IteV56TBzH96802Li,137 BPM,D Maj,-4.26db,4/4,29%,89%,86%,96%,33%,8%,35%,0%
+761,0nkaFEJ2iF3zxE3n7FQIuK,109 BPM,G# Maj,-14.34db,4/4,39%,32%,45%,44%,3%,11%,86%,90%
+762,1ZjsZRSd4I29FCNEUsgtkN,108 BPM,A# min,-10.04db,4/4,42%,64%,88%,85%,11%,13%,25%,0%
+763,6CcJMwBtXByIz4zQLzFkKc,137 BPM,C Maj,-18.44db,4/4,80%,13%,42%,12%,4%,11%,95%,0%
+764,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+765,4scpF6J5uMBvoh6sFB7EL1,125 BPM,F# Maj,-7.8db,4/4,67%,49%,89%,24%,16%,9%,2%,0%
+766,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+767,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+768,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+769,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+770,5tCwupjT5bc13y5rsaVUlX,82 BPM,G Maj,-4.91db,5/4,52%,98%,28%,4%,26%,43%,1%,2%
+771,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+772,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+773,3ALGJAT0BtRbRq6TB0arfl,104 BPM,B min,-7.17db,4/4,21%,76%,86%,19%,41%,19%,28%,0%
+774,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+775,39382sUtIOwIXftX0i76do,114 BPM,A min,-5.71db,4/4,73%,67%,76%,33%,4%,12%,25%,0%
+776,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+777,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+778,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+779,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+780,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+781,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+782,6aJn7Cst74cj4lNIiPRgav,167 BPM,F min,-2.66db,4/4,84%,90%,74%,79%,4%,9%,55%,0%
+783,6MzofobZt2dm0Kf1hTThFz,150 BPM,A# Maj,-6.54db,4/4,85%,56%,67%,84%,4%,10%,50%,1%
+784,,,,,,,,,,,,,
+785,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+786,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+787,7uwJwSKpmzZH7p7imm4f1P,176 BPM,D Maj,-7.72db,4/4,65%,48%,54%,34%,15%,8%,84%,0%
+788,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+789,,,,,,,,,,,,,
+790,,,,,,,,,,,,,
+791,,,,,,,,,,,,,
+792,,,,,,,,,,,,,
+793,,,,,,,,,,,,,
+794,1taoLdnliQUxA3WtufvFNh,114 BPM,C min,-6.99db,4/4,22%,68%,87%,37%,4%,11%,1%,0%
+795,,,,,,,,,,,,,
+796,,,,,,,,,,,,,
+797,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+798,0VVD95cRAppHSOGPYrfIG2,100 BPM,D min,-9.5db,4/4,70%,48%,75%,33%,4%,21%,82%,0%
+799,,,,,,,,,,,,,
+800,,,,,,,,,,,,,
+801,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+802,,,,,,,,,,,,,
+803,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+804,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+805,,,,,,,,,,,,,
+806,4N5Kj0F1lViUsoyiICAdti,125 BPM,B min,-10.08db,4/4,34%,54%,82%,60%,3%,8%,24%,0%
+807,14to2M16u4ZHS1DnYEof0J,145 BPM,C min,-4.97db,4/4,45%,80%,66%,93%,3%,21%,12%,0%
+808,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+809,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+810,,,,,,,,,,,,,
+811,3HH6ACm3OG9DtmfUGq3jOg,125 BPM,B Maj,-7.05db,4/4,39%,83%,73%,39%,8%,22%,18%,80%
+812,654XTpkoachnc4HT2Fi3Fn,130 BPM,C min,-3.09db,4/4,66%,80%,69%,94%,3%,35%,25%,0%
+813,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+814,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+815,,,,,,,,,,,,,
+816,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+817,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+818,2CspwnypzT7rcWI9RfsoSb,117 BPM,A# min,-4.98db,4/4,86%,72%,89%,84%,4%,8%,0%,0%
+819,4URwHymA0yORRrbzMbfPaR,138 BPM,B min,-14.32db,4/4,35%,42%,87%,96%,13%,10%,32%,4%
+820,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+821,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+822,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+823,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+824,5CA12CUaIcFa87eYdSaSJ2,186 BPM,C# Maj,-2.38db,4/4,24%,94%,46%,87%,7%,12%,0%,24%
+825,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+826,,,,,,,,,,,,,
+827,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+828,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+829,,,,,,,,,,,,,
+830,,,,,,,,,,,,,
+831,6NjWCIYu1W8xa3HIvcIhd4,100 BPM,G# Maj,-8.43db,4/4,73%,41%,93%,52%,7%,13%,16%,0%
+832,4REIf9qYO6DkxdjASVlvTj,180 BPM,A# min,-1.06db,4/4,25%,99%,68%,66%,5%,24%,2%,68%
+833,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+834,4p7DTkyrKqT98xlIwYYfXz,147 BPM,G# Maj,-4.22db,4/4,85%,71%,49%,32%,3%,15%,0%,0%
+835,3yDRcs0Y4pPzkvMbUfeF9H,110 BPM,F min,-3.95db,4/4,84%,79%,73%,67%,11%,31%,13%,0%
+836,,,,,,,,,,,,,
+837,,,,,,,,,,,,,
+838,,,,,,,,,,,,,
+839,,,,,,,,,,,,,
+840,,,,,,,,,,,,,
+841,,,,,,,,,,,,,
+842,,,,,,,,,,,,,
+843,,,,,,,,,,,,,
+844,4QtiVmuA88tPQiCOHZuQ5b,95 BPM,C# min,-3.11db,4/4,63%,90%,79%,79%,6%,5%,16%,0%
+845,,,,,,,,,,,,,
+846,,,,,,,,,,,,,
+847,,,,,,,,,,,,,
+848,,,,,,,,,,,,,
+849,,,,,,,,,,,,,
+850,,,,,,,,,,,,,
+851,5kDgJffgJ0lYHTSiaXFWNw,162 BPM,B min,-5.09db,3/4,79%,74%,42%,13%,5%,19%,2%,0%
+852,,,,,,,,,,,,,
+853,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+854,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+855,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+856,65jlYicEsKIeY2eWvs1rVf,100 BPM,F# min,-10.81db,4/4,31%,44%,61%,64%,35%,12%,4%,0%
+857,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+858,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+859,1H3okcaLb3IjLnp05KrRaD,155 BPM,G# Maj,-4.44db,4/4,59%,88%,56%,18%,28%,36%,0%,0%
+860,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+861,2CBuonjhTSzjzDBKNhjxlF,140 BPM,D# min,-8.29db,4/4,63%,56%,79%,90%,12%,14%,75%,0%
+862,1nPjwnKrO6imcSiaXNu8CX,132 BPM,G# min,-6.21db,5/4,66%,64%,71%,66%,29%,15%,8%,0%
+863,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+864,7HuBqX0G5mJTd8TEiPZ40K,100 BPM,D Maj,-7.04db,4/4,64%,58%,74%,52%,6%,12%,58%,1%
+865,2UX821OXiIYGp67PdMqmoe,111 BPM,F min,-5.79db,4/4,62%,86%,82%,63%,20%,11%,52%,0%
+866,7daGugofgBVQN2TGIrlFjO,138 BPM,A# Maj,-6.15db,4/4,58%,78%,81%,58%,17%,13%,15%,0%
+867,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+868,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+869,3bg2qahpZmsg5wV2EMPXIk,130 BPM,C Maj,-5.48db,4/4,80%,66%,56%,39%,4%,9%,21%,0%
+870,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+871,0faQCjG6E7VecroZfmSA3J,157 BPM,C Maj,-6db,3/4,53%,86%,53%,90%,38%,23%,13%,0%
+872,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+873,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+874,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+875,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+876,0K5Wbzan94w91ImAKQcjsw,81 BPM,F# Maj,-1.77db,5/4,69%,48%,76%,44%,20%,26%,84%,19%
+877,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+878,2FWK5aCgIQMWTikAUhwo3N,115 BPM,A min,-5.62db,4/4,31%,80%,68%,78%,28%,29%,10%,0%
+879,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+880,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+881,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+882,0uXpWdTQDlGW8eZdXHudNB,128 BPM,D Maj,-5.33db,4/4,40%,83%,71%,78%,3%,16%,1%,0%
+883,6FaMpOVyLVhyf6Fb8QMrhO,100 BPM,C# Maj,-7.46db,1/4,65%,59%,50%,42%,27%,10%,31%,0%
+884,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+885,4u6STUR9fsBQozW1S40BTN,105 BPM,A# min,-4.65db,4/4,59%,73%,60%,55%,8%,12%,6%,14%
+886,1EXYDolm4Q74aoGv2qcjxZ,60 BPM,G Maj,-10.52db,4/4,63%,56%,56%,58%,9%,6%,9%,0%
+887,6eo9xRtWnD9QCFYJ4IS7pa,85 BPM,F min,-4.2db,4/4,51%,78%,43%,64%,21%,88%,2%,0%
+888,,,,,,,,,,,,,
+889,01FLc163t7XIEaiCQMUJ2i,128 BPM,G Maj,-3.54db,4/4,39%,95%,73%,43%,14%,36%,0%,1%
+890,5a1iz510sv2W9Dt1MvFd5R,95 BPM,E Maj,-11.71db,3/4,87%,21%,34%,36%,4%,34%,91%,0%
+891,5eqiMMbaeUZ32Q7sS00H35,130 BPM,A Maj,-6.22db,4/4,65%,60%,96%,65%,18%,21%,7%,0%
+892,2QykdmhiTUVebwEes4xAa4,128 BPM,G# min,-14.95db,4/4,38%,28%,76%,97%,16%,14%,90%,78%
+893,3XZuGWfz9m9sTv4OhkZcn5,160 BPM,G# min,-7.08db,4/4,56%,70%,68%,68%,28%,15%,4%,0%
+894,67fA2WbpsW83TSXrjKSM7i,130 BPM,C Maj,-8.43db,4/4,54%,56%,80%,70%,4%,7%,59%,1%
+895,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+896,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+897,4wJ5Qq0jBN4ajy7ouZIV1c,149 BPM,C min,-4.48db,4/4,89%,78%,78%,94%,26%,36%,3%,0%
+898,58br48fFgvPtTesXLmbYah,84 BPM,A Maj,-7.59db,4/4,52%,52%,80%,60%,16%,18%,0%,0%
+899,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+900,0KEA9eVLmbND3kuRVxJ7Yy,128 BPM,A Maj,-4.29db,4/4,48%,88%,72%,22%,16%,15%,4%,71%
+901,6lZAFQo9lPPIqybUAuhEDJ,82 BPM,B Maj,-7.7db,4/4,47%,48%,64%,52%,3%,11%,26%,0%
+902,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+903,7CNUbTjeq6UxpvKHAbonU0,128 BPM,G Maj,-7.1db,4/4,45%,81%,58%,72%,14%,74%,0%,0%
+904,7IYXHtvFO3qZfe6In07sKE,137 BPM,G# min,-6.37db,4/4,57%,81%,72%,93%,3%,35%,0%,0%
+905,4yWCzA44dQyp0SoeM81bUb,76 BPM,A# Maj,-9.18db,4/4,58%,30%,56%,46%,4%,11%,91%,0%
+906,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+907,2J38DVGTR8RV4jLVdDmtQv,137 BPM,G# Maj,-7.35db,5/4,59%,80%,52%,52%,46%,9%,9%,1%
+908,5GdAGqF9ZI4gADtpVAxqe7,112 BPM,D# Maj,-10.62db,4/4,67%,19%,80%,14%,4%,10%,76%,0%
+909,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+910,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+911,5kDgJffgJ0lYHTSiaXFWNw,162 BPM,B min,-5.09db,3/4,79%,74%,42%,13%,5%,19%,2%,0%
+912,3sRirtHjHoKoorZCNAbKpN,120 BPM,B Maj,-5db,4/4,31%,72%,93%,96%,12%,34%,63%,0%
+913,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+914,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+915,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+916,0eSTu4biq1whc8u8SaS3F3,94 BPM,B min,-10.4db,4/4,62%,46%,51%,32%,13%,11%,45%,0%
+917,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+918,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+919,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+920,63kgvYkyiyVAAomPuP2Ipt,130 BPM,B min,-7db,4/4,32%,77%,85%,59%,25%,71%,12%,0%
+921,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+922,3HwXUvdZXDxmvABSsxhGmO,172 BPM,G min,-28.34db,3/4,55%,8%,8%,4%,5%,10%,88%,94%
+923,3SKH53SPQbEnZR4cJPVaz2,111 BPM,A Maj,-5.81db,4/4,87%,55%,80%,65%,4%,12%,10%,0%
+924,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+925,6qnoOnDK3embwtU89Fz5XN,135 BPM,G Maj,-5.31db,4/4,49%,89%,79%,94%,3%,22%,0%,68%
+926,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+927,0vxNNwfm6zj8ISkCi6INFR,145 BPM,G Maj,-9.84db,4/4,71%,43%,52%,35%,3%,12%,83%,0%
+928,1Dp12QxugzTQHwnTvL5Gji,120 BPM,C# Maj,-9.43db,4/4,44%,79%,76%,61%,5%,13%,0%,88%
+929,3d1tnJsmQEi01ZMNZ7dkGn,120 BPM,F Maj,-6.96db,4/4,49%,72%,80%,32%,42%,22%,35%,0%
+930,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+931,2O4arHwdvPxOBuDCOd8ASR,78 BPM,D min,-17.38db,4/4,34%,4%,30%,36%,4%,10%,95%,93%
+932,4Bm0C5xYPXhDo1X15rrwVd,106 BPM,B Maj,-15.74db,3/4,50%,45%,51%,18%,4%,11%,8%,90%
+933,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+934,6IPwKM3fUUzlElbvKw2sKl,130 BPM,G Maj,-12.81db,4/4,83%,37%,57%,24%,3%,16%,11%,18%
+935,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+936,627teoJpK7qZOxRRY8TNnv,169 BPM,D# Maj,-9.72db,4/4,67%,65%,54%,64%,6%,6%,9%,0%
+937,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+938,02g6wZQZ0cByIqVgjSHBzy,100 BPM,D# min,-10.32db,4/4,47%,50%,80%,55%,25%,11%,7%,0%
+939,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+940,5pnE551t8FjOju7tEfoNeF,94 BPM,C# Maj,-8.88db,4/4,29%,44%,44%,33%,4%,9%,87%,0%
+941,4tYpkgBjxxin7SiUBW0Rtq,89 BPM,B min,-8.85db,4/4,52%,61%,43%,25%,21%,31%,0%,0%
+942,4jHl6jgzZOnS4nGamPZ1Uk,106 BPM,G Maj,-8.77db,3/4,82%,38%,80%,43%,7%,10%,86%,0%
+943,5xeSd4HgzrYpNLEf3LfYLK,167 BPM,C# Maj,-4.69db,4/4,81%,68%,83%,68%,36%,23%,0%,0%
+944,7bvZgZ1VxQDCRQDqlVfDfM,144 BPM,D min,-10.29db,3/4,15%,45%,42%,57%,3%,9%,73%,72%
+945,,,,,,,,,,,,,
+946,3lcUQs5nyrjoHpQR9Vo2aA,121 BPM,F min,-13.17db,4/4,76%,83%,76%,92%,4%,9%,0%,1%
+947,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+948,3pUtdI0esSIqvHNVzBpWih,113 BPM,C# min,-10.89db,4/4,19%,52%,80%,22%,5%,8%,56%,90%
+949,2tSetGL4BpKgKK7BVAbhGf,118 BPM,E min,-7.29db,3/4,37%,66%,56%,90%,10%,6%,24%,0%
+950,3j8dK7vyTB0ARmp2iw43Sy,106 BPM,B min,-6.12db,4/4,30%,54%,70%,22%,7%,9%,0%,94%
+951,,,,,,,,,,,,,
+952,,,,,,,,,,,,,
+953,1HlJALnV6ae2YnR6wC1rAm,135 BPM,A# min,-6.13db,3/4,10%,76%,64%,61%,7%,11%,54%,0%
+954,,,,,,,,,,,,,
+955,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+956,5EKVL6XHsGCWeMik7XBMh8,79 BPM,B min,-6.28db,4/4,40%,70%,42%,69%,17%,38%,49%,0%
+957,,,,,,,,,,,,,
+958,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+959,,,,,,,,,,,,,
+960,4KiRDEG5A6FSdNfCq1WKE9,170 BPM,C# Maj,-7.92db,4/4,49%,65%,82%,91%,33%,9%,8%,0%
+961,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+962,,,,,,,,,,,,,
+963,,,,,,,,,,,,,
+964,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+965,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+966,,,,,,,,,,,,,
+967,5Iegog3nLU1UH52WG59TkP,70 BPM,G Maj,-12.88db,4/4,15%,20%,63%,22%,12%,39%,74%,0%
+968,0cHdgFX7fbNnqB84Jy60tJ,81 BPM,E min,-18db,3/4,57%,13%,36%,56%,4%,31%,96%,47%
+969,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+970,,,,,,,,,,,,,
+971,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+972,,,,,,,,,,,,,
+973,,,,,,,,,,,,,
+974,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+975,5QnYIhxsmXji5cI7x8pv4x,121 BPM,C# min,-6db,5/4,36%,79%,71%,71%,36%,5%,5%,0%
+976,,,,,,,,,,,,,
+977,0NxXeHUJMPlOmbmxNHj9AE,144 BPM,C min,-3.69db,4/4,52%,86%,65%,91%,13%,54%,66%,0%
+978,,,,,,,,,,,,,
+979,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+980,7pSIxWwue7kcqomsmaltbT,156 BPM,F min,-7db,4/4,39%,60%,65%,60%,3%,21%,75%,0%
+981,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+982,,,,,,,,,,,,,
+983,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+984,3gnOd9HIoEXOLNKwHccRCV,140 BPM,E min,-10.55db,4/4,40%,38%,67%,48%,7%,15%,56%,0%
+985,2QGJvv74xtvO2JRyDh4NTx,130 BPM,F# Maj,-5.75db,4/4,43%,78%,73%,52%,3%,22%,0%,83%
+986,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+987,4eL7MpDmxh1TKqmsOFG7zE,131 BPM,G min,-5.17db,4/4,52%,79%,71%,54%,4%,27%,9%,0%
+988,11dHZLY9Rfz8mPnydmSzwY,94 BPM,E min,-13.05db,4/4,52%,26%,91%,30%,22%,9%,17%,2%
+989,,,,,,,,,,,,,
+990,1dg3oYZJ8p5tuyPiFXV5Vy,130 BPM,F min,-13.55db,4/4,17%,21%,80%,71%,5%,10%,76%,75%
+991,3wXYuKDkOexVfmO8Up2FO6,115 BPM,G Maj,-9.7db,4/4,6%,91%,81%,70%,4%,9%,2%,86%
+992,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+993,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+994,2VCJwN4vIiMRYpaiq9jFf2,118 BPM,F# Maj,-6.73db,4/4,51%,72%,82%,87%,21%,25%,11%,0%
+995,0Uhh47qzZONriUXIxEZsTt,115 BPM,A Maj,-1.51db,4/4,33%,94%,43%,70%,21%,8%,42%,0%
+996,,,,,,,,,,,,,
+997,,,,,,,,,,,,,
+998,4L9Xn6SUcbA2OMUv9HzGUN,194 BPM,B min,-6.58db,4/4,51%,89%,39%,74%,6%,30%,1%,0%
+999,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+1000,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+1001,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1002,4xF4ZBGPZKxECeDFrqSAG4,95 BPM,A# Maj,-26.81db,4/4,82%,9%,47%,8%,3%,44%,93%,80%
+1003,2TjdnqlpwOjhijHCwHCP2d,116 BPM,F Maj,-13.81db,4/4,69%,22%,27%,18%,3%,8%,77%,90%
+1004,,,,,,,,,,,,,
+1005,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1006,,,,,,,,,,,,,
+1007,,,,,,,,,,,,,
+1008,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1009,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1010,7iKaxSeCX9i5Vg6ZAucap9,105 BPM,G Maj,-4.72db,4/4,15%,66%,89%,67%,14%,9%,60%,11%
+1011,,,,,,,,,,,,,
+1012,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1013,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+1014,,,,,,,,,,,,,
+1015,5JtRiVuQRKqoEfueP1FVvU,100 BPM,D min,-12.53db,4/4,53%,39%,69%,33%,4%,7%,68%,0%
+1016,,,,,,,,,,,,,
+1017,6ciUhBm7Ho2i49N0a1dfmZ,74 BPM,B min,-37.44db,4/4,28%,1%,10%,6%,3%,13%,96%,91%
+1018,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+1019,24WBge8e53iDTeXOtVB02s,130 BPM,B Maj,-3.97db,4/4,76%,88%,57%,73%,3%,11%,0%,76%
+1020,,,,,,,,,,,,,
+1021,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1022,,,,,,,,,,,,,
+1023,,,,,,,,,,,,,
+1024,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1025,1ad6CbExeZneBGswe5YuSD,97 BPM,D Maj,-6.54db,4/4,44%,64%,66%,21%,3%,11%,15%,0%
+1026,0DfpLTGoLeQAU8zj4La5Jf,80 BPM,B min,-9.16db,4/4,48%,74%,80%,85%,19%,11%,27%,0%
+1027,370QmKr8P3MoHE73VDMl37,102 BPM,D Maj,-7.49db,4/4,38%,78%,58%,73%,24%,23%,11%,0%
+1028,,,,,,,,,,,,,
+1029,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1030,0fVNRFuJwtazi8kr48DFc3,114 BPM,E min,-9.17db,4/4,35%,64%,76%,76%,17%,8%,7%,0%
+1031,3Lr9gPIzX6yy2VPlYENCfX,145 BPM,C min,-9.58db,4/4,52%,61%,55%,19%,3%,14%,47%,94%
+1032,,,,,,,,,,,,,
+1033,1UNOACS4O1ROKbDsLfMjOd,176 BPM,B min,-4.15db,4/4,52%,69%,38%,64%,4%,31%,48%,0%
+1034,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+1035,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1036,1VNvsvEsUpuUCbHpVop1vo,79 BPM,D# Maj,-32.45db,4/4,63%,1%,44%,9%,5%,9%,98%,94%
+1037,6PxNbn9eM5SIDTBBZfG9PX,142 BPM,D min,-6.04db,4/4,55%,87%,70%,76%,5%,22%,57%,0%
+1038,3OeQqsh939DneJn69BH1Ny,92 BPM,C# Maj,-6.15db,4/4,30%,78%,78%,96%,4%,33%,9%,0%
+1039,5VfPYI5rj8GtQ2qChKYwMA,100 BPM,F min,-6.12db,4/4,63%,79%,71%,67%,3%,26%,1%,1%
+1040,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1041,2OtPfBhQhW1r6gfzDrHSWd,122 BPM,D# Maj,-6.36db,4/4,27%,54%,68%,57%,4%,43%,74%,0%
+1042,3JnQ9tk30e7xI9uAvSnXtF,101 BPM,C# min,-5.2db,4/4,51%,71%,83%,13%,26%,12%,40%,0%
+1043,2F0nt8s51ztMGHnx01y35C,160 BPM,C# min,-6.67db,4/4,38%,79%,72%,96%,6%,6%,47%,1%
+1044,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1045,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1046,3yLZ0xg3XoEwnl773q9Ymc,180 BPM,A min,-3.8db,4/4,45%,93%,74%,96%,10%,28%,46%,0%
+1047,4ltU2MHw7l9Mbr7NhbNjLV,158 BPM,F# min,-5.59db,4/4,63%,80%,81%,96%,8%,5%,14%,0%
+1048,2o5kYSgUQPLmOLVf3CLWZe,140 BPM,C# min,-8.63db,4/4,48%,49%,68%,53%,6%,12%,46%,0%
+1049,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1050,1bYyZHW4IuGdWzzbm6ErMq,129 BPM,F Maj,-3.59db,4/4,32%,84%,92%,99%,6%,6%,60%,92%
+1051,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1052,2vmj0uaS96jQsty4Ug1jy1,96 BPM,F# Maj,-5.23db,4/4,42%,93%,76%,85%,4%,18%,3%,13%
+1053,1WVCZ2CaupXNyG0csSwXJi,129 BPM,D# min,-4.37db,4/4,57%,72%,81%,46%,30%,11%,40%,0%
+1054,2GxPjS7iJerovOLU0KVffB,180 BPM,D min,-8.23db,4/4,36%,69%,51%,39%,7%,13%,0%,0%
+1055,1oJke3X0sSFs6DXD3ll6YB,120 BPM,C min,-5.87db,4/4,36%,71%,87%,65%,4%,9%,1%,0%
+1056,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+1057,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1058,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+1059,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1060,5zP4VXNg0UAJBVRfpdxng7,100 BPM,C Maj,-3.61db,4/4,42%,84%,86%,64%,20%,12%,28%,0%
+1061,1PAMbRu4kINuUKCpDqXtF5,152 BPM,C# Maj,-8.27db,4/4,42%,89%,85%,98%,8%,4%,12%,0%
+1062,1VwO4nzNytIqxGRniBzzSg,132 BPM,C min,-5.14db,4/4,29%,76%,82%,96%,4%,12%,44%,0%
+1063,1xdXpQ8rELO312ruPkaTpH,100 BPM,F min,-4.13db,4/4,42%,88%,77%,65%,13%,13%,14%,2%
+1064,4yzHQjhuqc2Mln2zQd4C83,149 BPM,C# Maj,-4.58db,4/4,40%,74%,81%,88%,5%,12%,12%,0%
+1065,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1066,0b5M7GQ3q4fgxsJqbnaR93,124 BPM,G Maj,-3.4db,4/4,47%,91%,67%,14%,4%,18%,0%,0%
+1067,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+1068,4mW19sFAneLDRucovCnD55,140 BPM,F min,-4.48db,4/4,36%,77%,86%,71%,5%,14%,34%,0%
+1069,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1070,00h0W7OACncGvIWVhwGhPX,160 BPM,A# Maj,-3.35db,4/4,53%,81%,86%,86%,6%,12%,25%,0%
+1071,4NsHMmSMkNo01lOcttVTxZ,185 BPM,G Maj,-3.92db,4/4,50%,57%,72%,97%,6%,6%,35%,0%
+1072,1w5P0x6LL5xKnhp82MI5Yi,83 BPM,F# min,-7.76db,4/4,27%,94%,65%,78%,6%,9%,10%,3%
+1073,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1074,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+1075,2ydjvcsYPRAvJikdU0XREW,93 BPM,A# min,-3.12db,4/4,36%,74%,72%,61%,5%,16%,10%,44%
+1076,4KzxeD91DwTgMu0uArD6tg,95 BPM,A min,-3.23db,4/4,56%,78%,75%,77%,6%,15%,33%,0%
+1077,6tUqHWuW8quekpQ7Z27Sep,88 BPM,C# Maj,-4.46db,4/4,32%,95%,75%,89%,6%,17%,34%,1%
+1078,2IcPFaQt5y0JxXKuDEIG5G,114 BPM,A# Maj,-14.5db,4/4,24%,45%,39%,19%,4%,7%,11%,94%
+1079,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+1080,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1081,5a1iz510sv2W9Dt1MvFd5R,95 BPM,E Maj,-11.71db,3/4,87%,21%,34%,36%,4%,34%,91%,0%
+1082,2yUZv6utvoeV0B79YSn7pq,75 BPM,C Maj,-4.21db,4/4,59%,87%,82%,94%,12%,14%,1%,0%
+1083,1qbql17v0Hazo94o5RUyWQ,80 BPM,E min,-8.61db,3/4,74%,46%,37%,30%,26%,13%,86%,1%
+1084,6NOXos5w6dBAdt9BkEic0j,86 BPM,G# Maj,-6.34db,4/4,49%,85%,48%,41%,27%,10%,13%,0%
+1085,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1086,1eCbOL2Xq9VJQrBZDMvrN8,100 BPM,C# Maj,-5.55db,4/4,27%,96%,55%,12%,6%,5%,2%,69%
+1087,6hNugO0JoBkjYN321VZxXv,158 BPM,A# min,-4.25db,4/4,31%,89%,78%,95%,6%,32%,8%,0%
+1088,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1089,30DnQCN64v8xBpGZpLgb6l,148 BPM,C min,-6db,3/4,67%,51%,55%,20%,3%,10%,4%,0%
+1090,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1091,6YnNRZZH53YVue4gpk7jYQ,132 BPM,A min,-5.39db,4/4,59%,91%,89%,90%,10%,86%,4%,0%
+1092,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+1093,,,,,,,,,,,,,
+1094,3uaOB2A4gfCwi4zFyrXqln,98 BPM,F min,-9.09db,4/4,38%,36%,45%,43%,3%,17%,65%,0%
+1095,73bCbDJpKmWD1GQ7knc2Vc,145 BPM,D Maj,-5.16db,4/4,25%,79%,54%,87%,7%,3%,48%,0%
+1096,7vBIirNRrXVQsjmYJ2hxel,94 BPM,F Maj,-2.96db,4/4,23%,80%,91%,80%,26%,34%,12%,0%
+1097,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1098,4wxqOZ7asjdCamUzKSFqvW,100 BPM,D# min,-2.74db,4/4,39%,93%,83%,50%,5%,39%,6%,0%
+1099,5DT6OEvMwb8Ew3NbSi6WCD,135 BPM,D Maj,-8.56db,1/4,39%,74%,55%,33%,3%,33%,15%,0%
+1100,0zKohlWGzWjWl46rg1L50I,70 BPM,B Maj,-48.49db,4/4,24%,0%,12%,4%,4%,12%,93%,94%
+1101,,,,,,,,,,,,,
+1102,4Kxn0Ix6IDWLnkGxmb4i2D,100 BPM,F min,-7.13db,4/4,51%,54%,83%,22%,18%,10%,20%,0%
+1103,4dSi9n50gh9B1iOnmnFLgu,158 BPM,D# Maj,-8.78db,4/4,42%,67%,75%,94%,5%,9%,50%,0%
+1104,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1105,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1106,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+1107,6j3qG8z0UsIezaRSEI3K2c,150 BPM,C Maj,-6.47db,4/4,46%,85%,88%,92%,5%,7%,10%,1%
+1108,7kGV5i96IHJ2ToepCfFx3L,90 BPM,G Maj,-10.75db,4/4,32%,38%,57%,27%,3%,12%,90%,26%
+1109,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1110,47fKmVjG9hgJJjQSPY48lY,134 BPM,C Maj,-7.09db,4/4,18%,65%,55%,93%,3%,22%,63%,18%
+1111,3pFcK6taoEkjfirkJWaTv7,155 BPM,F# min,-5.25db,4/4,57%,88%,78%,88%,9%,6%,28%,0%
+1112,4SPzi5f243eXrc7NAwYVSu,85 BPM,G Maj,-7db,4/4,43%,46%,82%,35%,23%,11%,29%,0%
+1113,2YOaPCoq3I21pzZMiyeJEt,94 BPM,C Maj,-6.99db,4/4,35%,91%,69%,87%,10%,82%,27%,1%
+1114,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1115,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1116,0aRJDRr2NHidSqXpjJlhS2,126 BPM,F min,-7.28db,3/4,34%,64%,79%,23%,3%,12%,21%,0%
+1117,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1118,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+1119,7CzIPuAZjl1K8wYPOOzHyL,144 BPM,F min,-4.19db,4/4,59%,86%,82%,96%,3%,10%,26%,1%
+1120,6QiMlAAWY6CV1ItB9oAgF2,120 BPM,C# min,-7.09db,4/4,69%,65%,73%,41%,13%,8%,1%,0%
+1121,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1122,7Lt9GmQADKBkE5ch07n8fY,140 BPM,F# Maj,-6.9db,4/4,55%,51%,73%,52%,4%,27%,26%,0%
+1123,7rKpQsXelc2Q9EOvllyKWp,75 BPM,F# min,-6.03db,4/4,47%,54%,74%,75%,9%,10%,27%,0%
+1124,,,,,,,,,,,,,
+1125,3pUtdI0esSIqvHNVzBpWih,113 BPM,C# min,-10.89db,4/4,19%,52%,80%,22%,5%,8%,56%,90%
+1126,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1127,,,,,,,,,,,,,
+1128,3j8dK7vyTB0ARmp2iw43Sy,106 BPM,B min,-6.12db,4/4,30%,54%,70%,22%,7%,9%,0%,94%
+1129,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1130,,,,,,,,,,,,,
+1131,,,,,,,,,,,,,
+1132,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1133,,,,,,,,,,,,,
+1134,,,,,,,,,,,,,
+1135,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+1136,,,,,,,,,,,,,
+1137,,,,,,,,,,,,,
+1138,,,,,,,,,,,,,
+1139,,,,,,,,,,,,,
+1140,654XTpkoachnc4HT2Fi3Fn,130 BPM,C min,-3.09db,4/4,66%,80%,69%,94%,3%,35%,25%,0%
+1141,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1142,,,,,,,,,,,,,
+1143,,,,,,,,,,,,,
+1144,,,,,,,,,,,,,
+1145,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1146,5Iegog3nLU1UH52WG59TkP,70 BPM,G Maj,-12.88db,4/4,15%,20%,63%,22%,12%,39%,74%,0%
+1147,4KiRDEG5A6FSdNfCq1WKE9,170 BPM,C# Maj,-7.92db,4/4,49%,65%,82%,91%,33%,9%,8%,0%
+1148,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1149,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+1150,4WgViu9gw3qYOr3iF9OuLG,160 BPM,F# Maj,-10.91db,4/4,75%,31%,33%,15%,4%,28%,54%,0%
+1151,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1152,,,,,,,,,,,,,
+1153,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1154,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1155,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1156,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1157,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+1158,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1159,,,,,,,,,,,,,
+1160,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1161,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+1162,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1163,,,,,,,,,,,,,
+1164,11dHZLY9Rfz8mPnydmSzwY,94 BPM,E min,-13.05db,4/4,52%,26%,91%,30%,22%,9%,17%,2%
+1165,5EKVL6XHsGCWeMik7XBMh8,79 BPM,B min,-6.28db,4/4,40%,70%,42%,69%,17%,38%,49%,0%
+1166,6oECOh5nAYmxz4EiYhjsPi,105 BPM,B Maj,-8.47db,4/4,57%,48%,75%,72%,13%,11%,9%,0%
+1167,,,,,,,,,,,,,
+1168,3gnOd9HIoEXOLNKwHccRCV,140 BPM,E min,-10.55db,4/4,40%,38%,67%,48%,7%,15%,56%,0%
+1169,3HH6ACm3OG9DtmfUGq3jOg,125 BPM,B Maj,-7.05db,4/4,39%,83%,73%,39%,8%,22%,18%,80%
+1170,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+1171,,,,,,,,,,,,,
+1172,3t7MOVjzXyqT7vPw4eNrAV,120 BPM,F min,-5.09db,4/4,61%,71%,71%,80%,8%,31%,25%,0%
+1173,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1174,,,,,,,,,,,,,
+1175,1RKqTwaovKWaxs9I8xdygQ,130 BPM,C min,-4.18db,4/4,61%,91%,62%,33%,4%,10%,13%,0%
+1176,,,,,,,,,,,,,
+1177,2QGJvv74xtvO2JRyDh4NTx,130 BPM,F# Maj,-5.75db,4/4,43%,78%,73%,52%,3%,22%,0%,83%
+1178,0jY618wuln0b5b8sCxFgjk,115 BPM,C Maj,-4.22db,4/4,71%,88%,71%,34%,4%,44%,16%,0%
+1179,,,,,,,,,,,,,
+1180,7hyFKrPZo1Zv4D35MpTBdr,177 BPM,C# min,-8db,3/4,70%,50%,44%,26%,3%,22%,44%,0%
+1181,6dyHfqJITUk55KqC5AB7md,130 BPM,F# Maj,-9db,4/4,38%,38%,63%,19%,3%,12%,62%,0%
+1182,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1183,,,,,,,,,,,,,
+1184,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1185,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+1186,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1187,0cHdgFX7fbNnqB84Jy60tJ,81 BPM,E min,-18db,3/4,57%,13%,36%,56%,4%,31%,96%,47%
+1188,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1189,6dXjUMjFxfAX4F2dHKqQzf,150 BPM,C# Maj,-5.9db,4/4,78%,74%,90%,73%,22%,30%,5%,0%
+1190,,,,,,,,,,,,,
+1191,,,,,,,,,,,,,
+1192,6OieTz3MN0a5jXsnkI6biW,152 BPM,A Maj,-6db,4/4,48%,68%,64%,63%,3%,19%,35%,0%
+1193,4L9Xn6SUcbA2OMUv9HzGUN,194 BPM,B min,-6.58db,4/4,51%,89%,39%,74%,6%,30%,1%,0%
+1194,1QNY85ssyTltTjWpBl77Ja,105 BPM,A Maj,-10.18db,3/4,30%,38%,54%,16%,5%,15%,13%,0%
+1195,,,,,,,,,,,,,
+1196,3z5kClPpYBSATFBIvegWMj,131 BPM,E min,-11.41db,3/4,18%,38%,64%,5%,3%,9%,25%,94%
+1197,1eCbOL2Xq9VJQrBZDMvrN8,100 BPM,C# Maj,-5.55db,4/4,27%,96%,55%,12%,6%,5%,2%,69%
+1198,2n9ylYiF7urpXo36qBwr3g,94 BPM,F# min,-5.99db,4/4,58%,73%,60%,38%,4%,41%,33%,0%
+1199,,,,,,,,,,,,,
+1200,2ydjvcsYPRAvJikdU0XREW,93 BPM,A# min,-3.12db,4/4,36%,74%,72%,61%,5%,16%,10%,44%
+1201,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+1202,1taoLdnliQUxA3WtufvFNh,114 BPM,C min,-6.99db,4/4,22%,68%,87%,37%,4%,11%,1%,0%
+1203,0M5kuvUNL9WAItAb4NpMYR,97 BPM,A# min,-5.19db,4/4,39%,87%,68%,83%,3%,32%,3%,0%
+1204,,,,,,,,,,,,,
+1205,6ciUhBm7Ho2i49N0a1dfmZ,74 BPM,B min,-37.44db,4/4,28%,1%,10%,6%,3%,13%,96%,91%
+1206,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1207,3vD9Pt5zHFzqPadRTYcXts,135 BPM,G Maj,-5.42db,4/4,21%,77%,72%,75%,3%,7%,0%,2%
+1208,,,,,,,,,,,,,
+1209,,,,,,,,,,,,,
+1210,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+1211,,,,,,,,,,,,,
+1212,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1213,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1214,0bPP5cDG1ZnbAVCEa3ZbQ1,138 BPM,G min,-8.57db,4/4,75%,70%,87%,62%,4%,20%,51%,0%
+1215,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1216,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1217,21lNVQ20obqqiUJhC3FbKR,130 BPM,E min,-4.99db,4/4,51%,93%,77%,69%,14%,18%,28%,0%
+1218,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1219,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1220,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1221,5VVUyWQagEsJgkjvWggUVC,76 BPM,G min,-4.2db,5/4,61%,45%,80%,34%,38%,9%,20%,0%
+1222,1LvaJ2hAtmUqN5Xm6OZCTH,82 BPM,B Maj,-4.58db,4/4,51%,69%,59%,86%,14%,7%,56%,2%
+1223,5iUJjY4MvOXTBXB9vUvG5e,65 BPM,C# min,-2.41db,4/4,69%,69%,53%,7%,6%,30%,0%,0%
+1224,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+1225,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1226,4pD2KtKFgZUt7ZblO09RiL,157 BPM,C min,-12.46db,4/4,28%,32%,85%,83%,7%,11%,96%,42%
+1227,1x5sYLZiu9r5E43kMlt9f8,123 BPM,C min,-4.58db,4/4,74%,63%,71%,46%,6%,14%,26%,0%
+1228,0w7vodPWFEcuEYvWpbNbOu,130 BPM,D# min,-2.11db,4/4,69%,85%,79%,65%,6%,18%,55%,0%
+1229,1dwBH7APyONH2Gq0v39Dnn,130 BPM,A min,-4.49db,4/4,61%,74%,86%,58%,6%,9%,42%,0%
+1230,42wdz3j7gstgUuhoFLCXqd,100 BPM,F# min,-7.43db,4/4,81%,52%,76%,80%,6%,8%,22%,0%
+1231,4pJRayl67HjfSbyWhG3HfL,148 BPM,E Maj,-15.11db,4/4,28%,26%,62%,30%,5%,24%,41%,0%
+1232,57YYx4wLHYuaeZguuIJiBm,109 BPM,E min,-5.46db,4/4,35%,83%,79%,89%,29%,19%,27%,0%
+1233,4TnEIYOXZ9KBGHOIqG5Xs5,132 BPM,F min,-4.71db,4/4,76%,53%,89%,78%,5%,13%,56%,0%
+1234,3LG6k3euv5TvoVlec1kXAt,104 BPM,E Maj,-8.42db,4/4,48%,31%,60%,13%,3%,13%,55%,0%
+1235,2o2xhyri4aJUtgMGkf5P0J,105 BPM,G min,-12.43db,4/4,71%,28%,74%,41%,3%,10%,85%,0%
+1236,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1237,2y5mEYDDPoQCgz55sP3eUz,157 BPM,G# Maj,-9.53db,4/4,56%,79%,66%,45%,6%,8%,21%,0%
+1238,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1239,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+1240,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1241,,,,,,,,,,,,,
+1242,09CtPGIpYB4BrO8qb1RGsF,100 BPM,C min,-3.67db,4/4,82%,76%,65%,41%,4%,30%,8%,0%
+1243,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1244,63mVyFn9QO2ia83uB8dScL,132 BPM,F Maj,-20.66db,3/4,56%,12%,17%,3%,4%,11%,98%,91%
+1245,6s1kzj4EbhFLXbuAGJbhbn,127 BPM,D# min,-8.24db,4/4,85%,42%,96%,72%,43%,10%,71%,0%
+1246,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1247,6x6EA3N9xXgptSakS7VZUg,85 BPM,A min,-1.79db,5/4,66%,83%,60%,42%,14%,13%,64%,0%
+1248,72E3kxM2h6EHD3adYN6eee,132 BPM,D min,-2.39db,4/4,37%,73%,94%,94%,32%,10%,27%,0%
+1249,7djvpzg0d27cCkuByv6eih,140 BPM,A min,-8.01db,4/4,55%,60%,86%,81%,14%,11%,30%,0%
+1250,4j4wr1y3pcpa4aFWlC1llc,65 BPM,D Maj,-3.42db,4/4,73%,78%,84%,89%,14%,10%,59%,0%
+1251,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+1252,1DwpJCFR4CgevQJvJHmUw3,68 BPM,E min,-21.86db,4/4,39%,8%,17%,8%,4%,10%,98%,88%
+1253,,,,,,,,,,,,,
+1254,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1255,2IcPFaQt5y0JxXKuDEIG5G,114 BPM,A# Maj,-14.5db,4/4,24%,45%,39%,19%,4%,7%,11%,94%
+1256,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1257,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+1258,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1259,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1260,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1261,0zKohlWGzWjWl46rg1L50I,70 BPM,B Maj,-48.49db,4/4,24%,0%,12%,4%,4%,12%,93%,94%
+1262,,,,,,,,,,,,,
+1263,5v5Kra9bZOVKBXpfLVK2fP,150 BPM,G# Maj,-6.77db,5/4,44%,64%,29%,20%,5%,87%,26%,4%
+1264,5i3HfvltL3Vf78SckYpkK1,130 BPM,C# min,-7.05db,4/4,35%,52%,90%,86%,43%,8%,25%,0%
+1265,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1266,0BUkQGUXgcvf3gdCWYbtnJ,137 BPM,B min,-2.31db,4/4,83%,86%,90%,73%,24%,8%,4%,0%
+1267,4jUZymsR3lkia9wkP0o9cX,163 BPM,D min,-0.77db,5/4,82%,59%,64%,38%,18%,10%,60%,0%
+1268,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1269,,,,,,,,,,,,,
+1270,0bREVcSAxXl3WgWsxzjJT1,140 BPM,G# min,-6.97db,4/4,70%,59%,78%,54%,13%,8%,77%,0%
+1271,3rhCQVwAYYdcc0yFLQi3Kb,130 BPM,G Maj,-3.83db,4/4,66%,86%,68%,50%,22%,14%,1%,0%
+1272,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1273,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1274,5lGXgWvY60L80gKGk5Clgc,65 BPM,B min,-7.06db,3/4,63%,62%,68%,21%,29%,14%,45%,0%
+1275,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+1276,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+1277,0wEv4gVV7QxtpSZgGqQ2t3,130 BPM,C Maj,-3.56db,4/4,60%,84%,87%,76%,7%,5%,36%,0%
+1278,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1279,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+1280,2hrycoFU1mZw6YPvMcn8yC,160 BPM,A# min,-3.77db,4/4,83%,63%,64%,35%,3%,9%,16%,0%
+1281,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1282,7dKqPh21HpsysZvRWyNeM1,113 BPM,C# Maj,-6.52db,4/4,71%,61%,42%,31%,4%,11%,52%,0%
+1283,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+1284,5a1iz510sv2W9Dt1MvFd5R,95 BPM,E Maj,-11.71db,3/4,87%,21%,34%,36%,4%,34%,91%,0%
+1285,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1286,1WVCZ2CaupXNyG0csSwXJi,129 BPM,D# min,-4.37db,4/4,57%,72%,81%,46%,30%,11%,40%,0%
+1287,1oOuVGKCjRYyyAZHfKy1yp,127 BPM,C Maj,-7.18db,4/4,65%,49%,58%,57%,30%,39%,34%,0%
+1288,0sPJELXHyWpFgkxlzvvRFI,142 BPM,G Maj,-5.28db,4/4,67%,63%,62%,28%,3%,23%,22%,0%
+1289,3SKH53SPQbEnZR4cJPVaz2,111 BPM,A Maj,-5.81db,4/4,87%,55%,80%,65%,4%,12%,10%,0%
+1290,0t2zcpEu83wHCDgoDXpOSV,124 BPM,D Maj,-7.72db,4/4,38%,79%,83%,7%,5%,8%,0%,0%
+1291,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1292,0Zciq4zJTWJglf92YgTAWd,123 BPM,C# min,-6.77db,4/4,27%,65%,76%,52%,4%,13%,5%,0%
+1293,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+1294,7ne4VBA60CxGM75vw0EYad,109 BPM,C# Maj,-4.17db,4/4,96%,81%,55%,37%,4%,16%,21%,0%
+1295,6m51sam9gIqRMbJEKW4ADe,140 BPM,D Maj,-5.56db,4/4,75%,78%,88%,84%,5%,6%,38%,0%
+1296,,,,,,,,,,,,,
+1297,1x5sYLZiu9r5E43kMlt9f8,123 BPM,C min,-4.58db,4/4,74%,63%,71%,46%,6%,14%,26%,0%
+1298,1WGmyxoPCfOrk7uT2z3Zuu,142 BPM,A# min,-2.94db,4/4,62%,83%,76%,95%,5%,10%,12%,0%
+1299,1RvHHgtI5wnwGMBvm3QBAj,190 BPM,A# min,-3.89db,4/4,33%,69%,81%,71%,37%,5%,26%,0%
+1300,2tHwzyyOLoWSFqYNjeVMzj,107 BPM,A Maj,-6.09db,4/4,87%,59%,68%,62%,5%,10%,26%,0%
+1301,5mJcnekfy4DEpAZ6uAHM7Y,136 BPM,A# min,-3.39db,4/4,66%,95%,75%,80%,17%,15%,63%,0%
+1302,7KJxMmmzeMSJaxn0sUlziB,142 BPM,A min,-6.56db,4/4,38%,76%,57%,36%,12%,19%,11%,0%
+1303,3ThdgdoVnVM4m5J88oawXT,122 BPM,A# min,-8.58db,4/4,53%,66%,89%,92%,9%,8%,37%,0%
+1304,5EEsPmKPqHkpVogSfWCUoc,125 BPM,C# min,-6.55db,4/4,70%,57%,87%,90%,5%,10%,8%,0%
+1305,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1306,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1307,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1308,38GSwzJGcEnENqcrZ8dADJ,149 BPM,C min,-6.3db,4/4,65%,65%,62%,31%,5%,66%,1%,0%
+1309,4S78rQHd6cSC8g2TfdNJTf,105 BPM,C min,-6.48db,4/4,70%,74%,77%,35%,6%,8%,43%,0%
+1310,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1311,1VNvsvEsUpuUCbHpVop1vo,79 BPM,D# Maj,-32.45db,4/4,63%,1%,44%,9%,5%,9%,98%,94%
+1312,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1313,6RfHSlo0xOa5s3WnYj9xJa,170 BPM,G Maj,-9.32db,4/4,63%,64%,60%,18%,16%,11%,17%,0%
+1314,1WVCZ2CaupXNyG0csSwXJi,129 BPM,D# min,-4.37db,4/4,57%,72%,81%,46%,30%,11%,40%,0%
+1315,3is9xGBEPrkLAF0fryCLK7,128 BPM,C# min,-9.18db,4/4,66%,71%,72%,50%,13%,7%,26%,0%
+1316,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1317,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1318,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1319,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1320,1T89ede8KWEtINGWBNrRpr,78 BPM,C# Maj,-11.41db,4/4,55%,40%,79%,56%,19%,9%,86%,0%
+1321,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1322,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1323,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1324,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1325,5P1qwR2V4a5EFDrsztWqaZ,140 BPM,B min,-6.83db,4/4,63%,67%,79%,44%,20%,11%,6%,0%
+1326,62x7s8C2GFiu9Ju3eSZ5GB,130 BPM,F min,-6.11db,4/4,61%,83%,72%,43%,14%,31%,3%,0%
+1327,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+1328,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1329,07xSkypf6gceRgjnY1kZGu,156 BPM,A# min,-7.17db,4/4,49%,70%,87%,84%,16%,33%,4%,0%
+1330,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+1331,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1332,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+1333,493ORSeExHylEYu7tolox9,125 BPM,G# min,-8.9db,4/4,69%,63%,76%,61%,8%,24%,73%,12%
+1334,3is9xGBEPrkLAF0fryCLK7,128 BPM,C# min,-9.18db,4/4,66%,71%,72%,50%,13%,7%,26%,0%
+1335,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+1336,1uRJYl0E9DyL7XAP38Lhtv,120 BPM,G Maj,-6.03db,4/4,48%,65%,77%,35%,11%,60%,3%,0%
+1337,2nUpzFnUPY6Omv9XWa292d,114 BPM,B min,-6.05db,4/4,61%,89%,71%,28%,7%,63%,7%,1%
+1338,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+1339,5Mu5BFHb4vFS5cw0hbDICV,133 BPM,E Maj,-21.22db,4/4,68%,16%,75%,5%,20%,11%,96%,97%
+1340,5uMqtyQuLYqH5bUPLf00vO,103 BPM,C Maj,-6.93db,4/4,63%,70%,92%,77%,19%,13%,7%,0%
+1341,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1342,4N9IE3251WOeuVkL9gYg3y,125 BPM,C# Maj,-8.41db,3/4,56%,67%,73%,52%,18%,27%,44%,0%
+1343,6tw7eMHRCjgKUsHs3mtqDq,145 BPM,C Maj,-4.54db,4/4,58%,71%,68%,72%,30%,9%,11%,0%
+1344,5fqjgdj9SMB4Jjmyc9cY1J,123 BPM,B Maj,-7.12db,4/4,61%,43%,74%,38%,11%,13%,38%,0%
+1345,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+1346,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+1347,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1348,2TxCwUlqaOH3TIyJqGgR91,138 BPM,D Maj,-7.01db,4/4,77%,75%,75%,83%,3%,47%,30%,0%
+1349,1rv46mRwDqMEhOBZ7vODg3,93 BPM,E Maj,-11db,3/4,82%,22%,33%,36%,3%,34%,88%,0%
+1350,1aIjxCDYeK0oECqNYMk9Cx,76 BPM,F# min,-3.54db,4/4,48%,81%,68%,96%,22%,8%,9%,0%
+1351,2ILvdxIItd4KpIufdJnM9j,100 BPM,F# min,-9.5db,4/4,55%,51%,78%,47%,24%,9%,50%,0%
+1352,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1353,0spb4Kfcsn8t37E1Qv7f3m,103 BPM,F# min,-6.73db,4/4,62%,89%,80%,84%,23%,11%,8%,0%
+1354,2YiFviFOXjUttXQPOiqCJF,180 BPM,G Maj,-7.35db,4/4,58%,64%,70%,30%,34%,11%,68%,0%
+1355,3pgZCGSA6YGSJNiyISI0hH,112 BPM,C Maj,-7.25db,4/4,35%,76%,77%,41%,3%,19%,2%,0%
+1356,3FrpVjyYeS61YxM4QGm3W5,142 BPM,B min,-7.8db,4/4,49%,80%,81%,76%,29%,36%,21%,0%
+1357,127QTOFJsJQp5LbJbu3A1y,82 BPM,C# min,-9.75db,4/4,68%,45%,83%,84%,20%,11%,32%,0%
+1358,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1359,,,,,,,,,,,,,
+1360,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+1361,1frp6I1en3VuOrTARtnMUd,90 BPM,B Maj,-11.08db,4/4,33%,46%,68%,62%,38%,14%,55%,8%
+1362,1HcslA101HBitZUZt79h9t,93 BPM,C# Maj,-6.23db,4/4,36%,72%,64%,41%,33%,15%,8%,0%
+1363,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+1364,63183tTWzGo8TaY9yLTFae,134 BPM,F# min,-9.07db,4/4,52%,64%,79%,44%,46%,10%,10%,0%
+1365,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1366,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1367,6nwA6rMCR3DFiurfWsgH0r,140 BPM,D Maj,-5.28db,4/4,48%,62%,74%,10%,9%,10%,2%,0%
+1368,,,,,,,,,,,,,
+1369,1W1RcqH0Bobt18uSloLEXC,139 BPM,F min,-4.27db,4/4,42%,81%,80%,71%,18%,35%,18%,0%
+1370,28hqNGfxgIuYTcdLi8LJwl,128 BPM,D min,-8.21db,4/4,66%,68%,76%,41%,5%,11%,25%,2%
+1371,1jMD392hwarcPnl0aWsA0H,145 BPM,F# min,-3.22db,4/4,62%,88%,63%,39%,8%,28%,19%,0%
+1372,2ga4Pc9QNm2FX0MkoYnhdQ,160 BPM,G Maj,-5.29db,4/4,56%,70%,65%,36%,26%,14%,32%,0%
+1373,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+1374,0K5Wbzan94w91ImAKQcjsw,81 BPM,F# Maj,-1.77db,5/4,69%,48%,76%,44%,20%,26%,84%,19%
+1375,2A473970JvJr5vxQ71KCQo,132 BPM,E min,-3.86db,4/4,51%,87%,79%,34%,4%,12%,1%,0%
+1376,73OZT1XgLleDwperqGjWH4,108 BPM,D Maj,-12.81db,4/4,62%,50%,74%,82%,3%,9%,29%,0%
+1377,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+1378,7zAeuWXJLOSUgyd9jSAi4o,140 BPM,G# min,-4.72db,4/4,57%,74%,75%,60%,34%,15%,12%,0%
+1379,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+1380,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1381,6IPwKM3fUUzlElbvKw2sKl,130 BPM,G Maj,-12.81db,4/4,83%,37%,57%,24%,3%,16%,11%,18%
+1382,5xPAyVYmJGB94MaA3I8cj4,120 BPM,G# Maj,-9.43db,4/4,53%,63%,75%,52%,32%,16%,52%,0%
+1383,299InQMHg7RiGnmbjMDxpz,91 BPM,G Maj,-6.87db,4/4,45%,71%,92%,18%,28%,8%,2%,0%
+1384,1gxw2m1Z68ygKvB3Ux43Ad,146 BPM,E min,-14.53db,4/4,34%,63%,75%,98%,3%,8%,9%,0%
+1385,4vhYckF7yzomDdqoHb3dIl,174 BPM,A# min,-7.67db,4/4,62%,64%,63%,16%,7%,14%,13%,0%
+1386,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1387,0zKohlWGzWjWl46rg1L50I,70 BPM,B Maj,-48.49db,4/4,24%,0%,12%,4%,4%,12%,93%,94%
+1388,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+1389,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1390,4aWIEDu1UdHuFLHHL10JVk,144 BPM,G Maj,-18db,4/4,39%,20%,93%,91%,14%,11%,90%,80%
+1391,6Gr7l8WMHK2d9t1yKOfqvM,159 BPM,G# min,-6.06db,4/4,57%,72%,55%,18%,28%,18%,11%,0%
+1392,1Wh2SwNbe3OQCoskPc3fD8,128 BPM,F Maj,-5.98db,4/4,63%,79%,76%,78%,4%,11%,53%,0%
+1393,7IOlbck6GABZ4LKKt33qgp,124 BPM,A min,-5.12db,4/4,45%,94%,72%,94%,5%,4%,8%,0%
+1394,3XhllIfCF2T1RaJwbBWSdi,121 BPM,D min,-7.77db,4/4,67%,57%,74%,46%,16%,64%,57%,0%
+1395,1Dp12QxugzTQHwnTvL5Gji,120 BPM,C# Maj,-9.43db,4/4,44%,79%,76%,61%,5%,13%,0%,88%
+1396,4A01B6E6kBb42jPjopvGru,95 BPM,F Maj,-3.98db,4/4,48%,78%,86%,89%,17%,32%,7%,0%
+1397,44udUAbyghd9lOZbGfFBB8,140 BPM,A min,-4.9db,4/4,35%,82%,85%,84%,18%,38%,10%,0%
+1398,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1399,67smGwuPEtA6GAfeweAVNO,130 BPM,C# Maj,-4.71db,4/4,79%,77%,68%,50%,3%,10%,9%,73%
+1400,5qxSNZz2m8wNH61JYo7bVL,171 BPM,G# min,-4.32db,3/4,44%,87%,55%,19%,8%,12%,18%,0%
+1401,27AutLvnusrHlvxUdHJOtA,102 BPM,G min,-6.86db,4/4,44%,69%,76%,69%,6%,9%,14%,7%
+1402,1kgMw4OELQTL0zde8wWhR4,83 BPM,E min,-6.48db,4/4,35%,62%,46%,28%,30%,12%,18%,0%
+1403,5n7alQyycoWJH6R7OSqq3H,95 BPM,F Maj,-8.28db,4/4,24%,48%,51%,57%,16%,22%,42%,0%
+1404,,,,,,,,,,,,,
+1405,,,,,,,,,,,,,
+1406,1QSe6Kpgnfxg6Id4dYxorP,183 BPM,A Maj,-15.2db,4/4,39%,7%,43%,69%,4%,11%,99%,0%
+1407,0ay3P82zjXGRurkqKqbHub,80 BPM,C min,-7.64db,4/4,57%,71%,70%,62%,26%,11%,3%,0%
+1408,,,,,,,,,,,,,
+1409,,,,,,,,,,,,,
+1410,,,,,,,,,,,,,
+1411,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1412,,,,,,,,,,,,,
+1413,3j8dK7vyTB0ARmp2iw43Sy,106 BPM,B min,-6.12db,4/4,30%,54%,70%,22%,7%,9%,0%,94%
+1414,,,,,,,,,,,,,
+1415,,,,,,,,,,,,,
+1416,,,,,,,,,,,,,
+1417,56zGpvQLXaTNiCDdzNKPVp,97 BPM,F# Maj,-5db,4/4,38%,69%,66%,64%,3%,29%,64%,0%
+1418,,,,,,,,,,,,,
+1419,,,,,,,,,,,,,
+1420,,,,,,,,,,,,,
+1421,,,,,,,,,,,,,
+1422,1XDPh9pRlOsMf5iLMakSqT,79 BPM,A# Maj,-6.49db,4/4,36%,65%,26%,19%,10%,11%,85%,7%
+1423,,,,,,,,,,,,,
+1424,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1425,32gIuVFUmw2zRz3lL7sRwW,122 BPM,B min,-3.28db,4/4,18%,90%,76%,92%,3%,16%,3%,0%
+1426,2NLV2sSMKbHYyqezZiqXj0,116 BPM,C# Maj,-8.02db,3/4,26%,70%,43%,51%,11%,27%,73%,0%
+1427,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1428,1lDdTJpouo1N8zmNhFliGL,180 BPM,F# min,-6.32db,4/4,17%,64%,55%,55%,5%,10%,16%,0%
+1429,69Qzz3yyQSsA0T95jLDoPL,90 BPM,C Maj,-6.8db,4/4,73%,45%,82%,38%,3%,10%,28%,0%
+1430,,,,,,,,,,,,,
+1431,22fHdH0AlaTTfFnLV6RsmF,130 BPM,A Maj,-2.03db,4/4,33%,99%,91%,96%,7%,8%,28%,6%
+1432,4mH1S8snQlMv2NWpeM2I06,92 BPM,B min,-3.49db,4/4,24%,75%,74%,80%,16%,16%,20%,0%
+1433,5v6Xpy07RsLBgr9oKa4jyD,80 BPM,E min,-3.9db,4/4,26%,76%,68%,44%,11%,74%,11%,0%
+1434,6AeXFT79iPQY2ynIqjvdJt,160 BPM,F min,-6.24db,4/4,20%,73%,76%,71%,9%,26%,42%,0%
+1435,5jmns7IrWkiUHtGYdrva8A,100 BPM,G Maj,-5.63db,4/4,15%,80%,82%,32%,5%,11%,13%,0%
+1436,5PdLhmHOy2dnnFIMrj8in0,180 BPM,G Maj,-7db,4/4,59%,76%,54%,38%,22%,15%,1%,0%
+1437,0hZezjFqU0H81Fq4UCYMv0,102 BPM,B Maj,-6.09db,4/4,32%,95%,76%,69%,16%,17%,23%,0%
+1438,5kZeRavuJAgx3SiaPbJRth,103 BPM,C# Maj,-2.37db,4/4,16%,86%,72%,79%,5%,9%,48%,0%
+1439,60ejC3jbrJzLa3IylNdM0J,97 BPM,F min,-6.54db,3/4,21%,66%,68%,81%,4%,15%,32%,0%
+1440,6dPCsJmys61wAVJIfsRPXi,103 BPM,B min,-9.88db,4/4,52%,50%,59%,57%,9%,8%,37%,2%
+1441,06gywLVa2SQz9lqlDEOpy3,101 BPM,C Maj,-6.85db,4/4,22%,63%,75%,58%,4%,10%,31%,0%
+1442,,,,,,,,,,,,,
+1443,78MfuUHUOsrqpq4VVafWDW,98 BPM,D min,-6.13db,4/4,34%,72%,79%,40%,32%,9%,12%,0%
+1444,2n9ylYiF7urpXo36qBwr3g,94 BPM,F# min,-5.99db,4/4,58%,73%,60%,38%,4%,41%,33%,0%
+1445,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+1446,6zFbh6AuEFcJqqCxipeg0Q,200 BPM,G Maj,-4.9db,4/4,45%,72%,62%,47%,12%,56%,51%,0%
+1447,,,,,,,,,,,,,
+1448,,,,,,,,,,,,,
+1449,0RRyPr9Skryqkhto9mrAMD,169 BPM,F# min,-4.5db,3/4,15%,88%,38%,71%,12%,5%,77%,0%
+1450,7HKseG2sk68KGW3qdbNg7J,110 BPM,E min,-5.29db,4/4,22%,75%,61%,75%,18%,31%,6%,0%
+1451,,,,,,,,,,,,,
+1452,,,,,,,,,,,,,
+1453,7EFfeGN5U0zm9C6KpOeNBH,116 BPM,D min,-5.31db,4/4,65%,87%,72%,65%,6%,14%,30%,0%
+1454,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+1455,,,,,,,,,,,,,
+1456,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+1457,,,,,,,,,,,,,
+1458,4XTgFBxBHN6var1BzAgE1m,155 BPM,G min,-8.15db,4/4,74%,48%,48%,30%,9%,34%,60%,0%
+1459,,,,,,,,,,,,,
+1460,4Ifu8HPmQGUnJwwaXcG2Mj,92 BPM,G min,-4.66db,4/4,58%,55%,47%,42%,3%,9%,40%,0%
+1461,2B4Lg50Qvg7bTWt94SrdBc,79 BPM,F# min,-3.14db,4/4,16%,83%,68%,92%,4%,36%,27%,0%
+1462,1G2E4WufQHK8xVN5VD6dzN,108 BPM,F min,-2.65db,4/4,36%,88%,51%,93%,5%,61%,44%,3%
+1463,6YSOYP1YGkNSv3x42R5eQr,118 BPM,A min,-7.43db,4/4,18%,95%,81%,92%,6%,8%,12%,0%
+1464,,,,,,,,,,,,,
+1465,1UNOACS4O1ROKbDsLfMjOd,176 BPM,B min,-4.15db,4/4,52%,69%,38%,64%,4%,31%,48%,0%
+1466,73gk3FGOaDGQ5rBvbE5mbs,98 BPM,G min,-8.98db,4/4,45%,84%,48%,92%,7%,17%,42%,0%
+1467,,,,,,,,,,,,,
+1468,6DImYtzUB1TSH3AZfzUssi,85 BPM,C Maj,-11.14db,4/4,40%,50%,55%,69%,3%,24%,7%,0%
+1469,1WaqQIJ0iENGWZ1QmYvYNK,95 BPM,G# Maj,-6.19db,4/4,64%,74%,68%,84%,5%,10%,33%,0%
+1470,79XBui7ea1RGjlC57AH0w1,164 BPM,G# Maj,-4.61db,4/4,62%,70%,75%,45%,13%,16%,33%,0%
+1471,,,,,,,,,,,,,
+1472,4g89CqcyxIUo2284l7TIO4,115 BPM,C Maj,-6.69db,4/4,33%,48%,68%,56%,3%,14%,66%,0%
+1473,7uVpBwBqSwuhSDF8HcH9Qz,90 BPM,B min,-5.83db,4/4,53%,59%,74%,26%,4%,26%,11%,0%
+1474,,,,,,,,,,,,,
+1475,718X8tCUXeTBokGAG0TAuP,98 BPM,G Maj,-5db,4/4,49%,96%,51%,61%,12%,11%,40%,0%
+1476,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1477,78BWCd70D1X6LMkDZm1UoF,96 BPM,G min,-5.61db,4/4,79%,83%,75%,40%,14%,23%,47%,0%
+1478,,,,,,,,,,,,,
+1479,,,,,,,,,,,,,
+1480,,,,,,,,,,,,,
+1481,545TsMGqPuO7xSgOYwdOs7,80 BPM,F min,-5db,4/4,59%,87%,55%,72%,5%,23%,12%,0%
+1482,3W9EFWiTzexkdlCm2zHBqK,177 BPM,C Maj,-5.79db,3/4,49%,78%,66%,88%,6%,11%,54%,0%
+1483,,,,,,,,,,,,,
+1484,7tSiPumrodXQj3lTZKzZWj,110 BPM,F# min,-9.49db,3/4,38%,32%,36%,36%,3%,10%,91%,0%
+1485,7pcc6shGxPi860UCDnskGW,120 BPM,F min,-2.46db,4/4,22%,90%,78%,85%,10%,36%,66%,0%
+1486,0M5kuvUNL9WAItAb4NpMYR,97 BPM,A# min,-5.19db,4/4,39%,87%,68%,83%,3%,32%,3%,0%
+1487,,,,,,,,,,,,,
+1488,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1489,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1490,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+1491,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1492,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+1493,654XTpkoachnc4HT2Fi3Fn,130 BPM,C min,-3.09db,4/4,66%,80%,69%,94%,3%,35%,25%,0%
+1494,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1495,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+1496,1lAgtcp1KQRQS10m2yCgvm,104 BPM,B Maj,-8.32db,4/4,51%,49%,51%,71%,21%,11%,10%,0%
+1497,7t9d2YdmD87JC72pocMtlz,166 BPM,A min,-5db,4/4,69%,74%,50%,62%,17%,10%,14%,0%
+1498,3t7MOVjzXyqT7vPw4eNrAV,120 BPM,F min,-5.09db,4/4,61%,71%,71%,80%,8%,31%,25%,0%
+1499,2x03XLsTZ0o86h0cfHrkKF,121 BPM,C# Maj,-3.93db,4/4,69%,79%,72%,74%,4%,11%,7%,0%
+1500,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1501,07u4MPxsapzsCy9F64p5G2,123 BPM,F# Maj,-5.22db,4/4,54%,50%,93%,85%,5%,8%,7%,0%
+1502,3lOpUMMUskknPD3dJR2MkT,93 BPM,C Maj,-4.47db,4/4,69%,77%,71%,80%,3%,34%,3%,0%
+1503,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1504,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1505,39382sUtIOwIXftX0i76do,114 BPM,A min,-5.71db,4/4,73%,67%,76%,33%,4%,12%,25%,0%
+1506,3be9ACTxtcL6Zm4vJRUiPG,97 BPM,E Maj,-11.98db,3/4,87%,32%,75%,58%,3%,12%,93%,2%
+1507,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+1508,5KncckJB2N8tgih9MQ4rLN,124 BPM,E min,-5db,4/4,50%,92%,92%,99%,6%,5%,69%,7%
+1509,2RqtfcLB7iOZj0zYB8Auhu,93 BPM,B min,-4db,4/4,67%,70%,70%,38%,16%,46%,1%,0%
+1510,12VH4g5pTMZmrUVzfJq7F7,123 BPM,E min,-5.9db,4/4,82%,62%,68%,9%,3%,15%,8%,1%
+1511,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+1512,7oS8JFciEqvhMsA6pl1gBl,65 BPM,G Maj,-7.36db,4/4,59%,44%,73%,62%,6%,32%,70%,0%
+1513,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1514,6EpoDm2IoOkTfcPkNwhf07,76 BPM,C min,-3.68db,4/4,65%,74%,64%,34%,5%,6%,29%,0%
+1515,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+1516,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1517,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1518,1Cbl3Yq8rHo7hhDQmLQagU,93 BPM,D Maj,-3.51db,4/4,85%,81%,68%,76%,5%,9%,28%,1%
+1519,6aJn7Cst74cj4lNIiPRgav,167 BPM,F min,-2.66db,4/4,84%,90%,74%,79%,4%,9%,55%,0%
+1520,6NjWCIYu1W8xa3HIvcIhd4,100 BPM,G# Maj,-8.43db,4/4,73%,41%,93%,52%,7%,13%,16%,0%
+1521,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1522,5ZJ9wxMqAhIOekYLmukc2L,124 BPM,F min,-6db,4/4,70%,77%,76%,77%,10%,33%,52%,0%
+1523,4WgViu9gw3qYOr3iF9OuLG,160 BPM,F# Maj,-10.91db,4/4,75%,31%,33%,15%,4%,28%,54%,0%
+1524,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+1525,,,,,,,,,,,,,
+1526,4VQH4VluDUOsOuDxccTeyN,168 BPM,C# Maj,-7.48db,4/4,74%,64%,55%,33%,12%,37%,39%,0%
+1527,,,,,,,,,,,,,
+1528,6YP6M9b8YMXJ9fSsWGoOZc,140 BPM,D# Maj,-4db,4/4,41%,70%,87%,96%,4%,29%,16%,0%
+1529,2ADSh3Mp744n2586tpUtIW,126 BPM,A Maj,-5.03db,4/4,78%,67%,65%,46%,3%,31%,1%,0%
+1530,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1531,0y5Ce1GzpeNMoN5vhtjnnM,103 BPM,G Maj,-5.64db,4/4,30%,84%,93%,82%,20%,7%,20%,0%
+1532,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+1533,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1534,3WJNclt6udgjcPiSy0hMNb,112 BPM,F# min,-13.88db,4/4,59%,34%,79%,64%,7%,6%,46%,0%
+1535,4VQH4VluDUOsOuDxccTeyN,168 BPM,C# Maj,-7.48db,4/4,74%,64%,55%,33%,12%,37%,39%,0%
+1536,65EyLvttx0oWU6PKsMLxSM,107 BPM,F# Maj,-2.94db,4/4,50%,93%,68%,57%,4%,72%,0%,0%
+1537,7acJdyRgw4cGLL8W42DAra,105 BPM,G Maj,-9.61db,4/4,61%,49%,78%,29%,3%,17%,12%,0%
+1538,4p7DTkyrKqT98xlIwYYfXz,147 BPM,G# Maj,-4.22db,4/4,85%,71%,49%,32%,3%,15%,0%,0%
+1539,3X9c4tBzSdGhlO4Fx3WYgW,180 BPM,G Maj,-5.13db,4/4,58%,66%,39%,40%,3%,39%,29%,0%
+1540,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1541,1JGWlTtM4f8isfr6aRkkJY,120 BPM,B min,-6.5db,4/4,51%,64%,73%,52%,7%,12%,35%,0%
+1542,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1543,2fHOqQ9K6eY0wsbVZiYZPw,168 BPM,G# Maj,-4.84db,4/4,51%,85%,83%,96%,14%,4%,19%,0%
+1544,6Csrqur3IfnVp0EtHskjMw,95 BPM,B Maj,-3.03db,4/4,70%,80%,78%,80%,4%,26%,25%,0%
+1545,1iIJtD9hkzw4ZHfR7ND9yb,122 BPM,F Maj,-7.07db,4/4,71%,61%,82%,70%,4%,25%,10%,0%
+1546,6MzofobZt2dm0Kf1hTThFz,150 BPM,A# Maj,-6.54db,4/4,85%,56%,67%,84%,4%,10%,50%,1%
+1547,21uFPefbgeR3QLVJWATlrr,135 BPM,A# Maj,-9.63db,4/4,70%,42%,51%,48%,3%,9%,77%,9%
+1548,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1549,0WkfQ4SJqsKrixNQNYSMsq,142 BPM,F# min,-8.2db,3/4,61%,56%,40%,14%,15%,17%,5%,0%
+1550,24WBge8e53iDTeXOtVB02s,130 BPM,B Maj,-3.97db,4/4,76%,88%,57%,73%,3%,11%,0%,76%
+1551,,,,,,,,,,,,,
+1552,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1553,1imaIe1NEAaWnLF0BY0V6F,120 BPM,A Maj,-11db,4/4,80%,42%,65%,40%,11%,10%,44%,0%
+1554,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1555,2tHwzyyOLoWSFqYNjeVMzj,107 BPM,A Maj,-6.09db,4/4,87%,59%,68%,62%,5%,10%,26%,0%
+1556,,,,,,,,,,,,,
+1557,7hyFKrPZo1Zv4D35MpTBdr,177 BPM,C# min,-8db,3/4,70%,50%,44%,26%,3%,22%,44%,0%
+1558,6coxAbc5F2jtFnDxTGAlvn,129 BPM,A Maj,-4.89db,4/4,55%,93%,90%,97%,7%,18%,3%,0%
+1559,55eWkBMyr3bAHVVE1SLmDE,107 BPM,D Maj,-7.78db,4/4,71%,64%,68%,38%,3%,8%,14%,0%
+1560,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+1561,2dMQ4FbQcrEWVFK6NIFjrl,75 BPM,A Maj,-8.15db,4/4,72%,77%,34%,46%,6%,34%,5%,0%
+1562,09gvU6fupCnVE0RPF8E3Ys,150 BPM,C Maj,-5.72db,4/4,55%,66%,80%,61%,26%,14%,4%,19%
+1563,1vPk6ZTflnvm8LgtXzPDrT,138 BPM,G Maj,-7.84db,4/4,55%,66%,64%,68%,3%,16%,57%,0%
+1564,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+1565,0urwvPdEeSzwHmo2alM4Kj,130 BPM,F Maj,-6.7db,4/4,18%,70%,89%,81%,27%,42%,1%,13%
+1566,6UGrgPcISfwGeDikA4YpEv,151 BPM,G Maj,-22db,4/4,69%,16%,58%,47%,6%,11%,79%,0%
+1567,2LU0FHcbTGj8iKi70Mzt0I,131 BPM,F# min,-8.36db,4/4,50%,52%,66%,77%,19%,18%,53%,0%
+1568,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1569,6wN4nT2qy3MQc098yL3Eu9,74 BPM,C# Maj,-5.11db,4/4,68%,74%,69%,22%,11%,8%,3%,0%
+1570,3wD4VqNkwEaDijlforzB7F,135 BPM,G Maj,-8.52db,4/4,44%,56%,82%,92%,28%,51%,11%,0%
+1571,6bLwOcpjZOL1GuCHBoB4VZ,128 BPM,A Maj,-10.32db,4/4,62%,40%,80%,30%,6%,10%,65%,0%
+1572,4pP5xVUYEZljcmfyYFQXsx,131 BPM,C Maj,-11.46db,4/4,63%,39%,59%,27%,3%,11%,22%,0%
+1573,0kE1SmlJNLg14dgdo9kJws,134 BPM,G# Maj,-5.92db,4/4,75%,62%,72%,59%,5%,10%,46%,0%
+1574,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1575,2zbq6eS68i4NIJWekIuW1s,156 BPM,C# Maj,-9.35db,4/4,83%,58%,64%,91%,21%,10%,47%,0%
+1576,67smGwuPEtA6GAfeweAVNO,130 BPM,C# Maj,-4.71db,4/4,79%,77%,68%,50%,3%,10%,9%,73%
+1577,0GG2gti97dewq9Sfn5iwkJ,121 BPM,B min,-4db,4/4,41%,87%,68%,38%,6%,13%,0%,84%
+1578,0QoVsN2uMiDJCi9Hh4Y6BF,130 BPM,C# min,-5.94db,4/4,34%,93%,66%,54%,6%,19%,0%,0%
+1579,7q587HLz90L2PFrhKZjIYa,136 BPM,A# Maj,-5db,4/4,64%,58%,79%,84%,6%,35%,30%,0%
+1580,3ObmWxYVvyJKWsi6utgV7i,111 BPM,C# Maj,-4.71db,4/4,32%,92%,77%,79%,3%,6%,8%,0%
+1581,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1582,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1583,5QjmUqgpPQgXgg4606DqZF,103 BPM,A min,-4.78db,4/4,84%,78%,70%,45%,4%,10%,14%,0%
+1584,42wdz3j7gstgUuhoFLCXqd,100 BPM,F# min,-7.43db,4/4,81%,52%,76%,80%,6%,8%,22%,0%
+1585,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1586,1fTjqf10accJCDYstPwwZ6,105 BPM,C# min,-3.62db,4/4,82%,58%,78%,66%,11%,10%,62%,0%
+1587,18krIFLpV3Y77snEJf0z6R,122 BPM,C Maj,-12.97db,4/4,21%,45%,70%,4%,6%,32%,10%,79%
+1588,2oJH69cuNyWpCmZyTmvrEN,90 BPM,C# Maj,-3.34db,4/4,74%,88%,74%,92%,9%,11%,24%,0%
+1589,4l5HZ6iRc2oN5NtcT141yq,96 BPM,C# min,-4.46db,4/4,60%,79%,46%,65%,5%,8%,32%,0%
+1590,5wBBoVjoounI5e36oI8oZe,122 BPM,F# Maj,-5.57db,4/4,61%,79%,71%,63%,3%,14%,4%,0%
+1591,0SoBfYjQHvL6cuWHtPUYnq,176 BPM,B Maj,-4.61db,4/4,78%,71%,45%,66%,4%,15%,24%,0%
+1592,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1593,3E8xyYdIPpiH2wNEozE68I,98 BPM,G Maj,-5.03db,4/4,80%,82%,83%,83%,6%,9%,31%,0%
+1594,5RvmmRCoZY1Yupl3PXgZm4,98 BPM,E Maj,-6.15db,3/4,74%,46%,57%,8%,3%,13%,25%,0%
+1595,,,,,,,,,,,,,
+1596,6WatFBLVB0x077xWeoVc2k,128 BPM,B Maj,-6.8db,4/4,92%,67%,92%,79%,5%,7%,45%,0%
+1597,,,,,,,,,,,,,
+1598,1Ze3PQBHkvEPjx7AnDWB11,92 BPM,G min,-4.42db,4/4,50%,73%,81%,67%,8%,32%,20%,0%
+1599,0Sr7ssScx54yxdM2ols7nW,155 BPM,F# min,-6.3db,4/4,86%,68%,56%,39%,24%,11%,10%,0%
+1600,25oCKDG7x2Y1T6neuKn3mH,128 BPM,F min,-6.15db,4/4,33%,94%,84%,86%,6%,12%,4%,0%
+1601,5dO1jEzDFzR6gFNIkACzvV,182 BPM,D min,-3db,4/4,44%,99%,85%,71%,29%,30%,38%,4%
+1602,7ESqP17DjGLx7j8fm0Gp2L,138 BPM,G Maj,-2.77db,4/4,69%,58%,86%,90%,11%,12%,49%,4%
+1603,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1604,0EhmTBq33eARyOz3SIi4P2,185 BPM,C Maj,-11.63db,3/4,80%,16%,46%,48%,4%,14%,93%,0%
+1605,2gmd7lY3QSzLh0xIY4cRvi,82 BPM,G min,-4.39db,4/4,83%,71%,79%,69%,6%,12%,4%,0%
+1606,3TjScVsRb2GIgqdgSAz7A5,95 BPM,A Maj,-6.47db,4/4,38%,82%,71%,87%,6%,10%,11%,0%
+1607,0gv7ZRP9NhCxL4x9Vl76GJ,105 BPM,F# Maj,-4.34db,4/4,54%,82%,74%,58%,10%,10%,39%,0%
+1608,0GfWTZZOc7co6oVqyQ556l,103 BPM,D Maj,-4.64db,4/4,72%,68%,92%,39%,20%,18%,4%,0%
+1609,3fRIuTih8bzc0vtY9fHhvF,105 BPM,D Maj,-6.68db,4/4,73%,80%,78%,94%,4%,6%,70%,0%
+1610,7syffZQA1dpkQelMckldEw,168 BPM,C# min,-4.63db,4/4,75%,74%,67%,56%,10%,21%,7%,0%
+1611,60u6hcpH5Qm1M3xESdNBrB,100 BPM,A# Maj,-3.83db,4/4,78%,68%,75%,62%,9%,11%,17%,0%
+1612,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1613,6f4UPdDBQONKJBRqwZGjaJ,94 BPM,C# min,-2.08db,4/4,59%,88%,56%,65%,12%,7%,3%,0%
+1614,,,,,,,,,,,,,
+1615,0qeIFEGRQqHoaJtLCl0U73,194 BPM,F# min,-5.78db,4/4,87%,71%,74%,71%,28%,8%,5%,0%
+1616,4aQPo6LD74HVgGOfOLotSZ,160 BPM,C min,0.28db,4/4,63%,94%,82%,97%,10%,5%,13%,0%
+1617,0XG0M7286ZdcOflyehbXmS,136 BPM,D Maj,-8.68db,4/4,64%,44%,46%,18%,3%,10%,39%,0%
+1618,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1619,7KVo72w50dRv8asqkCUIy5,168 BPM,F Maj,-4.33db,4/4,46%,82%,67%,91%,5%,31%,62%,0%
+1620,32wjFFh7Ptrepu63WosPRB,135 BPM,E min,-5.21db,4/4,48%,76%,84%,62%,13%,14%,14%,0%
+1621,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+1622,7sPqCI54XxKNaOoGooaeCp,126 BPM,G Maj,-3.51db,4/4,68%,87%,68%,90%,3%,9%,6%,0%
+1623,2btNsI4OvcVl7SAHQQDHFB,176 BPM,G Maj,-4.45db,4/4,83%,66%,72%,70%,8%,7%,14%,0%
+1624,3P6VSUFRkfSp0JvkG63UEa,140 BPM,C Maj,-2.55db,4/4,45%,93%,64%,35%,10%,28%,0%,83%
+1625,5aZ8rf2aPfZrnRWLA7bByo,100 BPM,A Maj,-4.8db,4/4,74%,68%,80%,52%,5%,7%,6%,0%
+1626,,,,,,,,,,,,,
+1627,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1628,4JbQUJ6o0M80Q3GgvL87is,111 BPM,A Maj,-5.58db,4/4,47%,86%,76%,93%,11%,10%,17%,0%
+1629,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1630,0afpbPmRHldjP59YRslQz9,178 BPM,A# min,-4.08db,4/4,58%,78%,66%,93%,11%,5%,69%,0%
+1631,038H0vmL8t3Wj8uoa0TD3k,130 BPM,G Maj,-1.87db,4/4,52%,98%,81%,49%,31%,13%,4%,0%
+1632,4uFYkBaLGIhBaLT9KbhyPt,140 BPM,C Maj,-6.24db,4/4,71%,50%,90%,53%,29%,8%,28%,0%
+1633,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1634,3OJDtCdYs8QJnui708tEU3,100 BPM,D Maj,-4.74db,4/4,84%,75%,84%,67%,10%,95%,17%,0%
+1635,1bYyZHW4IuGdWzzbm6ErMq,129 BPM,F Maj,-3.59db,4/4,32%,84%,92%,99%,6%,6%,60%,92%
+1636,1pymWRCuZfCd0zdiBJo0Hj,97 BPM,E min,-4.66db,4/4,80%,64%,83%,57%,6%,37%,39%,0%
+1637,5rcnAHBclBs0OGV4rATEnR,164 BPM,C Maj,-7.06db,3/4,75%,38%,34%,33%,3%,31%,63%,0%
+1638,,,,,,,,,,,,,
+1639,2yIUUOe7UVhvxQmaLVqRKr,177 BPM,G# min,-9.39db,4/4,65%,46%,31%,28%,6%,11%,20%,0%
+1640,5Uptvz6j1sjDKxidAcnH2L,100 BPM,F min,-5.64db,4/4,83%,63%,76%,78%,4%,20%,9%,22%
+1641,5cyKYhm8vo5edvuT5tIuQ6,98 BPM,A# Maj,-6.99db,4/4,62%,90%,76%,76%,5%,16%,6%,0%
+1642,5pVJ3IlnpIorU44oXizzG5,105 BPM,C# Maj,-4.78db,4/4,80%,70%,86%,87%,18%,20%,32%,0%
+1643,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+1644,0c82YIGpQ5dCaXpTNCk4sb,84 BPM,A min,-2.34db,5/4,76%,66%,57%,88%,10%,6%,5%,0%
+1645,4p7DTkyrKqT98xlIwYYfXz,147 BPM,G# Maj,-4.22db,4/4,85%,71%,49%,32%,3%,15%,0%,0%
+1646,13lZDbwonGhOflQLQIfdtZ,97 BPM,G Maj,-5.75db,4/4,66%,44%,53%,44%,3%,9%,66%,0%
+1647,0IVaOnXV1QqPwhbW2PpMoM,97 BPM,D# min,-5.35db,4/4,61%,66%,69%,59%,5%,9%,8%,0%
+1648,26N69KqaEX8T0cGHbDdEeD,120 BPM,B min,-2db,4/4,26%,94%,70%,70%,3%,68%,0%,66%
+1649,6f9lWazBp8tjikNvkPJ2Sh,88 BPM,B min,-7.85db,4/4,52%,73%,67%,83%,10%,12%,33%,0%
+1650,7nkutDiJI7eR19MoHlIl5f,92 BPM,A# Maj,-15.6db,4/4,23%,17%,85%,68%,4%,11%,90%,0%
+1651,1qbql17v0Hazo94o5RUyWQ,80 BPM,E min,-8.61db,3/4,74%,46%,37%,30%,26%,13%,86%,1%
+1652,2tHwzyyOLoWSFqYNjeVMzj,107 BPM,A Maj,-6.09db,4/4,87%,59%,68%,62%,5%,10%,26%,0%
+1653,5cdjl0DJV4EJRxlM4SBZsK,155 BPM,D Maj,-3.91db,3/4,34%,64%,76%,95%,5%,22%,38%,0%
+1654,0EVxchTHYIgx618OrpcrdQ,170 BPM,E min,-2.22db,4/4,74%,87%,69%,63%,9%,34%,25%,0%
+1655,70ygVDJv1Wou8WGD34K5An,170 BPM,E Maj,-8.08db,4/4,65%,50%,76%,39%,46%,32%,46%,0%
+1656,0EVxchTHYIgx618OrpcrdQ,170 BPM,E min,-2.22db,4/4,74%,87%,69%,63%,9%,34%,25%,0%
+1657,3AXw3pd7KHGSogprPSxrMh,128 BPM,G# Maj,-4.09db,5/4,74%,83%,60%,62%,12%,10%,22%,0%
+1658,5Ulsi8075EHzP2chQqbv86,178 BPM,B Maj,-1.82db,4/4,54%,79%,74%,73%,17%,32%,26%,0%
+1659,1DwpJCFR4CgevQJvJHmUw3,68 BPM,E min,-21.86db,4/4,39%,8%,17%,8%,4%,10%,98%,88%
+1660,73r54FfPxDOo6zsZOa5CIq,92 BPM,D Maj,-10.93db,4/4,31%,63%,77%,59%,8%,20%,16%,5%
+1661,5enCBu8FLjlLz60k9t15MA,180 BPM,D Maj,-7.61db,3/4,72%,66%,73%,87%,6%,10%,12%,0%
+1662,,,,,,,,,,,,,
+1663,050AVzpAtQ1VcKiK13Jxy7,94 BPM,E Maj,-7.34db,4/4,48%,65%,78%,61%,5%,10%,35%,0%
+1664,6rq3raDazN9D0XUCudW1Nx,180 BPM,D Maj,-5.03db,3/4,67%,68%,51%,81%,7%,8%,34%,0%
+1665,4xF4ZBGPZKxECeDFrqSAG4,95 BPM,A# Maj,-26.81db,4/4,82%,9%,47%,8%,3%,44%,93%,80%
+1666,1VNvsvEsUpuUCbHpVop1vo,79 BPM,D# Maj,-32.45db,4/4,63%,1%,44%,9%,5%,9%,98%,94%
+1667,7o5V0BUS9x8zdXMb2CiGpi,96 BPM,A# Maj,-3.74db,4/4,69%,88%,72%,68%,12%,16%,7%,0%
+1668,1uGUbgZuO1kD1JZ0UeFupN,99 BPM,G# Maj,-4.27db,4/4,80%,83%,74%,72%,3%,30%,9%,0%
+1669,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1670,3pUtdI0esSIqvHNVzBpWih,113 BPM,C# min,-10.89db,4/4,19%,52%,80%,22%,5%,8%,56%,90%
+1671,3j8dK7vyTB0ARmp2iw43Sy,106 BPM,B min,-6.12db,4/4,30%,54%,70%,22%,7%,9%,0%,94%
+1672,,,,,,,,,,,,,
+1673,,,,,,,,,,,,,
+1674,,,,,,,,,,,,,
+1675,,,,,,,,,,,,,
+1676,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+1677,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1678,,,,,,,,,,,,,
+1679,,,,,,,,,,,,,
+1680,,,,,,,,,,,,,
+1681,,,,,,,,,,,,,
+1682,,,,,,,,,,,,,
+1683,,,,,,,,,,,,,
+1684,,,,,,,,,,,,,
+1685,5Iegog3nLU1UH52WG59TkP,70 BPM,G Maj,-12.88db,4/4,15%,20%,63%,22%,12%,39%,74%,0%
+1686,,,,,,,,,,,,,
+1687,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1688,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1689,7ES1kLL6A1JZ3VzbJ8gdcM,194 BPM,A min,-4.98db,3/4,55%,84%,51%,69%,30%,13%,36%,0%
+1690,5EKVL6XHsGCWeMik7XBMh8,79 BPM,B min,-6.28db,4/4,40%,70%,42%,69%,17%,38%,49%,0%
+1691,4KiRDEG5A6FSdNfCq1WKE9,170 BPM,C# Maj,-7.92db,4/4,49%,65%,82%,91%,33%,9%,8%,0%
+1692,0cHdgFX7fbNnqB84Jy60tJ,81 BPM,E min,-18db,3/4,57%,13%,36%,56%,4%,31%,96%,47%
+1693,,,,,,,,,,,,,
+1694,,,,,,,,,,,,,
+1695,,,,,,,,,,,,,
+1696,,,,,,,,,,,,,
+1697,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1698,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+1699,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+1700,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1701,3gnOd9HIoEXOLNKwHccRCV,140 BPM,E min,-10.55db,4/4,40%,38%,67%,48%,7%,15%,56%,0%
+1702,,,,,,,,,,,,,
+1703,,,,,,,,,,,,,
+1704,,,,,,,,,,,,,
+1705,,,,,,,,,,,,,
+1706,5OAGg2B2BjxzpiEcuzaCkZ,76 BPM,C Maj,-8.2db,4/4,73%,61%,57%,48%,4%,16%,2%,0%
+1707,,,,,,,,,,,,,
+1708,1G2E4WufQHK8xVN5VD6dzN,108 BPM,F min,-2.65db,4/4,36%,88%,51%,93%,5%,61%,44%,3%
+1709,11dHZLY9Rfz8mPnydmSzwY,94 BPM,E min,-13.05db,4/4,52%,26%,91%,30%,22%,9%,17%,2%
+1710,2QGJvv74xtvO2JRyDh4NTx,130 BPM,F# Maj,-5.75db,4/4,43%,78%,73%,52%,3%,22%,0%,83%
+1711,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1712,,,,,,,,,,,,,
+1713,,,,,,,,,,,,,
+1714,,,,,,,,,,,,,
+1715,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+1716,6ieb5VefKfuBdFc3Ziw5cX,115 BPM,B min,-6.7db,4/4,50%,66%,91%,46%,30%,9%,21%,0%
+1717,0NxXeHUJMPlOmbmxNHj9AE,144 BPM,C min,-3.69db,4/4,52%,86%,65%,91%,13%,54%,66%,0%
+1718,,,,,,,,,,,,,
+1719,,,,,,,,,,,,,
+1720,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1721,,,,,,,,,,,,,
+1722,,,,,,,,,,,,,
+1723,,,,,,,,,,,,,
+1724,,,,,,,,,,,,,
+1725,2drwHLzvR6hVMtM1pR0PlI,150 BPM,E min,-8.08db,4/4,46%,75%,40%,14%,18%,22%,1%,2%
+1726,0M5kuvUNL9WAItAb4NpMYR,97 BPM,A# min,-5.19db,4/4,39%,87%,68%,83%,3%,32%,3%,0%
+1727,,,,,,,,,,,,,
+1728,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1729,,,,,,,,,,,,,
+1730,,,,,,,,,,,,,
+1731,,,,,,,,,,,,,
+1732,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1733,6dXjUMjFxfAX4F2dHKqQzf,150 BPM,C# Maj,-5.9db,4/4,78%,74%,90%,73%,22%,30%,5%,0%
+1734,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1735,5GUUDaUy5eMG4zR9FdUOut,97 BPM,D# min,-4.33db,4/4,54%,75%,68%,62%,4%,9%,2%,0%
+1736,2n9ylYiF7urpXo36qBwr3g,94 BPM,F# min,-5.99db,4/4,58%,73%,60%,38%,4%,41%,33%,0%
+1737,10ZpnsXfwWzxromZm7g4sf,131 BPM,G# min,-16db,3/4,38%,24%,23%,8%,3%,14%,98%,94%
+1738,5v6Xpy07RsLBgr9oKa4jyD,80 BPM,E min,-3.9db,4/4,26%,76%,68%,44%,11%,74%,11%,0%
+1739,,,,,,,,,,,,,
+1740,22fHdH0AlaTTfFnLV6RsmF,130 BPM,A Maj,-2.03db,4/4,33%,99%,91%,96%,7%,8%,28%,6%
+1741,6dCCOcw9NC20cOvZYG78i5,104 BPM,A Maj,-6.73db,4/4,19%,22%,45%,52%,3%,25%,88%,0%
+1742,,,,,,,,,,,,,
+1743,2ydjvcsYPRAvJikdU0XREW,93 BPM,A# min,-3.12db,4/4,36%,74%,72%,61%,5%,16%,10%,44%
+1744,3t7MOVjzXyqT7vPw4eNrAV,120 BPM,F min,-5.09db,4/4,61%,71%,71%,80%,8%,31%,25%,0%
+1745,,,,,,,,,,,,,
+1746,6Y975MrXSsIJaXyvPSKdsQ,130 BPM,C# Maj,-1.55db,4/4,53%,94%,84%,28%,22%,13%,29%,2%
+1747,1eCbOL2Xq9VJQrBZDMvrN8,100 BPM,C# Maj,-5.55db,4/4,27%,96%,55%,12%,6%,5%,2%,69%
+1748,,,,,,,,,,,,,
+1749,,,,,,,,,,,,,
+1750,1UNOACS4O1ROKbDsLfMjOd,176 BPM,B min,-4.15db,4/4,52%,69%,38%,64%,4%,31%,48%,0%
+1751,,,,,,,,,,,,,
+1752,3UurNZMT5tZCShVOr9kEQx,90 BPM,E min,-5.4db,4/4,21%,69%,75%,76%,19%,11%,44%,0%
+1753,4L9Xn6SUcbA2OMUv9HzGUN,194 BPM,B min,-6.58db,4/4,51%,89%,39%,74%,6%,30%,1%,0%
+1754,02fK542Q7BpnyfUM1ENrhA,133 BPM,D min,-13.13db,3/4,31%,22%,16%,4%,3%,16%,96%,3%
+1755,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1756,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1757,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1758,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1759,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1760,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1761,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1762,6dXjUMjFxfAX4F2dHKqQzf,150 BPM,C# Maj,-5.9db,4/4,78%,74%,90%,73%,22%,30%,5%,0%
+1763,3Eb5sztvEMa0Mqnb8DUAlU,113 BPM,A# Maj,-9.41db,4/4,74%,56%,68%,69%,3%,24%,0%,0%
+1764,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1765,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+1766,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1767,4wGkZQOqVaWpSVUqtk5RhD,61 BPM,G# Maj,-5.91db,4/4,45%,67%,66%,75%,6%,5%,2%,0%
+1768,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+1769,5utUZ5nv6y6dR8irsnOQEj,158 BPM,A# Maj,-5.27db,4/4,62%,75%,45%,38%,13%,31%,56%,0%
+1770,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1771,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1772,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+1773,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1774,5kDgJffgJ0lYHTSiaXFWNw,162 BPM,B min,-5.09db,3/4,79%,74%,42%,13%,5%,19%,2%,0%
+1775,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1776,4kq0Fzt6XmGNN1aXY2QQsS,150 BPM,E Maj,-3.96db,4/4,47%,79%,79%,61%,6%,6%,12%,0%
+1777,63mVyFn9QO2ia83uB8dScL,132 BPM,F Maj,-20.66db,3/4,56%,12%,17%,3%,4%,11%,98%,91%
+1778,563SfWAHJs4FBZMkRN0IFN,164 BPM,F# min,-8.36db,4/4,73%,53%,69%,57%,9%,17%,4%,0%
+1779,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+1780,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1781,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1782,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+1783,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+1784,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1785,6dOtVTDdiauQNBQEDOtlAB,105 BPM,D Maj,-10.17db,4/4,97%,51%,75%,44%,4%,12%,20%,6%
+1786,03ZbtLDdHZSG90tD4VD4Yj,129 BPM,C Maj,-41.07db,4/4,47%,0%,16%,12%,5%,10%,99%,74%
+1787,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+1788,4VI2Y5xg4gYynQqNQNQbTN,167 BPM,C# Maj,-4.22db,4/4,76%,69%,84%,70%,36%,28%,1%,0%
+1789,7lUA4P03AhwAw40JHkdyGr,130 BPM,B Maj,-6.76db,4/4,59%,62%,51%,20%,5%,35%,0%,0%
+1790,3Ur9zMHlzsCTnuEW9vXNyT,111 BPM,C# Maj,-6.62db,4/4,58%,60%,82%,66%,42%,13%,5%,0%
+1791,6MzofobZt2dm0Kf1hTThFz,150 BPM,A# Maj,-6.54db,4/4,85%,56%,67%,84%,4%,10%,50%,1%
+1792,5vBB1bYDj7bCmBy3oMZPoG,102 BPM,A Maj,-7.24db,4/4,49%,50%,75%,95%,9%,7%,18%,1%
+1793,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1794,5tCwupjT5bc13y5rsaVUlX,82 BPM,G Maj,-4.91db,5/4,52%,98%,28%,4%,26%,43%,1%,2%
+1795,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+1796,6OVWzb8z0HCUscjq9wb1Yo,138 BPM,C# Maj,-9.34db,4/4,34%,83%,62%,35%,6%,35%,6%,83%
+1797,1ahAuX3F6tDdNRfMdiLsv6,107 BPM,E Maj,-5.33db,4/4,56%,76%,68%,42%,4%,30%,32%,0%
+1798,42VsgItocQwOQC3XWZ8JNA,148 BPM,D# min,-2.78db,4/4,87%,88%,57%,20%,6%,14%,3%,0%
+1799,42d047wpzneGfpfHpLLHlc,95 BPM,A Maj,-7.18db,4/4,48%,75%,65%,57%,4%,10%,13%,0%
+1800,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1801,0OA00aPt3BV10qeMIs3meW,180 BPM,E min,-3.2db,4/4,82%,74%,46%,26%,16%,36%,2%,0%
+1802,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1803,1edByN4XVX6WFJdQyf18mW,100 BPM,F# Maj,-5.76db,4/4,33%,72%,76%,78%,4%,12%,2%,0%
+1804,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1805,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1806,2fJcCZXjaPx86LQymV6Ufu,85 BPM,A min,-25.62db,3/4,62%,16%,9%,7%,3%,21%,96%,90%
+1807,0lOQaZwX9AkAiSvObh4G70,118 BPM,E min,-7.25db,4/4,72%,54%,73%,18%,5%,30%,7%,0%
+1808,2FcxERmTy16Z6SIX31cBVc,127 BPM,G Maj,-5.62db,4/4,38%,79%,80%,56%,18%,10%,25%,0%
+1809,2vADJCsp3ptYQLfu7zMK6m,90 BPM,C min,-8.26db,3/4,47%,39%,47%,28%,3%,12%,91%,0%
+1810,2uzSJmOiZxkqZbtsUDVU9k,84 BPM,B min,-6.74db,4/4,47%,60%,90%,40%,22%,8%,0%,0%
+1811,6wN4nT2qy3MQc098yL3Eu9,74 BPM,C# Maj,-5.11db,4/4,68%,74%,69%,22%,11%,8%,3%,0%
+1812,3xm1puvbLw7uDKiYwEG64Y,138 BPM,G Maj,-9.27db,4/4,63%,60%,88%,73%,40%,10%,7%,0%
+1813,2HotTAoFiOYTeMZkNs1Ces,92 BPM,C Maj,-7.24db,4/4,69%,50%,80%,64%,5%,12%,21%,1%
+1814,1zjeFTit9mbG6IZTc8AAoz,133 BPM,G Maj,-10.96db,4/4,58%,43%,74%,5%,4%,14%,16%,3%
+1815,5eqiMMbaeUZ32Q7sS00H35,130 BPM,A Maj,-6.22db,4/4,65%,60%,96%,65%,18%,21%,7%,0%
+1816,4jHl6jgzZOnS4nGamPZ1Uk,106 BPM,G Maj,-8.77db,3/4,82%,38%,80%,43%,7%,10%,86%,0%
+1817,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1818,5GOqOUVv7vk0jWDdNToHtA,95 BPM,B min,-7.76db,4/4,59%,66%,67%,45%,4%,35%,17%,0%
+1819,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+1820,0JOkg9ppNx6yXxVBqfDpB4,144 BPM,G Maj,-18db,4/4,39%,21%,93%,90%,16%,11%,90%,88%
+1821,5zNW5ARjYhJQJz1AChP33n,130 BPM,A Maj,-3.42db,4/4,64%,69%,95%,89%,9%,17%,1%,0%
+1822,1YZBMqN8kHaaRPXpQTC3kb,84 BPM,G# min,-3.1db,4/4,58%,70%,61%,51%,3%,8%,34%,0%
+1823,1GpDcABDptCpIOALmD2S5f,135 BPM,C# Maj,-4.26db,4/4,63%,60%,80%,81%,24%,6%,7%,0%
+1824,1aHy1ipWQRNauI0ee9uYfi,126 BPM,D# min,-9.88db,4/4,78%,16%,89%,44%,13%,12%,52%,9%
+1825,4EBR01Mp4tjpKMYjKNpj2f,100 BPM,D Maj,-9.06db,4/4,44%,48%,66%,32%,5%,50%,36%,0%
+1826,6NjWCIYu1W8xa3HIvcIhd4,100 BPM,G# Maj,-8.43db,4/4,73%,41%,93%,52%,7%,13%,16%,0%
+1827,0IEGGuRHP8ylbCXausRF9p,170 BPM,E Maj,-4.64db,4/4,59%,80%,44%,43%,4%,18%,31%,0%
+1828,722NAIXkI6WRNvu9O7JkdH,151 BPM,F# min,-3.41db,4/4,76%,78%,49%,17%,3%,15%,0%,0%
+1829,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+1830,0UUpyDCYzkziXJ1TM4awHM,98 BPM,E min,-6.15db,4/4,66%,83%,76%,51%,8%,9%,0%,0%
+1831,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1832,1fOkmYW3ZFkkjIdOZSf596,177 BPM,B min,-11.01db,3/4,78%,23%,39%,49%,6%,11%,95%,0%
+1833,1XBYiRV30ykHw5f4wm6qEn,143 BPM,F# Maj,-4.59db,4/4,87%,76%,48%,12%,4%,14%,1%,0%
+1834,3QaPy1KgI7nu9FJEQUgn6h,148 BPM,F# min,-12db,4/4,92%,25%,47%,13%,4%,17%,61%,0%
+1835,3lUYO6zvXI88sNDpyKvIJ2,126 BPM,C# min,-7.56db,4/4,74%,59%,73%,15%,17%,10%,12%,0%
+1836,1PEMFdaHfWv4EXUc26Y3dz,73 BPM,B min,-6.68db,4/4,50%,73%,49%,66%,7%,15%,25%,0%
+1837,7ne4VBA60CxGM75vw0EYad,109 BPM,C# Maj,-4.17db,4/4,96%,81%,55%,37%,4%,16%,21%,0%
+1838,4gqMVEJSaL5nNeKj5WmVoT,104 BPM,B Maj,-2.6db,4/4,56%,81%,83%,83%,5%,22%,6%,0%
+1839,068AyhyvE67qMRsMXLqAnd,136 BPM,G min,-10.33db,4/4,77%,57%,67%,50%,3%,15%,3%,1%
+1840,6muW8cSjJ3rusKJ0vH5olw,75 BPM,F min,-5.24db,4/4,65%,52%,76%,9%,10%,11%,7%,0%
+1841,3HH6ACm3OG9DtmfUGq3jOg,125 BPM,B Maj,-7.05db,4/4,39%,83%,73%,39%,8%,22%,18%,80%
+1842,,,,,,,,,,,,,
+1843,2hrycoFU1mZw6YPvMcn8yC,160 BPM,A# min,-3.77db,4/4,83%,63%,64%,35%,3%,9%,16%,0%
+1844,0SvJ8uRCTtm0OMe8uS2kgY,110 BPM,G Maj,-5.93db,4/4,35%,59%,87%,45%,4%,6%,2%,0%
+1845,4Pt80KvnL6e8DCd9QVx7Ht,144 BPM,B Maj,-8.06db,4/4,69%,63%,91%,67%,36%,12%,52%,0%
+1846,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+1847,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+1848,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+1849,2lmCr96Mhghs0KUVABx4RP,84 BPM,A# min,-7.02db,4/4,43%,62%,74%,88%,10%,7%,2%,0%
+1850,3PR8q1B3b6hsJlwphfgCZK,160 BPM,G# Maj,-6.44db,4/4,54%,47%,72%,16%,34%,32%,6%,0%
+1851,23TPP1eeElFfvYVznskwCY,117 BPM,G Maj,-5.16db,4/4,60%,59%,80%,58%,5%,16%,9%,0%
+1852,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1853,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1854,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1855,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1856,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1857,76RCMJF5jwXmDOeddjCAoc,135 BPM,F min,-4.04db,4/4,50%,87%,73%,70%,18%,20%,11%,0%
+1858,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1859,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1860,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+1861,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1862,5tCwupjT5bc13y5rsaVUlX,82 BPM,G Maj,-4.91db,5/4,52%,98%,28%,4%,26%,43%,1%,2%
+1863,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1864,7px3lmdf4nzNEMt6zaQ5yJ,105 BPM,D# min,-6.33db,4/4,70%,73%,65%,34%,16%,8%,24%,0%
+1865,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1866,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+1867,65jlYicEsKIeY2eWvs1rVf,100 BPM,F# min,-10.81db,4/4,30%,44%,61%,64%,35%,12%,4%,0%
+1868,0gkcpSoxI0caL3JB6FQEcK,112 BPM,G Maj,-11.95db,4/4,45%,48%,87%,31%,27%,16%,50%,0%
+1869,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1870,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1871,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+1872,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+1873,1rv46mRwDqMEhOBZ7vODg3,93 BPM,E Maj,-11db,3/4,82%,22%,33%,36%,3%,34%,88%,0%
+1874,5XavG243Z1rGBcraRw3Lub,115 BPM,F Maj,-9.84db,4/4,16%,41%,78%,53%,3%,27%,77%,0%
+1875,6YSq1MHTG61D0p489GqcLA,140 BPM,A Maj,-11.86db,4/4,67%,20%,54%,36%,4%,9%,93%,0%
+1876,2UX821OXiIYGp67PdMqmoe,111 BPM,F min,-5.79db,4/4,62%,86%,82%,63%,20%,11%,52%,0%
+1877,0vxNNwfm6zj8ISkCi6INFR,145 BPM,G Maj,-9.84db,4/4,71%,43%,52%,35%,3%,12%,83%,0%
+1878,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1879,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+1880,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1881,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1882,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1883,4jHl6jgzZOnS4nGamPZ1Uk,106 BPM,G Maj,-8.77db,3/4,82%,38%,80%,43%,7%,10%,86%,0%
+1884,7IYXHtvFO3qZfe6In07sKE,137 BPM,G# min,-6.37db,4/4,57%,81%,72%,93%,3%,35%,0%,0%
+1885,3SKH53SPQbEnZR4cJPVaz2,111 BPM,A Maj,-5.81db,4/4,87%,55%,80%,65%,4%,12%,10%,0%
+1886,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1887,0faQCjG6E7VecroZfmSA3J,157 BPM,C Maj,-6db,3/4,53%,86%,53%,90%,38%,23%,13%,0%
+1888,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+1889,5kDgJffgJ0lYHTSiaXFWNw,162 BPM,B min,-5.09db,3/4,79%,74%,42%,13%,5%,19%,2%,0%
+1890,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+1891,4u6STUR9fsBQozW1S40BTN,105 BPM,A# min,-4.65db,4/4,59%,73%,60%,55%,8%,12%,6%,14%
+1892,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+1893,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1894,4QpyVaTtVoRkCcMRxF5Guh,140 BPM,B Maj,-4.36db,4/4,40%,86%,83%,18%,14%,25%,6%,75%
+1895,2QykdmhiTUVebwEes4xAa4,128 BPM,G# min,-14.95db,4/4,38%,28%,76%,97%,16%,14%,90%,78%
+1896,,,,,,,,,,,,,
+1897,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1898,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1899,1Hpi15mLG17wxnYgCHOk4B,163 BPM,C# min,-6.07db,4/4,36%,81%,64%,66%,10%,18%,2%,0%
+1900,6IT0imWqG8TkVQhyMZEVm7,134 BPM,B min,-6.48db,5/4,52%,82%,38%,4%,33%,62%,19%,0%
+1901,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1902,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+1903,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+1904,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1905,4yWCzA44dQyp0SoeM81bUb,76 BPM,A# Maj,-9.18db,4/4,58%,30%,56%,46%,4%,11%,91%,0%
+1906,6MzofobZt2dm0Kf1hTThFz,150 BPM,A# Maj,-6.54db,4/4,85%,56%,67%,84%,4%,10%,50%,1%
+1907,6fp6v8lRQ4jdn0RJW60V90,172 BPM,G min,-5.33db,4/4,46%,74%,56%,17%,12%,11%,17%,0%
+1908,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1909,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+1910,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+1911,28msSatetrovOEpsQoOiad,79 BPM,C Maj,-9db,4/4,47%,31%,50%,28%,3%,11%,79%,0%
+1912,63mVyFn9QO2ia83uB8dScL,132 BPM,F Maj,-20.66db,3/4,56%,12%,17%,3%,4%,11%,98%,91%
+1913,4Bm0C5xYPXhDo1X15rrwVd,106 BPM,B Maj,-15.74db,3/4,50%,45%,51%,18%,4%,11%,8%,90%
+1914,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+1915,2O4arHwdvPxOBuDCOd8ASR,78 BPM,D min,-17.38db,4/4,34%,4%,30%,36%,4%,10%,95%,93%
+1916,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+1917,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+1918,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1919,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1920,0eSTu4biq1whc8u8SaS3F3,94 BPM,B min,-10.4db,4/4,62%,46%,51%,32%,13%,11%,45%,0%
+1921,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+1922,3lcUQs5nyrjoHpQR9Vo2aA,121 BPM,F min,-13.17db,4/4,76%,83%,76%,92%,4%,9%,0%,1%
+1923,7sas54JdscoH2wPCs3KPl1,108 BPM,C Maj,-6.06db,4/4,32%,72%,90%,28%,18%,10%,50%,0%
+1924,6lZAFQo9lPPIqybUAuhEDJ,82 BPM,B Maj,-7.7db,4/4,47%,48%,64%,52%,3%,11%,26%,0%
+1925,6eo9xRtWnD9QCFYJ4IS7pa,85 BPM,F min,-4.2db,4/4,51%,78%,43%,64%,21%,88%,2%,0%
+1926,1Dp12QxugzTQHwnTvL5Gji,120 BPM,C# Maj,-9.43db,4/4,44%,79%,76%,61%,5%,13%,0%,88%
+1927,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+1928,70khXICDeTTxgYtw3EysKH,120 BPM,E Maj,-6.41db,4/4,73%,46%,72%,46%,3%,21%,25%,0%
+1929,6IPwKM3fUUzlElbvKw2sKl,130 BPM,G Maj,-12.81db,4/4,83%,37%,57%,24%,3%,16%,11%,18%
+1930,51rfRCiUSvxXlCSCfIztBy,116 BPM,A# Maj,-7.51db,3/4,89%,41%,53%,34%,3%,13%,66%,0%
+1931,1H3okcaLb3IjLnp05KrRaD,155 BPM,G# Maj,-4.44db,4/4,59%,88%,56%,18%,28%,36%,0%,0%
+1932,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1933,7ne4VBA60CxGM75vw0EYad,109 BPM,C# Maj,-4.17db,4/4,96%,81%,55%,37%,4%,16%,21%,0%
+1934,4mhDjLuXWYYb8dDUy08u04,91 BPM,C min,-7.64db,4/4,38%,66%,72%,73%,3%,14%,72%,0%
+1935,0nkaFEJ2iF3zxE3n7FQIuK,109 BPM,G# Maj,-14.34db,4/4,39%,32%,45%,44%,3%,11%,86%,90%
+1936,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+1937,722NAIXkI6WRNvu9O7JkdH,151 BPM,F# min,-3.41db,4/4,76%,78%,49%,17%,3%,15%,0%,0%
+1938,0JOkg9ppNx6yXxVBqfDpB4,144 BPM,G Maj,-18db,4/4,39%,21%,93%,90%,16%,11%,90%,88%
+1939,2CBuonjhTSzjzDBKNhjxlF,140 BPM,D# min,-8.29db,4/4,63%,56%,79%,90%,12%,14%,75%,0%
+1940,627teoJpK7qZOxRRY8TNnv,169 BPM,D# Maj,-9.72db,4/4,67%,65%,54%,64%,6%,6%,9%,0%
+1941,,,,,,,,,,,,,
+1942,7daGugofgBVQN2TGIrlFjO,138 BPM,A# Maj,-6.15db,4/4,58%,78%,81%,58%,17%,13%,15%,0%
+1943,06dDLXf4gPbE02gvH8E6G9,61 BPM,G Maj,-27.22db,4/4,57%,5%,28%,15%,4%,10%,98%,96%
+1944,78TvkItRPxnA5S7Ok2f7Ug,130 BPM,C# Maj,-12.85db,4/4,38%,46%,73%,46%,4%,15%,0%,30%
+1945,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+1946,2yR2sziCF4WEs3klW1F38d,139 BPM,A# min,-3.81db,4/4,81%,83%,48%,50%,7%,17%,2%,1%
+1947,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+1948,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+1949,3bg2qahpZmsg5wV2EMPXIk,130 BPM,C Maj,-5.48db,4/4,80%,66%,56%,39%,4%,9%,21%,0%
+1950,1SE81pYo16nzr3vWfNzNlB,96 BPM,C# Maj,-4.86db,4/4,67%,86%,60%,42%,4%,28%,0%,0%
+1951,76YDsWGWezclVy9Z6sDGhf,132 BPM,G# Maj,-17.2db,4/4,60%,43%,95%,72%,30%,22%,1%,3%
+1952,2c7z5oRcPBbqRaBY2mLWcf,120 BPM,E min,-6.72db,4/4,84%,63%,76%,32%,10%,22%,19%,2%
+1953,0hDQV9X1Da5JrwhK8gu86p,120 BPM,G Maj,-5.19db,4/4,75%,94%,50%,12%,7%,55%,0%,32%
+1954,3IdN6RaoBu9L0fwGwfrJ5B,126 BPM,D min,-13.05db,4/4,71%,48%,80%,25%,14%,11%,46%,13%
+1955,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+1956,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+1957,5XX9oGZfgKMXdHnEp4t2JB,134 BPM,D Maj,-5.22db,4/4,67%,84%,69%,74%,18%,23%,20%,0%
+1958,72gv4zhNvRVdQA0eOenCal,123 BPM,C min,-5.13db,4/4,75%,60%,72%,45%,4%,19%,24%,0%
+1959,7b6Ni4rCGX7QoIN9vQnHZX,98 BPM,A Maj,-10.68db,4/4,60%,52%,89%,55%,26%,43%,13%,0%
+1960,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+1961,2262bWmqomIaJXwCRHr13j,95 BPM,B Maj,-10.43db,4/4,93%,41%,49%,27%,3%,19%,68%,0%
+1962,0bYg9bo50gSsH3LtXe2SQn,150 BPM,G Maj,-7.46db,4/4,95%,63%,34%,35%,4%,7%,16%,0%
+1963,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+1964,0GzqA980TSsNnqKQbIQyHn,137 BPM,F# min,-6.24db,4/4,72%,70%,68%,22%,4%,12%,34%,39%
+1965,1rv46mRwDqMEhOBZ7vODg3,93 BPM,E Maj,-11db,3/4,82%,22%,33%,36%,3%,34%,88%,0%
+1966,5lWRaa0fBxDE5yU91npPq7,108 BPM,D Maj,-4.82db,4/4,72%,91%,64%,77%,5%,14%,7%,0%
+1967,1b6G5YNi5akoOpwlqnulH8,196 BPM,G# min,-4.77db,4/4,68%,73%,61%,70%,15%,10%,2%,0%
+1968,1WVCZ2CaupXNyG0csSwXJi,129 BPM,D# min,-4.37db,4/4,57%,72%,81%,46%,30%,11%,40%,0%
+1969,7IBqHkoP94VrgYKVns4eNz,110 BPM,F# min,2.19db,4/4,83%,92%,82%,79%,7%,9%,11%,0%
+1970,0eSTu4biq1whc8u8SaS3F3,94 BPM,B min,-10.4db,4/4,62%,46%,51%,32%,13%,11%,45%,0%
+1971,2EjXfH91m7f8HiJN1yQg97,67 BPM,G# Maj,-8.75db,4/4,94%,47%,59%,90%,5%,50%,61%,0%
+1972,0X4YYZtZcvqNqYIpMd93IT,107 BPM,G min,-30.11db,4/4,73%,22%,33%,3%,4%,11%,62%,76%
+1973,2TNv2GxMpIO8AyPiD7TLxj,180 BPM,G# Maj,-5.16db,4/4,76%,77%,35%,31%,3%,13%,0%,76%
+1974,19RybK6XDbAVpcdxSbZL1o,126 BPM,C Maj,-5.45db,4/4,82%,96%,80%,96%,3%,11%,12%,2%
+1975,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+1976,5Ai06zVjoPJ48bQjn5Xmfn,108 BPM,F# min,-6.14db,4/4,45%,59%,93%,85%,24%,7%,1%,0%
+1977,7gYGLJafbrlW0OyRbcEiUg,170 BPM,F# Maj,-15db,4/4,38%,43%,60%,35%,3%,12%,79%,88%
+1978,3SKH53SPQbEnZR4cJPVaz2,111 BPM,A Maj,-5.81db,4/4,87%,55%,80%,65%,4%,12%,10%,0%
+1979,0D3rhqKBrb8XyjDsXXR9Q6,140 BPM,C Maj,-9.95db,4/4,35%,50%,63%,75%,3%,9%,96%,12%
+1980,1LY3GhF0zxIVgbYEQjCbUO,126 BPM,F# min,-4.38db,4/4,82%,72%,68%,24%,19%,16%,12%,0%
+1981,3M0lSi5WW79CXQamgSBIjx,120 BPM,G# Maj,-6.43db,4/4,86%,54%,67%,8%,4%,8%,27%,0%
+1982,4jHl6jgzZOnS4nGamPZ1Uk,106 BPM,G Maj,-8.77db,3/4,82%,38%,80%,43%,7%,10%,86%,0%
+1983,3HH6ACm3OG9DtmfUGq3jOg,125 BPM,B Maj,-7.05db,4/4,39%,83%,73%,39%,8%,22%,18%,80%
+1984,3lcUQs5nyrjoHpQR9Vo2aA,121 BPM,F min,-13.17db,4/4,76%,83%,76%,92%,4%,9%,0%,1%
+1985,1UHS8Rf6h5Ar3CDWRd3wjF,95 BPM,B min,-5.97db,4/4,88%,73%,74%,68%,4%,10%,7%,0%
+1986,0vxNNwfm6zj8ISkCi6INFR,145 BPM,G Maj,-9.84db,4/4,71%,43%,52%,35%,3%,12%,83%,0%
+1987,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+1988,2VbOYU9Gz9i6eWeSVAxRm3,90 BPM,E min,-9.28db,4/4,45%,50%,74%,27%,12%,16%,33%,0%
+1989,4Bm0C5xYPXhDo1X15rrwVd,106 BPM,B Maj,-15.74db,3/4,50%,45%,51%,18%,4%,11%,8%,90%
+1990,4fLgfaFudrtfkOzAa2rj64,85 BPM,B Maj,-13.85db,4/4,40%,15%,58%,37%,3%,27%,82%,0%
+1991,3VpY2SUf41sVpVYwLO4uyg,83 BPM,C Maj,-9.1db,1/4,58%,33%,54%,21%,3%,10%,56%,0%
+1992,4BqIT4j2xzROrC9dMlgXPT,113 BPM,G Maj,-12.75db,4/4,69%,42%,62%,38%,7%,11%,72%,9%
+1993,1XBYiRV30ykHw5f4wm6qEn,143 BPM,F# Maj,-4.59db,4/4,87%,76%,48%,12%,4%,14%,1%,0%
+1994,7HRjzOGqiKNn9dFaCNuvbX,80 BPM,A Maj,-12.62db,4/4,35%,20%,65%,63%,6%,28%,94%,0%
+1995,6GqPqEym2wiP33hzRWdFjA,92 BPM,G Maj,-15.71db,4/4,42%,28%,66%,32%,3%,13%,58%,0%
+1996,1PS9AXcHyldKbcRWhNgjOq,76 BPM,A Maj,-9.71db,4/4,65%,28%,38%,32%,3%,9%,59%,0%
+1997,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+1998,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+1999,3PwiD0JaTDiBMWDUW2hXNX,141 BPM,B min,-9.6db,4/4,69%,56%,59%,57%,5%,10%,6%,0%
+2000,,,,,,,,,,,,,
+2001,5CkGAlbGGY9Q3mMsEt2KM5,170 BPM,D min,-13.64db,4/4,46%,28%,17%,20%,4%,16%,84%,15%
+2002,4xF4ZBGPZKxECeDFrqSAG4,95 BPM,A# Maj,-26.81db,4/4,82%,9%,47%,8%,3%,44%,93%,80%
+2003,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+2004,0zKohlWGzWjWl46rg1L50I,70 BPM,B Maj,-48.49db,4/4,24%,0%,12%,4%,4%,12%,93%,94%
+2005,4bt7RdJMUicjOED9A5Div1,107 BPM,C# min,-5.99db,4/4,72%,52%,74%,13%,4%,9%,27%,0%
+2006,2F1dtbhysPtIw1BQBJl3Cn,84 BPM,G# Maj,-9.31db,4/4,29%,66%,62%,73%,3%,10%,0%,80%
+2007,23UBSdCPcsloNVmQZ508Zv,125 BPM,F# min,-3.87db,4/4,77%,76%,90%,40%,7%,8%,2%,0%
+2008,2hrycoFU1mZw6YPvMcn8yC,160 BPM,A# min,-3.77db,4/4,83%,63%,64%,35%,3%,9%,16%,0%
+2009,62bOmKYxYg7dhrC6gH9vFn,173 BPM,G# min,-5db,4/4,83%,93%,61%,86%,5%,8%,3%,0%
+2010,7ne4VBA60CxGM75vw0EYad,109 BPM,C# Maj,-4.17db,4/4,96%,81%,55%,37%,4%,16%,21%,0%
+2011,5496lks6V3fh1mZAB6IAap,127 BPM,B min,-5.41db,4/4,83%,75%,74%,72%,3%,12%,1%,0%
+2012,63mVyFn9QO2ia83uB8dScL,132 BPM,F Maj,-20.66db,3/4,56%,12%,17%,3%,4%,11%,98%,91%
+2013,18LrtjUyMolXdhGsKg2Ybu,130 BPM,B Maj,-5.2db,4/4,57%,80%,76%,81%,4%,25%,2%,38%
+2014,0nkaFEJ2iF3zxE3n7FQIuK,109 BPM,G# Maj,-14.34db,4/4,39%,32%,45%,44%,3%,11%,86%,90%
+2015,70khXICDeTTxgYtw3EysKH,120 BPM,E Maj,-6.41db,4/4,73%,46%,72%,46%,3%,21%,25%,0%
+2016,6dOtVTDdiauQNBQEDOtlAB,105 BPM,D Maj,-10.17db,4/4,97%,51%,75%,44%,4%,12%,20%,6%
+2017,42wdz3j7gstgUuhoFLCXqd,100 BPM,F# min,-7.43db,4/4,81%,52%,76%,80%,6%,8%,22%,0%
+2018,6fqbblMIytVYfUn8ra4bdV,104 BPM,C Maj,-7.52db,4/4,68%,62%,50%,37%,3%,7%,71%,0%
+2019,0JOkg9ppNx6yXxVBqfDpB4,144 BPM,G Maj,-18db,4/4,39%,21%,93%,90%,16%,11%,90%,88%
+2020,00Srvq2BtgG9afXY9kzB1V,140 BPM,D# min,-6.84db,4/4,72%,68%,92%,72%,44%,12%,26%,0%
+2021,5xeSd4HgzrYpNLEf3LfYLK,167 BPM,C# Maj,-4.69db,4/4,81%,68%,83%,68%,36%,23%,0%,0%
+2022,5b3XJ1pjrHO5JtY2PcTjnI,81 BPM,C# Maj,-4.97db,4/4,78%,53%,89%,21%,21%,8%,3%,0%
+2023,6IPwKM3fUUzlElbvKw2sKl,130 BPM,G Maj,-12.81db,4/4,83%,37%,57%,24%,3%,16%,11%,18%
+2024,1Cbl3Yq8rHo7hhDQmLQagU,93 BPM,D Maj,-3.51db,4/4,85%,81%,68%,76%,5%,9%,28%,1%
+2025,09JkIMWSVYi143LoWnY1fa,187 BPM,G# min,-4.45db,4/4,65%,64%,61%,68%,5%,8%,4%,0%
+2026,3A4S0o95OxSgRbqEnEMsn4,77 BPM,C# Maj,-5.64db,4/4,64%,63%,88%,24%,17%,13%,1%,0%
+2027,4rgbEgEpTNdWU5Kj4mkZmb,92 BPM,C min,-8.68db,4/4,56%,54%,82%,69%,27%,9%,7%,3%
+2028,06dDLXf4gPbE02gvH8E6G9,61 BPM,G Maj,-27.22db,4/4,57%,5%,28%,15%,4%,10%,98%,96%
+2029,3HwXUvdZXDxmvABSsxhGmO,172 BPM,G min,-28.34db,3/4,55%,8%,8%,4%,5%,10%,88%,94%
+2030,67smGwuPEtA6GAfeweAVNO,130 BPM,C# Maj,-4.71db,4/4,79%,77%,68%,50%,3%,10%,9%,73%
+2031,4Pt80KvnL6e8DCd9QVx7Ht,144 BPM,B Maj,-8.06db,4/4,69%,63%,91%,67%,36%,12%,52%,0%
+2032,6MzofobZt2dm0Kf1hTThFz,150 BPM,A# Maj,-6.54db,4/4,85%,56%,67%,84%,4%,10%,50%,1%
+2033,52uQ2fQqo9hX5H4p7Niq0b,90 BPM,A# min,-3.74db,4/4,74%,47%,76%,33%,4%,12%,11%,15%
+2034,1zTEP1xkU5bZbJSIXoA8wq,160 BPM,C Maj,-12.35db,3/4,54%,22%,30%,36%,4%,11%,93%,93%
+2035,2VyvDGdcVY04cNYou9MFVX,132 BPM,C Maj,-6.49db,4/4,79%,47%,78%,54%,17%,15%,7%,0%
+2036,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+2037,00JJGQ8FNMFmJE1ZXTp1x0,91 BPM,C# Maj,-9.11db,3/4,49%,57%,80%,88%,21%,10%,49%,1%
+2038,3MldGIMtPcupNBI4Dnxolr,198 BPM,B Maj,-8.37db,5/4,68%,70%,37%,72%,14%,14%,17%,0%
+2039,27AutLvnusrHlvxUdHJOtA,102 BPM,G min,-6.86db,4/4,44%,69%,76%,69%,6%,9%,14%,7%
+2040,5FzsdlFgAFN1aSe9YwoN6s,85 BPM,F min,-4.93db,4/4,62%,76%,60%,84%,32%,2%,28%,0%
+2041,4opORvHYNtCXxF6c5yOpMC,117 BPM,C# Maj,-8.72db,4/4,60%,56%,85%,70%,28%,16%,33%,1%
+2042,16iNDnZBlHEDPg8ZBAX9LC,131 BPM,F# min,-4.6db,4/4,58%,92%,88%,79%,9%,5%,8%,0%
+2043,4N5Kj0F1lViUsoyiICAdti,125 BPM,B min,-10.08db,4/4,34%,54%,82%,60%,3%,8%,24%,0%
+2044,3yLREZjJFnYLAN4aOUqqP6,65 BPM,B Maj,-14.09db,3/4,56%,41%,39%,59%,24%,12%,48%,1%
+2045,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+2046,6J7xEQtzvdCzEcwdDVRSR1,115 BPM,F# Maj,-8.77db,4/4,42%,64%,73%,86%,3%,12%,57%,0%
+2047,74sqFS4eNKJnHAldLufGt3,137 BPM,C# Maj,-11.1db,5/4,49%,50%,44%,43%,7%,8%,3%,0%
+2048,0YDM0oOxp3GLTqWQ6yrcfA,95 BPM,C# Maj,-7.84db,4/4,61%,59%,71%,62%,14%,19%,42%,0%
+2049,5z7l1HQ9KzqT8yLcViRG1L,160 BPM,A# Maj,-1.21db,4/4,59%,84%,63%,39%,4%,36%,46%,0%
+2050,5HVAC7q0ZhOt2PWoXKiYqj,106 BPM,C# Maj,-3.69db,4/4,47%,76%,80%,96%,12%,30%,50%,0%
+2051,7BOgyrWA7OURpdJ9YksRFR,80 BPM,A# Maj,-7.14db,5/4,64%,65%,55%,65%,22%,16%,24%,0%
+2052,2FPkwNQjd5oHcaf3IqLERp,125 BPM,B Maj,-8.99db,4/4,48%,68%,69%,66%,19%,18%,6%,0%
+2053,37PVItglTwpHi9nq0ftOjg,97 BPM,B min,-7.81db,4/4,58%,50%,53%,48%,24%,12%,71%,0%
+2054,0sMRKQTCPf3zHOrF33nL2t,103 BPM,F min,-5.43db,4/4,44%,70%,78%,67%,6%,10%,26%,1%
+2055,3EQBdqK2OrtpIlYtzPGmDv,85 BPM,F Maj,-1.92db,4/4,40%,87%,53%,78%,27%,53%,15%,0%
+2056,0HRVRl4bHTe0fkng5HAxpg,192 BPM,B Maj,-4.78db,4/4,34%,87%,64%,79%,35%,19%,14%,2%
+2057,0OQg3fO14Q7Ooek8MyVGG0,112 BPM,D Maj,-8.26db,4/4,38%,71%,88%,50%,5%,11%,71%,0%
+2058,2825Zwd0EnzzDxFOhDsRQC,125 BPM,G# Maj,-6.12db,5/4,65%,62%,55%,79%,11%,11%,38%,0%
+2059,7ySC0IjVS1PMEdsZOvsUK2,148 BPM,D Maj,-4.56db,4/4,67%,84%,75%,84%,9%,9%,14%,0%
+2060,6e0YUaVAfDxUabmybOjguy,114 BPM,F Maj,-4.62db,4/4,76%,79%,75%,90%,4%,7%,31%,0%
+2061,2BomZRBUyqwOIh0n2tzEFb,103 BPM,F min,-4.75db,4/4,37%,72%,50%,81%,10%,13%,57%,0%
+2062,2irQkcW7o3v0tZoGZrtUsO,100 BPM,G# Maj,-3.46db,4/4,67%,81%,46%,82%,21%,20%,37%,0%
+2063,1r1Xz7MMUotaxziNtqcstp,110 BPM,C# Maj,-5.94db,4/4,59%,83%,83%,67%,4%,10%,5%,0%
+2064,5PV1NwHNWUnfXgyuBNSZUz,145 BPM,C# min,-5.42db,4/4,38%,66%,75%,66%,15%,58%,56%,0%
+2065,3ICnJToTtdSdxmAeUGWR35,88 BPM,G Maj,-4.72db,4/4,48%,83%,41%,44%,6%,35%,17%,0%
+2066,2AEYg3MVGEiElaRNGbf92H,110 BPM,F Maj,-7.63db,4/4,49%,89%,80%,69%,12%,11%,35%,7%
+2067,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+2068,6JvWMLscnWYkgX1zPufIGT,118 BPM,F min,-5.64db,4/4,73%,87%,78%,92%,5%,41%,14%,39%
+2069,7IsfOkZyazuFl8CCTbOZ59,117 BPM,G# min,-5.37db,4/4,62%,84%,52%,57%,8%,32%,4%,0%
+2070,6XBIOtdSL47qn201KKNCA0,113 BPM,F# min,-7.16db,4/4,71%,72%,90%,55%,16%,7%,12%,0%
+2071,0NjnHSiy9He3Y0jKQCSA8P,127 BPM,B Maj,-7.52db,4/4,45%,81%,88%,66%,6%,7%,1%,25%
+2072,,,,,,,,,,,,,
+2073,4Tgt15dD8P2m68HYxA8DCG,116 BPM,D Maj,-9.43db,4/4,61%,50%,51%,25%,10%,11%,50%,0%
+2074,13VXuHw3O8Yt7VwRIDqSo4,102 BPM,G# min,-3.37db,3/4,71%,63%,50%,64%,14%,19%,68%,3%
+2075,2ldVwqBEVqF2Tz10gAvQgt,145 BPM,F Maj,-5.21db,4/4,45%,78%,66%,90%,4%,13%,38%,0%
+2076,6jkKVuezUWNp6Nf8NUDcg2,96 BPM,E min,-6.85db,4/4,23%,53%,65%,72%,5%,50%,29%,0%
+2077,1136eJrkWsDvReASbjLTaU,106 BPM,C min,-11.27db,5/4,72%,38%,62%,29%,12%,18%,13%,0%
+2078,1VAvcpdmmCXn5aesUJx1dW,153 BPM,G# Maj,-6.99db,5/4,36%,75%,60%,61%,10%,16%,35%,20%
+2079,,,,,,,,,,,,,
+2080,7eTrak4jRwWpUGJeahihH6,158 BPM,G# Maj,-6.59db,4/4,40%,57%,55%,30%,4%,9%,73%,0%
+2081,3slS7lqMNQMfUm9UMKerTa,123 BPM,B min,-21.56db,4/4,27%,32%,91%,30%,23%,68%,19%,0%
+2082,2UeO75Gt5uHpMwHjaCicyD,96 BPM,G# min,-5db,4/4,27%,73%,72%,47%,17%,11%,12%,0%
+2083,1R0kS7knSj1YHdGCHLNLwu,100 BPM,F Maj,-4.92db,4/4,48%,60%,30%,32%,4%,13%,47%,0%
+2084,6OieTz3MN0a5jXsnkI6biW,152 BPM,A Maj,-6db,4/4,48%,68%,64%,63%,3%,19%,35%,0%
+2085,,,,,,,,,,,,,
+2086,,,,,,,,,,,,,
+2087,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+2088,2zXJvE5Meld9VukCGivZf6,137 BPM,C Maj,-8.54db,4/4,13%,89%,78%,92%,14%,7%,17%,3%
+2089,4UX4mtkdkvk6zFacXuwu6F,90 BPM,D Maj,-3.76db,3/4,29%,82%,80%,80%,6%,4%,29%,0%
+2090,1AhteYWd9IcNqUXEktUlfi,140 BPM,F# Maj,-6.35db,4/4,52%,50%,79%,76%,7%,10%,25%,0%
+2091,4K5lYtD8r6OFRbzWc6MwCS,123 BPM,C# Maj,-5.7db,4/4,66%,90%,72%,91%,16%,88%,15%,0%
+2092,12PaIk7YwXcdXNlCimDGyv,71 BPM,C# min,-15.71db,4/4,30%,14%,23%,20%,3%,10%,86%,55%
+2093,4AE6CfWFTIgScPBnC7kINc,116 BPM,D# Maj,-5.64db,4/4,46%,85%,77%,88%,10%,12%,58%,0%
+2094,,,,,,,,,,,,,
+2095,3WPzEZuheeplDhp8yb6XBu,95 BPM,C# min,-8.29db,4/4,42%,53%,69%,54%,3%,14%,56%,0%
+2096,39I8t43OotxYXjhEG1jfxZ,112 BPM,B min,-6.41db,4/4,51%,80%,83%,84%,4%,18%,60%,0%
+2097,7qOz39Vf36tIsjacgUQfw9,142 BPM,B min,-11.39db,4/4,18%,66%,61%,91%,40%,21%,60%,0%
+2098,0ILRqFmpGBcGOyxYubSBrH,127 BPM,E Maj,-4.37db,4/4,16%,93%,80%,96%,7%,26%,44%,0%
+2099,7BvQTLZXj9XDG9BZnGLZtO,113 BPM,F Maj,-5.31db,4/4,56%,76%,78%,77%,4%,26%,71%,0%
+2100,5Grz7JLmK1FOX9zyhLTxEM,117 BPM,C# min,-5.94db,4/4,28%,83%,62%,80%,20%,7%,32%,0%
+2101,42Xw4kv2Wy75UugmQ4kv8P,124 BPM,D Maj,-4.8db,4/4,62%,71%,78%,43%,6%,10%,26%,0%
+2102,7KEJRt01ujZ6HMm21r83pI,95 BPM,B Maj,-11.77db,4/4,47%,61%,50%,49%,20%,33%,13%,0%
+2103,3DZeVUBiR6JAIPOJGck9i0,114 BPM,B min,-18.1db,4/4,51%,40%,76%,51%,7%,12%,29%,91%
+2104,7qhzcU70dJCeVejVJdgXOh,142 BPM,F# Maj,-2.86db,3/4,16%,82%,69%,44%,4%,9%,48%,0%
+2105,1mMgmv1eOMVnJl7rZ2FobB,157 BPM,C# Maj,-5.97db,4/4,24%,94%,72%,62%,20%,33%,2%,55%
+2106,2WHM3orrvvqziSkG0xp8sy,128 BPM,C# Maj,-5.23db,4/4,63%,92%,50%,75%,7%,6%,2%,5%
+2107,7hJZk66cpMn5RtVX8E0k9L,112 BPM,C# Maj,-11.86db,4/4,36%,40%,93%,19%,7%,8%,12%,91%
+2108,7fFn11xIGWvBaQXMtcMefK,105 BPM,G Maj,-2.86db,4/4,20%,73%,88%,71%,14%,14%,66%,0%
+2109,0mqPL6k28m6d7nACw71QpZ,112 BPM,C Maj,-12.83db,4/4,16%,52%,76%,39%,5%,3%,11%,90%
+2110,3mMpc9fs05DzNvTmTkPnXS,66 BPM,B min,-21.6db,4/4,35%,3%,23%,9%,4%,11%,98%,68%
+2111,7bUXvMBQ5K1FHa3FHh4mEL,125 BPM,B min,-7.26db,4/4,50%,74%,74%,82%,4%,13%,8%,2%
+2112,50NCxUqddcyxH4S1ZP48HI,140 BPM,C min,-4.87db,4/4,28%,62%,78%,62%,23%,20%,29%,0%
+2113,3AyBILZ8DEk6tfUjgMluj9,130 BPM,E Maj,-17.02db,4/4,45%,33%,84%,98%,12%,8%,14%,68%
+2114,10y7iW3rc8bzGbhAC3mNPA,112 BPM,C Maj,-8.63db,4/4,70%,53%,78%,44%,6%,41%,51%,0%
+2115,1DpQnyQ9a6sfbdTEGmy0ah,106 BPM,A# min,-5.7db,4/4,47%,81%,81%,59%,22%,27%,18%,2%
+2116,3MB59co3ilp4yI9HC6T3Rq,115 BPM,F min,-5.54db,4/4,29%,72%,81%,88%,4%,9%,66%,0%
+2117,7G0AvHL2rV9h4s4YlbvG66,95 BPM,A# min,-12.66db,4/4,27%,51%,90%,21%,15%,13%,6%,0%
+2118,7z6hRIcqXAq4Di7ThZpd5d,99 BPM,G# min,-8.4db,3/4,27%,47%,59%,17%,37%,13%,89%,0%
+2119,629DixmZGHc7ILtEntuiWE,125 BPM,B min,-7.98db,4/4,85%,40%,89%,94%,6%,6%,5%,8%
+2120,,,,,,,,,,,,,
+2121,,,,,,,,,,,,,
+2122,4UDGX1loNNJkNOpJoyKmgT,116 BPM,F# min,-6.57db,4/4,59%,74%,77%,69%,5%,10%,41%,0%
+2123,4ib1Q762gsndrhKi41aEKV,100 BPM,A min,-8.34db,4/4,25%,53%,79%,29%,7%,10%,36%,0%
+2124,664mVcYRMDsVnOg95R71Ti,119 BPM,E min,-6.12db,4/4,63%,65%,75%,35%,6%,8%,26%,23%
+2125,2RVUFIMYxs6HeebK7i2Ff3,92 BPM,C# Maj,-6.57db,3/4,53%,75%,50%,85%,30%,14%,64%,1%
+2126,7JQHHRDabKMDbtT3vEeWFS,135 BPM,C Maj,-7.81db,4/4,63%,69%,55%,92%,20%,14%,70%,0%
+2127,,,,,,,,,,,,,
+2128,0Ewg1RgM0fwguThyu4gSCR,89 BPM,D# min,-24.06db,4/4,15%,6%,15%,4%,5%,10%,99%,99%
+2129,,,,,,,,,,,,,
+2130,,,,,,,,,,,,,
+2131,2rFPUq8a7gvO0IuaN9LpV7,90 BPM,C min,-10.02db,4/4,66%,32%,92%,61%,44%,11%,80%,0%
+2132,1qxKva4IzWde7m2jLpZvDU,113 BPM,F min,-7.68db,4/4,66%,64%,87%,54%,4%,7%,1%,0%
+2133,1GkgefEnKNxNrkumzahx8Y,155 BPM,C Maj,-7.81db,4/4,51%,72%,75%,89%,8%,9%,84%,1%
+2134,79iZzBSEsS1bjm5eoOtvyx,127 BPM,G# Maj,-8.22db,4/4,58%,70%,72%,89%,6%,18%,2%,82%
+2135,2plbrEY59IikOBgBGLjaoe,158 BPM,F# min,-7.78db,3/4,100%,59%,52%,54%,3%,12%,31%,0%
+2136,1aKHgPHMKTJEmLkKmcbe3a,140 BPM,F# min,-6.61db,4/4,50%,75%,74%,61%,13%,11%,41%,0%
+2137,5vNRhkKd0yEAg8suGBpjeY,149 BPM,C min,-4.48db,4/4,96%,78%,78%,94%,26%,36%,3%,0%
+2138,7aDMFgZUc0N0cNx8kKIYJW,86 BPM,C# Maj,-8.96db,4/4,37%,70%,62%,56%,8%,7%,23%,0%
+2139,0TRKtVvsVmOkXCvnq5AgNE,78 BPM,A# Maj,-7.04db,4/4,65%,60%,46%,27%,3%,10%,8%,0%
+2140,0Mh4TBn6iBLkp99TeuFQHw,108 BPM,E Maj,-8.39db,4/4,50%,55%,69%,74%,4%,26%,16%,0%
+2141,77NrC6fFG13ghP4aRUDtUm,140 BPM,C Maj,-11.63db,4/4,23%,53%,78%,79%,7%,8%,78%,86%
+2142,,,,,,,,,,,,,
+2143,4S1VYqwfkLit9mKVY3MXoo,137 BPM,A min,-9.47db,4/4,82%,48%,49%,33%,3%,24%,42%,0%
+2144,4REIf9qYO6DkxdjASVlvTj,180 BPM,A# min,-1.06db,4/4,25%,99%,68%,66%,5%,24%,2%,68%
+2145,0ZFZFEaoOSl0SPQOWuEMBG,142 BPM,B Maj,-3.94db,4/4,31%,80%,48%,47%,4%,28%,23%,0%
+2146,18X3P9cJXhy5J4a18OKpXw,135 BPM,C# min,-5.43db,4/4,23%,83%,91%,93%,5%,7%,7%,0%
+2147,7lfKDrUyiEmXuWOyKoLNes,130 BPM,B min,-4.22db,4/4,52%,93%,93%,95%,4%,11%,1%,7%
+2148,4o6AIByelb82YnLyqccMjl,95 BPM,G# Maj,-5.31db,4/4,57%,85%,82%,90%,18%,12%,2%,0%
+2149,5G2f63n7IPVPPjfNIGih7Q,113 BPM,D# Maj,-4.09db,4/4,91%,91%,67%,72%,6%,30%,10%,0%
+2150,7zirrBlMqY5UD6DIQa0Lut,130 BPM,C min,-5.53db,4/4,61%,95%,54%,53%,3%,16%,1%,62%
+2151,36KN8cwJgQmIOYaUS0Lvvu,118 BPM,F# Maj,-0.48db,4/4,71%,90%,62%,51%,3%,12%,21%,3%
+2152,7IEIHZwwsNKRFyPwCeLSFN,172 BPM,D Maj,-12db,4/4,48%,26%,67%,70%,4%,9%,88%,89%
+2153,,,,,,,,,,,,,
+2154,,,,,,,,,,,,,
+2155,4LIM4qmpHABufePRrLWbiM,79 BPM,C# Maj,-26.12db,3/4,66%,2%,45%,6%,5%,13%,99%,77%
+2156,71fkXsB3jlNbQ8p2R4HEsc,110 BPM,B min,-5.15db,4/4,42%,59%,53%,23%,3%,21%,47%,0%
+2157,55HpRb1dWGT3JeX9RpDpLa,138 BPM,C# min,-6.8db,4/4,65%,72%,80%,69%,8%,9%,10%,0%
+2158,7BPZtCe56DQqlYQBPolZHX,120 BPM,F Maj,-7.26db,4/4,47%,39%,60%,14%,3%,11%,70%,0%
+2159,7urX5Towwy0ShCrFNNYQ8O,130 BPM,C min,-13db,4/4,35%,32%,93%,56%,7%,12%,92%,83%
+2160,4NJtlrapihMPiOlZ396uus,121 BPM,F# min,-11.09db,4/4,44%,37%,65%,44%,8%,9%,40%,0%
+2161,2JBQEoveACAMlN96gfpDCf,152 BPM,A Maj,-9.07db,4/4,55%,32%,50%,29%,3%,8%,72%,0%
+2162,,,,,,,,,,,,,
+2163,2BpJChAusZZ2mBvNgGWivl,140 BPM,C# Maj,-7.09db,4/4,36%,60%,76%,82%,4%,10%,30%,0%
+2164,3sw9BEjnXLe1jJh5iSjUv5,130 BPM,A Maj,-7.33db,4/4,23%,53%,50%,24%,4%,10%,52%,0%
+2165,1XVDJbBZ7FcCrA6HeC6tvx,110 BPM,F# min,-4.44db,4/4,16%,87%,87%,89%,4%,4%,13%,0%
+2166,4GHFvuf7QjMcPJXkWUqOGI,86 BPM,F Maj,-5.13db,4/4,32%,85%,62%,31%,4%,20%,4%,0%
+2167,67C6LHREqmytK923Ak6R0I,136 BPM,A Maj,-10db,3/4,61%,38%,32%,19%,3%,9%,47%,0%
+2168,,,,,,,,,,,,,
+2169,3SkP3AZJMioKVcKvHMeSQR,95 BPM,C# Maj,-7db,4/4,37%,57%,67%,93%,2%,36%,6%,0%
+2170,2gcMYiZzzmzoF8PPAfL3IO,85 BPM,A min,-9.46db,4/4,81%,61%,50%,30%,3%,20%,61%,1%
+2171,434mi9vv7kfxX5Yn6lOqtn,120 BPM,D# min,-9.14db,4/4,63%,40%,55%,17%,3%,22%,45%,0%
+2172,6EYHNKOgV327N9mKrRoWyI,124 BPM,C Maj,-5.31db,4/4,26%,84%,71%,54%,7%,25%,1%,0%
+2173,39382sUtIOwIXftX0i76do,114 BPM,A min,-5.71db,4/4,73%,67%,76%,33%,4%,12%,25%,0%
+2174,6Vhst432fSvsduUkqFruiq,100 BPM,E Maj,-7.73db,4/4,45%,53%,75%,71%,2%,12%,64%,0%
+2175,5jPzqn06dl82jNePm1vP8I,100 BPM,G# Maj,-9.67db,4/4,51%,34%,60%,48%,3%,9%,86%,0%
+2176,5002v9QNZDwdyb1XEbE14x,114 BPM,A min,-7.89db,4/4,40%,38%,55%,29%,3%,10%,69%,0%
+2177,50hHmIk4oYu9VVFwBZq6gh,171 BPM,D min,-14.78db,3/4,47%,19%,12%,6%,4%,11%,99%,26%
+2178,,,,,,,,,,,,,
+2179,2l5hFCsQv69faq0CoWGo6w,151 BPM,C# min,-4.65db,4/4,43%,80%,45%,75%,4%,4%,9%,1%
+2180,2X7jfQnEMQYYmvkhr6mzS9,118 BPM,D min,-3.78db,4/4,69%,97%,77%,97%,4%,31%,2%,9%
+2181,14to2M16u4ZHS1DnYEof0J,145 BPM,C min,-4.97db,4/4,45%,80%,66%,93%,3%,21%,12%,0%
+2182,1QOTN2V7aTLJApBq4e1C9z,123 BPM,B Maj,-6.92db,4/4,49%,42%,55%,16%,3%,9%,38%,0%
+2183,5dvpUxL202GmCJKxuh2uN6,110 BPM,A min,-8.03db,4/4,48%,35%,66%,22%,3%,18%,65%,0%
+2184,0B2OJQTIl4g41Y8Olrk35T,120 BPM,D Maj,-6.23db,4/4,32%,62%,82%,51%,12%,37%,43%,0%
+2185,18iNc20gnxf7Zyq4owIfg9,120 BPM,C Maj,-4.14db,4/4,16%,93%,85%,64%,3%,10%,18%,4%
+2186,5vmq0z6tf18AoGoQwwnt7J,111 BPM,G Maj,-6.06db,4/4,39%,76%,70%,44%,3%,10%,23%,0%
+2187,3Gupp8x0uDuRyzBwQfxGgC,105 BPM,D# min,-4.62db,4/4,50%,79%,70%,61%,2%,35%,4%,0%
+2188,6NjWCIYu1W8xa3HIvcIhd4,100 BPM,G# Maj,-8.43db,4/4,73%,41%,93%,52%,7%,13%,16%,0%
+2189,6uPnrBgweGOcwjFL4ItAvV,126 BPM,G# min,-2.95db,4/4,78%,90%,86%,74%,5%,8%,9%,2%
+2190,2xEueHJJmZmrL2lOPhytTt,93 BPM,E min,-6.71db,4/4,47%,56%,44%,24%,3%,17%,51%,0%
+2191,14mT8BCOXiUUcGlb7KujkT,104 BPM,C min,-7.5db,3/4,66%,56%,39%,57%,3%,10%,68%,1%
+2192,5rwQGBi5mdmU7dqNM7x9Oo,115 BPM,F Maj,-2.49db,4/4,46%,91%,40%,64%,6%,29%,71%,0%
+2193,,,,,,,,,,,,,
+2194,,,,,,,,,,,,,
+2195,02QbzXiylVXa0Wshy9fFu9,138 BPM,E Maj,-7.81db,4/4,17%,39%,52%,15%,3%,11%,60%,0%
+2196,6llTd2dojPVPbEPMD2gZ4x,130 BPM,G Maj,-6.07db,4/4,45%,76%,81%,94%,5%,14%,11%,0%
+2197,,,,,,,,,,,,,
+2198,3uLb3akDowAYWp5QbbKN0w,86 BPM,B min,-4.15db,4/4,68%,86%,68%,70%,8%,63%,25%,0%
+2199,37MVt3eFSgsXxKAondRTxt,103 BPM,B Maj,-7.5db,4/4,44%,79%,88%,95%,4%,12%,13%,41%
+2200,4spU506Cj6QPWXDZJRs3NR,101 BPM,B min,-12.07db,4/4,32%,48%,68%,94%,4%,8%,20%,0%
+2201,5CA12CUaIcFa87eYdSaSJ2,186 BPM,C# Maj,-2.38db,4/4,24%,94%,46%,87%,7%,12%,0%,24%
+2202,1taoLdnliQUxA3WtufvFNh,114 BPM,C min,-6.99db,4/4,22%,68%,87%,37%,4%,11%,1%,0%
+2203,,,,,,,,,,,,,
+2204,,,,,,,,,,,,,
+2205,0J5U0PNiGsg7nS3UvoaHJF,129 BPM,B Maj,-11.11db,4/4,56%,25%,37%,24%,3%,14%,78%,0%
+2206,2ovmxicVnz3wRxLHSDI3Ns,132 BPM,C# min,-4.11db,4/4,47%,93%,88%,96%,4%,6%,12%,22%
+2207,,,,,,,,,,,,,
+2208,4j4Vq3xmismNym4x3EjKb7,155 BPM,F Maj,-9.4db,4/4,27%,70%,36%,23%,5%,23%,54%,90%
+2209,4hLzXT32qnbrqbdn1UWbWn,146 BPM,A min,-8.09db,4/4,43%,84%,71%,72%,4%,14%,3%,0%
+2210,2Lumsra3kuU61wXkEKzKaK,173 BPM,B min,-8.7db,4/4,82%,62%,47%,78%,3%,19%,3%,0%
+2211,2ixL38z3G45lPCsR74oJ9a,125 BPM,A min,-5.33db,4/4,35%,46%,63%,24%,3%,15%,18%,0%
+2212,1QabyF4CYvn1PxFZdnhFGK,182 BPM,C# Maj,-6.53db,4/4,30%,71%,52%,83%,3%,6%,20%,0%
+2213,5bY4g7cLyasuuhthJ7Mdlh,117 BPM,G Maj,-6.91db,3/4,73%,42%,37%,8%,4%,11%,87%,0%
+2214,1eTqeKlRKtMW9YXQzwMr9U,108 BPM,A min,-5.09db,4/4,42%,57%,56%,25%,3%,11%,29%,0%
+2215,,,,,,,,,,,,,
+2216,26KhLgFuPymkm1uiZkc6Rv,158 BPM,A Maj,-7.4db,4/4,77%,52%,47%,30%,3%,9%,79%,2%
+2217,6s8DcPi9rizkWTm3EXfmY5,172 BPM,B Maj,-7.34db,4/4,45%,83%,67%,83%,5%,4%,0%,18%
