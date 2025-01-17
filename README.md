@@ -1,3 +1,5 @@
+[PRESENTACION]([https://ads.tiktok.com/business/creativecenter/inspiration/popular/music/pc/en](https://www.canva.com/design/DAGbt9eZfMg/8cCSD5XMgUnMjFabptKSJw/view?utm_content=DAGbt9eZfMg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3cf1300bf5))
+
 # Análisis de Tendencias Musicales: TikTok y Spotify
 
 Este repositorio contiene 4 notebooks, uno que explora la relación entre las tendencias musicales de TikTok y su impacto en Spotify y el resto que se limitan a proporcionar los datos para el análisis. El proyecto busca identificar las características que definen una canción viral en TikTok y comprobar si estas tendencias se reflejan en el éxito de las canciones en Spotify, pero sobre todo, analizar las características musicales de las canciones que componen los rankings del estudio.
